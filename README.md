@@ -21,11 +21,10 @@
 
 ```bash
 FAQ-RAG/
-├── docs/                # 项目文档
-├── data/                # FAQ 数据、知识库文本
-├── rag_engine/          # 检索增强生成模块
-├── faq_engine/          # FAQ 匹配模块
-├── personalization/     # 用户画像与个性化模块
-├── edge_deploy/         # 轻量模型配置与推理部署脚本
-├── app.py               # 主服务入口
+├── FAQ/                 # FAQ 数据、知识库文本
+├── templates/           # 前端代码，包含样式
+├── FAQ_data.ipynb       # 将文本数据存储到MySQL
+├── RAG.py               # RAG的匹配模块
+├── deepseek_app.py      # 主运行程序，包含模型加载和输出控制
+├── faq_retriever.py     # FAQ匹配模块
 └── README.md            # 项目说明文档
