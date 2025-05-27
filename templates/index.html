@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #chat {
+            border: 1px solid #ccc;
+            padding: 10px;
+            height: 400px;
+            overflow-y: scroll;
+            margin-bottom: 10px;
+        }
+        #question {
+            width: 80%;
+            padding: 10px;
+        }
+        #ask-btn {
+            padding: 10px 20px;
+        }
+        .think {
+            color: #888;
+            font-style: italic;
+            margin-bottom: 10px;
+            white-space: pre-wrap; /* 保留换行和空格 */
+        }
+        .answer {
+            color: #000;
+            font-weight: bold;
+            margin-top: 10px;
+            white-space: pre-wrap; /* 保留换行和空格 */
+        }
+        .divider {
+            border-top: 1px solid #ccc;
+            margin: 10px 0;
+        }
+        .section-title {
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chatbot</h1>
+    <div id="chat"></div>
+    <input type="text" id="question" placeholder="Ask a question...">
+    <button id="ask-btn">Ask</button>
+
+    <script>
+        const chatDiv = document.getElementById('chat');
+        const questionInput = document.getElementById('question');
+        const askBtn = document.getElementById('ask-btn');
+
+        askBtn.addEventListener('click', () => {
+            const question = questionInput.value.trim();
+            if (!question) return;
+
+            // 清空输入框
+            questionInput.value = '';
+
+            // 显示用户的问题
+            chatDiv.innerHTML += `<div><strong>You:</strong> ${question}</div>`;
+            chatDiv.innerHTML += `<div><strong>AI:</strong> </div>`;
+
+            // 创建 EventSource 来接收流式响应
+            const eventSource = new EventSource(`/ask?question=${encodeURIComponent(question)}`);
+
+            let isThinkComplete = false; // 标记“思考”部分是否完成
+            let thinkContainer = null; // 用于存储“思考”部分的容器
+            let answerContainer = null; // 用于存储“回答”部分的容器
+
+            eventSource.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                const lastAIMessage = chatDiv.lastElementChild;
+
+                if (data.type === "think") {
+                    if (!isThinkComplete) {
+                        // 如果是第一次接收“思考”部分，添加标题和容器
+                        lastAIMessage.innerHTML += `<div class="section-title">思考过程:</div>`;
+                        thinkContainer = document.createElement('div');
+                        thinkContainer.className = 'think';
+                        lastAIMessage.appendChild(thinkContainer);
+                        isThinkComplete = true;
+                    }
+                    // 将内容追加到“思考”容器中
+                    thinkContainer.textContent += data.content;
+                } else if (data.type === "answer") {
+                    if (!answerContainer) {
+                        // 如果是第一次接收“回答”部分，添加分隔线、标题和容器
+                        lastAIMessage.innerHTML += `<div class="divider"></div>`;
+                        lastAIMessage.innerHTML += `<div class="section-title">回答:</div>`;
+                        answerContainer = document.createElement('div');
+                        answerContainer.className = 'answer';
+                        lastAIMessage.appendChild(answerContainer);
+                    }
+                    // 将内容追加到“回答”容器中
+                    answerContainer.textContent += data.content;
+                }
+
+                // 滚动到底部
+                chatDiv.scrollTop = chatDiv.scrollHeight;
+            };
+
+            eventSource.onerror = function() {
+                eventSource.close();
+            };
+        });
+    </script>
+</body>
+</html>
