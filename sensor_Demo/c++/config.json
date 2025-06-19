@@ -1,0 +1,19 @@
+{
+  "serial": {
+    "port": "/dev/ttyACM0",
+    "baudrate": 115200,
+    "timeout": 2
+  },
+  "mqtt": {
+    "broker": "mqtt.iksns.net",
+    "port": 1883,
+    "topic": "smart/mattress/data",
+    "username": "iotua",
+    "password": "Vhwwhfy48vqHv6"
+  },
+  "camera": {
+    "width": 640,
+    "height": 640
+  },
+  "interval": 30
+}
