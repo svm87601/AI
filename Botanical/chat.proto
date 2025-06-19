@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package chat;
+
+service ChatService {
+  // 客户端发送 ChatRequest（包含 question），服务端返回 ChatResponse 的流
+  rpc Chat (ChatRequest) returns (stream ChatResponse);
+}
+
+// ChatRequest：客户端一次性发送问题（不做流式），直接拿回一个双向流
+message ChatRequest {
+  // 唯一会话ID，如果想保持上下文，你可以基于此做会话区分
+  string session_id = 1;
+  // 用户提问文本
+  string question   = 2;
+}
+
+// ChatResponse：分为三种类型
+message ChatResponse {
+  oneof payload {
+    // 服务端首先会下发若干 text_chunk
+    TextChunk  text_chunk  = 1;
+
+    // 文本发送完毕后，开始下发音频分片
+    AudioChunk audio_chunk = 2;
+
+    // 整个会话结束后给一个结束信号
+    Done       done        = 3;
+  }
+}
+
+// 文本分片
+message TextChunk {
+  string text = 1;      // 一段“增量”文本
+  bool   is_last = 2;   // 本条是最后一次文本分片
+}
+
+// 音频分片
+message AudioChunk {
+  bytes data = 1;       // 原始 wav/PCM 分片 (已打包好 wav header 片段＋音频 PCM)
+  bool  is_last = 2;    // 是否最后一次音频分片
+}
+
+// 完成标志
+message Done {
+  string info = 1;      // 比如 "END"
+}

@@ -1,0 +1,9 @@
+dlib==19.24.6
+grpcio==1.70.0
+numpy==1.23.1
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+protobuf==6.31.1
+Requests==2.32.4
+sounddevice==0.5.2
+soundfile==0.13.1
