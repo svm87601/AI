@@ -1,0 +1,3147 @@
+{
+  "1": {
+    "question": "播种机的保养周期一般是多久？",
+    "answer": "建议每季度进行一次全面保养，包括清洁、润滑和部件检查。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\1.wav"
+  },
+  "2": {
+    "question": "收割机的刀片多久需要更换一次？",
+    "answer": "根据使用频率，一般每季收割结束后更换一次刀片。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\2.wav"
+  },
+  "3": {
+    "question": "播种机的播种深度如何调整？",
+    "answer": "通过调节播种部件的弹簧压力或限深轮位置来调整播种深度。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\3.wav"
+  },
+  "4": {
+    "question": "收割机的液压系统如何维护？",
+    "answer": "定期检查液压油位，每半年更换一次液压油和过滤器。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\4.wav"
+  },
+  "5": {
+    "question": "播种机的种子流动性不好怎么办？",
+    "answer": "可以检查种子是否有结块，或调整播种角度部件。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\5.wav"
+  },
+  "6": {
+    "question": "收割机的发动机启动困难怎么办？",
+    "answer": "检查电池、燃油系统和启动电机，确保无故障。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\6.wav"
+  },
+  "7": {
+    "question": "播种机的电机过热怎么办？",
+    "answer": "暂停作业，检查电机负载和散热情况，必要时更换电机。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\7.wav"
+  },
+  "8": {
+    "question": "收割机的谷物损失如何减少？",
+    "answer": "通过调整收割速度和割台高度来减少谷物损失。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\8.wav"
+  },
+  "9": {
+    "question": "播种机的播种精度如何提高？",
+    "answer": "通过校准传感器和优化机械部件来提高播种精度。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\9.wav"
+  },
+  "10": {
+    "question": "收割机的传送带打滑怎么办？",
+    "answer": "检查张紧度并调整张紧装置，必要时更换传送带。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\10.wav"
+  },
+  "11": {
+    "question": "播种机的播种行距如何调整？",
+    "answer": "通过改变播种部件的间距或更换部件来调整行距。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\11.wav"
+  },
+  "12": {
+    "question": "收割机的割台如何清理？",
+    "answer": "关闭电源后，使用工具清理残留作物。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\12.wav"
+  },
+  "13": {
+    "question": "播种机的种子箱如何固定？",
+    "answer": "通过螺丝或卡扣固定，并定期检查。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\13.wav"
+  },
+  "14": {
+    "question": "收割机的谷物箱如何卸载？",
+    "answer": "通过液压卸载系统或手动操作。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\14.wav"
+  },
+  "15": {
+    "question": "播种机的电机功率多大？",
+    "answer": "根据型号不同，通常为0.5-2千瓦。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\15.wav"
+  },
+  "16": {
+    "question": "收割机的脱粒效果如何调整？",
+    "answer": "通过改变滚筒转速和间隙进行调整。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\16.wav"
+  },
+  "17": {
+    "question": "播种机的播种方向如何选择？",
+    "answer": "应根据农田布局和作物行距选择。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\17.wav"
+  },
+  "18": {
+    "question": "收割机的损失率如何计算？",
+    "answer": "通过收割前后作物重量的差异计算。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\18.wav"
+  },
+  "19": {
+    "question": "播种机的种子堵塞如何处理？",
+    "answer": "立即停机，清理堵塞部位，检查种子是否潮湿或混入杂质。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\19.wav"
+  },
+  "20": {
+    "question": "收割机的轮胎压力如何调整？",
+    "answer": "根据地面软硬程度调整，一般建议保持2-3 bar的胎压。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\20.wav"
+  },
+  "21": {
+    "question": "播种机的牵引力不足怎么办？",
+    "answer": "检查拖拉机动力输出或减少播种行数以降低负载。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\21.wav"
+  },
+  "22": {
+    "question": "收割机的粮仓满仓报警如何设置？",
+    "answer": "通过粮仓重量传感器或红外探测器触发报警信号。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\22.wav"
+  },
+  "23": {
+    "question": "播种机的覆土装置如何维护？",
+    "answer": "定期清理黏土，检查链条润滑情况，每季更换磨损部件。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\23.wav"
+  },
+  "24": {
+    "question": "收割机的振动筛堵塞怎么办？",
+    "answer": "停机后手动清理筛网，调整风量或筛片倾角以减少堵塞。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\24.wav"
+  },
+  "25": {
+    "question": "播种机的开沟器磨损如何检测？",
+    "answer": "定期测量开沟器尖端厚度，磨损超过3mm需更换。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\25.wav"
+  },
+  "26": {
+    "question": "收割机的履带松紧度如何调整？",
+    "answer": "通过张紧轮调整，保持履带下垂度在20-30mm范围内。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\26.wav"
+  },
+  "27": {
+    "question": "无人机喷洒时如何避免农药飘移？",
+    "answer": "选择适当的风速和喷洒高度，并使用合适的喷嘴。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\27.wav"
+  },
+  "28": {
+    "question": "无人机喷洒的飞行高度如何选择？",
+    "answer": "根据作物高度和喷洒需求，一般为1-3米。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\28.wav"
+  },
+  "29": {
+    "question": "无人机喷洒时如何确保农药覆盖均匀？",
+    "answer": "通过调整飞行高度和速度，并使用合适的喷洒模式。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\29.wav"
+  },
+  "30": {
+    "question": "无人机喷洒的电池续航时间多久？",
+    "answer": "根据型号和负载，一般为15-30分钟。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\30.wav"
+  },
+  "31": {
+    "question": "无人机喷洒时如何避免障碍物？",
+    "answer": "通过搭载的传感器和避障算法进行实时调整。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\31.wav"
+  },
+  "32": {
+    "question": "无人机喷洒时如何设置喷洒量？",
+    "answer": "根据作物需求和农药说明书进行设置。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\32.wav"
+  },
+  "33": {
+    "question": "无人机喷洒的飞行速度如何控制？",
+    "answer": "通过遥控器或预设的飞行参数控制。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\33.wav"
+  },
+  "34": {
+    "question": "无人机喷洒时如何避免农药漂移？",
+    "answer": "选择无风或微风天气，并使用抗漂移喷嘴。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\34.wav"
+  },
+  "35": {
+    "question": "无人机喷洒的喷洒宽度如何确定？",
+    "answer": "根据无人机型号和喷嘴类型，一般为3-10米。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\35.wav"
+  },
+  "36": {
+    "question": "无人机喷洒的作业效率如何提高？",
+    "answer": "通过优化飞行路径和喷洒参数。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\36.wav"
+  },
+  "37": {
+    "question": "无人机喷洒是否适合所有作物？",
+    "answer": "需要根据作物的高度和密度选择合适的喷洒参数。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\37.wav"
+  },
+  "38": {
+    "question": "无人机喷洒时如何校准流量传感器？",
+    "answer": "通过控制软件输入标准流量值，并对比实际喷洒量进行校准。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\38.wav"
+  },
+  "39": {
+    "question": "无人机喷洒的农药混配比例如何计算？",
+    "answer": "根据亩用药量和喷洒容积，按比例稀释农药。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\39.wav"
+  },
+  "40": {
+    "question": "无人机喷洒的航线规划软件有哪些？",
+    "answer": "常用DJI Terra、Pix4D或第三方农业专用软件。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\40.wav"
+  },
+  "41": {
+    "question": "机器人监测系统能实时传输数据吗？",
+    "answer": "是的，通过无线网络可以实现实时数据传输和监控。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\41.wav"
+  },
+  "42": {
+    "question": "机器人监测系统的电池续航时间多久？",
+    "answer": "根据设备配置和工作强度，一般为4-8小时。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\42.wav"
+  },
+  "43": {
+    "question": "机器人监测系统的图像识别准确率如何？",
+    "answer": "取决于训练数据和模型的复杂程度，通常在80%-95%之间。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\43.wav"
+  },
+  "44": {
+    "question": "机器人监测系统的传感器校准周期多久？",
+    "answer": "通常为每月或每季一次，具体取决于使用频率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\44.wav"
+  },
+  "45": {
+    "question": "机器人监测系统的数据存储在哪里？",
+    "answer": "可以存储在本地SD卡或通过网络传输到云端。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\45.wav"
+  },
+  "46": {
+    "question": "机器人监测系统的图像分辨率如何调整？",
+    "answer": "通过软件界面或配置文件进行调整。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\46.wav"
+  },
+  "47": {
+    "question": "机器人监测系统的数据如何导出？",
+    "answer": "可以通过USB或网络传输导出。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\47.wav"
+  },
+  "48": {
+    "question": "机器人监测系统的防护等级是多少？",
+    "answer": "通常为IP65或IP67，适合户外环境。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\48.wav"
+  },
+  "49": {
+    "question": "机器人监测系统的数据隐私如何保护？",
+    "answer": "通过加密传输和存储保护数据隐私。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\49.wav"
+  },
+  "50": {
+    "question": "机器人监测系统的夜间监测效果如何？",
+    "answer": "需配备红外或热成像摄像头，夜间识别准确率约为70%-85%。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\50.wav"
+  },
+  "51": {
+    "question": "机器人监测系统的防水措施有哪些？",
+    "answer": "采用密封外壳、防水接头，并定期检查密封圈老化情况。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\51.wav"
+  },
+  "52": {
+    "question": "机器人监测系统的Wi-Fi信号弱如何解决？",
+    "answer": "加装信号放大器或改用4G/5G模块传输数据。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\52.wav"
+  },
+  "53": {
+    "question": "Jetson TX2适合什么农业场景？",
+    "answer": "适合在田间进行实时图像处理和作物监测。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\53.wav"
+  },
+  "54": {
+    "question": "Raspberry Pi 4能运行复杂的推理模型吗？",
+    "answer": "可以，但可能需要优化模型大小和计算效率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\54.wav"
+  },
+  "55": {
+    "question": "Jetson TX2的推理优化有哪些方法？",
+    "answer": "可以通过模型剪枝和量化来提高推理速度。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\55.wav"
+  },
+  "56": {
+    "question": "Raspberry Pi 4在农业中的主要应用是什么？",
+    "answer": "用于小型传感器数据采集和简单推理任务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\56.wav"
+  },
+  "57": {
+    "question": "Jetson TX2的功耗如何管理？",
+    "answer": "可以通过调节工作频率和关闭不必要的功能模块。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\57.wav"
+  },
+  "58": {
+    "question": "Raspberry Pi 4如何连接农业传感器？",
+    "answer": "通过GPIO接口或USB连接各种传感器。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\58.wav"
+  },
+  "59": {
+    "question": "Jetson TX2的存储容量有多大？",
+    "answer": "通常配备32GB或64GB的eMMC存储。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\59.wav"
+  },
+  "60": {
+    "question": "Raspberry Pi 4如何进行系统更新？",
+    "answer": "通过连接网络使用包管理器进行更新。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\60.wav"
+  },
+  "61": {
+    "question": "Jetson TX2支持哪些编程语言？",
+    "answer": "支持Python、C++等常见编程语言。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\61.wav"
+  },
+  "62": {
+    "question": "Raspberry Pi 4如何连接到云服务？",
+    "answer": "通过网络使用API与云服务连接。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\62.wav"
+  },
+  "63": {
+    "question": "Jetson TX2的能耗如何？",
+    "answer": "功耗相对较高，需要良好的散热。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\63.wav"
+  },
+  "64": {
+    "question": "Raspberry Pi 4适合长时间运行监测任务吗？",
+    "answer": "适合，但需要注意散热和电源稳定性。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\64.wav"
+  },
+  "65": {
+    "question": "Jetson TX2的内存容量有多大？",
+    "answer": "通常配备4GB或8GB的LPDDR4内存。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\65.wav"
+  },
+  "66": {
+    "question": "Raspberry Pi 4如何连接外部显示器？",
+    "answer": "通过HDMI接口连接显示器。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\66.wav"
+  },
+  "67": {
+    "question": "Jetson TX2支持哪些操作系统？",
+    "answer": "支持Linux系统，如Ubuntu。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\67.wav"
+  },
+  "68": {
+    "question": "Raspberry Pi 4如何连接到农业监控系统？",
+    "answer": "通过网络或接口Wi-Fi与监控系统连接。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\68.wav"
+  },
+  "69": {
+    "question": "Jetson TX2的计算能力如何？",
+    "answer": "其性能适合中等复杂度的推理任务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\69.wav"
+  },
+  "70": {
+    "question": "Raspberry Pi 4如何连接到现有的农业网络？",
+    "answer": "通过Wi-Fi或有线以太网连接。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\70.wav"
+  },
+  "71": {
+    "question": "Jetson TX2的推理速度如何优化？",
+    "answer": "通过模型量化和使用TensorRT进行优化。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\71.wav"
+  },
+  "72": {
+    "question": "Raspberry Pi 4如何设置定时任务？",
+    "answer": "通过crontab设置定时运行任务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\72.wav"
+  },
+  "73": {
+    "question": "Jetson TX2在高温环境下的稳定性如何？",
+    "answer": "需加装散热风扇或散热片，环境温度建议不超过40℃。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\73.wav"
+  },
+  "74": {
+    "question": "Raspberry Pi 4如何实现多传感器同步采集？",
+    "answer": "通过多线程编程或外部ADC扩展板实现同步。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\74.wav"
+  },
+  "75": {
+    "question": "Jetson TX2如何部署自定义模型？",
+    "answer": "将训练好的模型转换为TensorRT格式并加载到设备运行。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\75.wav"
+  },
+  "76": {
+    "question": "Raspberry Pi 4如何降低功耗？",
+    "answer": "关闭未使用的接口、降低CPU频率或使用低功耗模式。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\76.wav"
+  },
+  "77": {
+    "question": "Jetson TX2支持多摄像头输入吗？",
+    "answer": "支持，可通过USB或MIPI接口连接最多4个摄像头。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\77.wav"
+  },
+  "78": {
+    "question": "Raspberry Pi 4的GPIO接口如何防静电？",
+    "answer": "使用防静电外壳或在GPIO加装保护电路。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\78.wav"
+  },
+  "79": {
+    "question": "播种机的播种精度如何评估？",
+    "answer": "通过测量种子间距和分布均匀性。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\79.wav"
+  },
+  "80": {
+    "question": "收割机的损失率如何测量？",
+    "answer": "通过收集落在地上的作物进行重量测量。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\80.wav"
+  },
+  "81": {
+    "question": "播种机的种子传感器如何校准？",
+    "answer": "通过已知种子数量进行比对校准。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\81.wav"
+  },
+  "82": {
+    "question": "收割机的损失率如何测量？",
+    "answer": "通过收集落在地上的作物进行重量测量。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\82.wav"
+  },
+  "83": {
+    "question": "播种机的播种方向如何选择？",
+    "answer": "应根据农田布局和作物行距选择。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\83.wav"
+  },
+  "84": {
+    "question": "收割机的谷物箱如何卸载？",
+    "answer": "通过液压卸载系统或手动操作。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\84.wav"
+  },
+  "85": {
+    "question": "播种机的电机功率多大？",
+    "answer": "根据型号不同，通常为0.5-2千瓦。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\85.wav"
+  },
+  "86": {
+    "question": "收割机的脱粒效果如何调整？",
+    "answer": "通过改变滚筒转速和间隙进行调整。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\86.wav"
+  },
+  "87": {
+    "question": "无人机喷洒的喷洒宽度如何确定？",
+    "answer": "根据无人机型号和喷嘴类型，一般为3-10米。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\87.wav"
+  },
+  "88": {
+    "question": "机器人监测系统的防护等级是多少？",
+    "answer": "通常为IP65或IP67，适合户外环境。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\88.wav"
+  },
+  "89": {
+    "question": "Jetson TX2的计算能力如何？",
+    "answer": "其性能适合中等复杂度的推理任务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\89.wav"
+  },
+  "90": {
+    "question": "Raspberry Pi 4如何连接到现有的农业网络？",
+    "answer": "通过Wi-Fi或有线以太网连接。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\90.wav"
+  },
+  "91": {
+    "question": "播种机的播种精度如何评估？",
+    "answer": "通过测量种子间距和分布均匀性。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\91.wav"
+  },
+  "92": {
+    "question": "收割机的损失率如何计算？",
+    "answer": "通过收割前后作物重量的差异计算。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\92.wav"
+  },
+  "93": {
+    "question": "无人机喷洒的作业效率如何提高？",
+    "answer": "通过优化飞行路径和喷洒参数。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\93.wav"
+  },
+  "94": {
+    "question": "机器人监测系统的数据隐私如何保护？",
+    "answer": "通过加密传输和存储保护数据隐私。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\94.wav"
+  },
+  "95": {
+    "question": "Jetson TX2的推理速度如何优化？",
+    "answer": "通过模型量化和使用TensorRT进行优化。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\95.wav"
+  },
+  "96": {
+    "question": "Raspberry Pi 4如何设置定时任务？",
+    "answer": "通过crontab设置定时运行任务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\96.wav"
+  },
+  "97": {
+    "question": "播种机的种子传感器如何校准？",
+    "answer": "通过已知种子数量进行比对校准。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\97.wav"
+  },
+  "98": {
+    "question": "收割机的损失率如何测量？",
+    "answer": "通过收集落在地上的作物进行重量测量。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\98.wav"
+  },
+  "99": {
+    "question": "无人机喷洒是否适合所有作物？",
+    "answer": "需要根据作物的高度和密度选择合适的喷洒参数。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\99.wav"
+  },
+  "100": {
+    "question": "机器人监测系统的电池续航时间多久？",
+    "answer": "根据设备配置和工作强度，一般为4-8小时。整理成只有U，S的对话",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\100.wav"
+  },
+  "101": {
+    "question": "壤土、砂土和粘土的持水能力差异是什么？",
+    "answer": "壤土持水性适中（约20-40%），适合多数作物；砂土持水差（<10%），需频繁灌溉；粘土持水强（>40%），但易积水导致根系缺氧 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\101.wav"
+  },
+  "102": {
+    "question": "土壤团聚体如何影响结构稳定性？",
+    "answer": "水稳性团聚体含量高能增强土壤抗侵蚀能力，减少孔隙堵塞，提升透水性和透气性 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\102.wav"
+  },
+  "103": {
+    "question": "如何通过容重判断土壤压实程度？",
+    "answer": "壤土容重>1.6 g/cm³表明严重压实，会限制根系生长和水分下渗 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\103.wav"
+  },
+  "104": {
+    "question": "有机质对土壤肥力的核心作用是什么？",
+    "answer": "有机质能提升阳离子交换量（CEC），促进养分吸附与释放，并改善土壤结构 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\104.wav"
+  },
+  "105": {
+    "question": "pH值6.5-7.5为何被认为是多数作物的理想范围？",
+    "answer": "此范围内氮、磷、钾有效性最高，且微生物活性强，利于养分循环 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\105.wav"
+  },
+  "106": {
+    "question": "如何快速修复酸化土壤（pH<5.5）？",
+    "answer": "施用石灰（CaO）中和酸性，同时增施有机肥提升缓冲能力 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\106.wav"
+  },
+  "107": {
+    "question": "滴灌技术在盐碱地改良中有何优势？",
+    "answer": "滴灌可精准控制水量，减少表层盐分累积，并通过淋洗作用降低土壤盐渍化 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\107.wav"
+  },
+  "108": {
+    "question": "喷灌为何不适合多风地区？",
+    "answer": "风速>4 m/s时，喷灌水滴易飘散，导致分布不均，浪费率达20%-30% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\108.wav"
+  },
+  "109": {
+    "question": "家庭农场如何提升灌溉效率至70%以上？",
+    "answer": "采用滴灌+土壤湿度传感器联动系统，结合轮作减少无效蒸腾 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\109.wav"
+  },
+  "110": {
+    "question": "土壤湿度传感器为何需定期校准？",
+    "answer": "长期使用后传感器可能受盐分结晶或土壤压实干扰，导致读数偏差超过5% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\110.wav"
+  },
+  "111": {
+    "question": "如何通过传感器数据优化灌溉时间？",
+    "answer": "设定阈值（如田间持水量的60%），当传感器显示低于阈值时自动启动灌溉 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\111.wav"
+  },
+  "112": {
+    "question": "粘土层传感器埋设深度建议是多少？",
+    "answer": "建议30-50 cm，监测深层滞留水，避免浅层干湿交替干扰 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\112.wav"
+  },
+  "113": {
+    "question": "干旱地区如何选择灌溉方式？",
+    "answer": "优先滴灌（效率90%+），配合覆盖秸秆减少蒸发，比漫灌节水50%以上 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\113.wav"
+  },
+  "114": {
+    "question": "如何通过土壤剖面判断肥力差异？",
+    "answer": "观察腐殖质层（A层）厚度，厚度>20 cm表明有机质丰富；若B层（淀积层）紧实则需深耕改良 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\114.wav"
+  },
+  "115": {
+    "question": "兵团经营模式为何灌溉效率更高？",
+    "answer": "规模化管理便于统一采用滴灌技术，且劳动力培训充分，技术执行标准更严格 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\115.wav"
+  },
+  "116": {
+    "question": "砂土种植番茄如何避免水分胁迫？",
+    "answer": "采用高频滴灌（每天2-3次），每次少量供水，并增施生物炭提升保水性 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\116.wav"
+  },
+  "117": {
+    "question": "传感器显示含水量异常偏高，可能原因是什么？",
+    "answer": "检查是否传感器接触根系或石块造成干扰，或土壤局部积水导致读数失真 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\117.wav"
+  },
+  "118": {
+    "question": "如何通过孔隙度判断土壤健康？",
+    "answer": "总孔隙度>50%为优质土壤，毛管孔隙占比过高（>70%）易涝，非毛管孔隙不足则透气差 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\118.wav"
+  },
+  "119": {
+    "question": "滴灌与地下渗灌的成本差异？",
+    "answer": "滴灌设备成本约2000-3000元/亩，地下渗灌因埋管需翻耕，成本增加40%-60% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\119.wav"
+  },
+  "120": {
+    "question": "漫灌适合哪些特定作物？",
+    "answer": "水稻、芦苇等耐水作物，或低洼盐碱地冲洗改土场景 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\120.wav"
+  },
+  "121": {
+    "question": "如何通过土壤质地三角图判断土壤类型？",
+    "answer": "根据砂粒、粉粒、黏粒比例定位三角图区域，例如壤土需满足粉粒>30%且三者比例均衡 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\121.wav"
+  },
+  "122": {
+    "question": "黏土改良为何常用秸秆还田？",
+    "answer": "秸秆分解后增加有机质，促进团聚体形成，缓解黏土板结问题 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\122.wav"
+  },
+  "123": {
+    "question": "速效钾与缓效钾的区别及检测意义？",
+    "answer": "速效钾（水溶性+交换性）反映即时供钾能力，缓效钾（矿物态）表征潜在储量，两者总和指导施肥量 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\123.wav"
+  },
+  "124": {
+    "question": "如何通过光谱技术快速测定土壤有机质？",
+    "answer": "近红外光谱（NIRS）可非破坏性分析有机质含量，精度达R²>0.85 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\124.wav"
+  },
+  "125": {
+    "question": "滴灌带堵塞的主要原因及预防措施？",
+    "answer": "物理堵塞（泥沙）、化学堵塞（肥料结晶）、生物堵塞（藻类），需定期酸洗（pH<4）和过滤系统维护 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\125.wav"
+  },
+  "126": {
+    "question": "喷灌系统的压力控制范围是多少？",
+    "answer": "低压喷灌（0.15-0.3 MPa）适合蔬菜，高压喷灌（0.4-0.7 MPa）用于大田作物 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\126.wav"
+  },
+  "127": {
+    "question": "如何利用遥感技术监测区域土壤湿度？",
+    "answer": "通过Sentinel-1卫星雷达数据反演地表介电常数，空间分辨率可达10米 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\127.wav"
+  },
+  "128": {
+    "question": "土壤湿度传感器如何与气象数据联动？",
+    "answer": "结合ET₀蒸散模型预测需水量，当传感器显示含水量<田间持水量60%且未来3天无雨时触发灌溉 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\128.wav"
+  },
+  "129": {
+    "question": "合作社模式下如何推广智能灌溉？",
+    "answer": "通过“企业+合作社+农户”联合体统一采购设备，降低单户成本，并提供技术培训 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\129.wav"
+  },
+  "130": {
+    "question": "如何设计盐碱地滴灌施肥方案？",
+    "answer": "采用“少量多次”原则，优先施用硫酸钾型复合肥，并在灌溉周期末增加淡水淋洗环节 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\130.wav"
+  },
+  "131": {
+    "question": "传感器显示干旱但作物未萎蔫，可能原因是什么？",
+    "answer": "检查传感器埋设深度是否偏离根系层，或是否存在根系分泌物导致局部湿润 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\131.wav"
+  },
+  "132": {
+    "question": "黏土地块为何频繁出现渍害？",
+    "answer": "黏土渗透系数<0.01 cm/h，排水能力差，需深挖明沟（深度>80 cm）辅助排水 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\132.wav"
+  },
+  "133": {
+    "question": "电容式与电阻式土壤传感器的优劣？",
+    "answer": "电容式响应快、寿命长（>5年），但价格高；电阻式易受盐分干扰，需每月校准 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\133.wav"
+  },
+  "134": {
+    "question": "传统漫灌与精准灌溉的节水潜力差异？",
+    "answer": "精准灌溉（如滴灌）可节水40%-60%，且提高水分利用效率至1.5 kg/m³以上 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\134.wav"
+  },
+  "135": {
+    "question": "卷积神经网络如何优化灌溉决策？",
+    "answer": "通过分析作物冠层图像识别胁迫症状，结合传感器数据预测未来24小时需水量 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\135.wav"
+  },
+  "136": {
+    "question": "物联网系统如何实现多地块协同灌溉？",
+    "answer": "基于LoRa无线网络传输数据，云端平台统一调度水泵和阀门，支持移动端远程控制 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\136.wav"
+  },
+  "137": {
+    "question": "小农户采纳智能灌溉的障碍因素？",
+    "answer": "初期投资高（设备成本>2000元/亩）、技术认知不足，需政府补贴（如覆盖30%成本）推动 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\137.wav"
+  },
+  "138": {
+    "question": "农业社会化服务如何助力节水技术普及？",
+    "answer": "合作社提供“托管式”智能灌溉服务，按亩收费，降低个体农户的技术门槛和资金压力 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\138.wav"
+  },
+  "139": {
+    "question": "暴雨后砂土地块如何快速排水？",
+    "answer": "开挖“井”字形排水沟（间距20 m），配合抽水泵强制排水，避免根系缺氧超过48小时 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\139.wav"
+  },
+  "140": {
+    "question": "干旱预警下如何调整滴灌频率？",
+    "answer": "将灌溉周期从3天缩短至2天，并增加夜间灌溉比例至60%，减少蒸发损失 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\140.wav"
+  },
+  "141": {
+    "question": "砂土改良为何推荐施用膨润土？",
+    "answer": "膨润土具有强吸水性（膨胀倍数>15倍），可提升砂土持水能力至20%以上 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\141.wav"
+  },
+  "142": {
+    "question": "如何通过土壤孔隙度计算田间持水量？",
+    "answer": "田间持水量（%）≈总孔隙度×（1 - 重力水比例），例如总孔隙度45%且重力水占30%时，田间持水量为31.5% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\142.wav"
+  },
+  "143": {
+    "question": "国家土壤肥力监测站网的核心职能是什么？",
+    "answer": "长期定位监测土壤有机质、pH值及养分动态，建立覆盖全国的数据库以指导精准施肥 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\143.wav"
+  },
+  "144": {
+    "question": "人为土壤肥力与自然肥力的主要差异？",
+    "answer": "人为肥力受耕作、施肥等管理措施影响显著，而自然肥力主要依赖气候和生物等原生成土因素 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\144.wav"
+  },
+  "145": {
+    "question": "如何设计自动灌溉系统的触发阈值？",
+    "answer": "基于作物种类设定土壤湿度下限（如小麦为田间持水量的50%），结合气象数据动态调整 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\145.wav"
+  },
+  "146": {
+    "question": "滴灌施肥中肥料溶液的pH控制范围？",
+    "answer": "建议维持pH 6.0-7.5以避免滴头堵塞，并提升磷、铁等养分有效性 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\146.wav"
+  },
+  "147": {
+    "question": "如何利用遥感数据反演区域土壤湿度？",
+    "answer": "通过微波遥感（如SMAP卫星）获取地表发射率数据，建立介电常数与含水量的回归模型（R²>0.8）。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\147.wav"
+  },
+  "148": {
+    "question": "土壤湿度传感器数据异常波动如何排查？",
+    "answer": "检查传感器周围是否存在裂缝或动物洞穴导致空气侵入，并校验温度补偿算法 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\148.wav"
+  },
+  "149": {
+    "question": "如何评估不同灌溉方式对地下水补给的影响？",
+    "answer": "漫灌渗漏损失可达30%-50%，而滴灌仅5%-10%，可通过 lysimeter 实验量化差异 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\149.wav"
+  },
+  "150": {
+    "question": "黏土区葡萄种植为何推荐垄作？",
+    "answer": "垄作可增加表面积促进排水，将根系层含水量控制在饱和持水量的60%-80% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\150.wav"
+  },
+  "151": {
+    "question": "传感器显示湿度恒定为0%，可能故障原因？",
+    "answer": "检查电路连接是否断开，或传感器探针是否被腐蚀断裂，需用万用表检测电阻值 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\151.wav"
+  },
+  "152": {
+    "question": "砂土区如何减少氮肥淋失？",
+    "answer": "采用水肥一体化技术，分3-4次少量施用，结合覆盖作物（如苜蓿）吸收残留氮 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\152.wav"
+  },
+  "153": {
+    "question": "滴灌与渗灌对盐渍土改良效果差异？",
+    "answer": "滴灌通过表层湿润淋洗盐分，渗灌则从地下抬升湿润锋，后者更易导致表层积盐 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\153.wav"
+  },
+  "154": {
+    "question": "TDR与FDR土壤传感器的测量原理区别？",
+    "answer": "TDR通过电磁波传播时间计算介电常数，精度高但成本高；FDR基于频率变化，适合田间连续监测 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\154.wav"
+  },
+  "155": {
+    "question": "国家灌溉农田数据集的精度如何？",
+    "answer": "2016年数据集省级尺度精度87%，地市尺度59%，可用于宏观农业水资源管理 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\155.wav"
+  },
+  "156": {
+    "question": "合作社推广智能灌溉的补贴模式？",
+    "answer": "部分地区提供设备购置补贴（如覆盖40%成本），并配套低息贷款支持基础设施改造 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\156.wav"
+  },
+  "157": {
+    "question": "洪水后黏土地块如何快速恢复耕作？",
+    "answer": "立即开沟排水（间距<10 m），并施用石膏（CaSO₄·2H₂O）改良土壤结构 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\157.wav"
+  },
+  "158": {
+    "question": "干旱预警下如何调整滴灌施肥策略？",
+    "answer": "减少氮肥比例，增加腐植酸类抗旱剂，并将灌溉时间调整为夜间（蒸发损失降低40%）。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\158.wav"
+  },
+  "159": {
+    "question": "如何利用机器学习优化传感器网络布局？",
+    "answer": "通过随机森林模型分析历史数据，识别关键监测区域，减少传感器部署密度达30% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\159.wav"
+  },
+  "160": {
+    "question": "区块链技术如何保障灌溉数据可信度？",
+    "answer": "将传感器数据上链存证，防止人为篡改，适用于跨区域水资源分配争议 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\160.wav"
+  },
+  "161": {
+    "question": "如何通过土壤颗粒分析报告判断质地类型？",
+    "answer": "若黏粒（<0.002 mm）含量>35%，则为黏土；砂粒（>0.05 mm）占比>70%则为砂土；三者比例接近则归为壤土 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\161.wav"
+  },
+  "162": {
+    "question": "冻融作用如何影响土壤结构稳定性？",
+    "answer": "反复冻融会破坏团聚体，导致表层土壤松散化，增加风蚀风险，需通过覆盖秸秆缓解 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\162.wav"
+  },
+  "163": {
+    "question": "国家土壤肥力监测站网的核心监测指标有哪些？",
+    "answer": "包括有机质、全氮、速效磷、速效钾、pH值及阳离子交换量（CEC），覆盖全国100+监测点 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\163.wav"
+  },
+  "164": {
+    "question": "人为土壤肥力提升的关键措施？",
+    "answer": "增施有机肥（年施用量>2 t/ha）、轮作豆科作物、采用保护性耕作减少侵蚀 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\164.wav"
+  },
+  "165": {
+    "question": "调亏灌溉技术在葡萄种植中的应用要点？",
+    "answer": "开花后适度控水（土壤湿度维持田间持水量50%-60%），促进根系下扎，提升抗旱性 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\165.wav"
+  },
+  "166": {
+    "question": "水肥一体化技术如何减少氮素损失？",
+    "answer": "通过滴灌精准控制施肥深度至根系活跃层（20-40 cm），减少氨挥发和硝态氮淋失 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\166.wav"
+  },
+  "167": {
+    "question": "如何利用遥感数据优化区域灌溉计划？",
+    "answer": "基于MODIS植被指数（NDVI）和地表温度反演蒸散量（ET），识别水分胁迫区域并动态调整灌溉优先级 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\167.wav"
+  },
+  "168": {
+    "question": "多层传感器数据如何指导分根区灌溉？",
+    "answer": "若表层（0-20 cm）含水量<60%而深层（40-60 cm）充足，则优先灌溉浅层根系区 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\168.wav"
+  },
+  "169": {
+    "question": "如何评估灌溉技术对地下水补给的影响？",
+    "answer": "通过 lysimeter 实验测定渗漏量，漫灌渗漏损失可达30%-50%，而滴灌仅5%-10% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\169.wav"
+  },
+  "170": {
+    "question": "盐碱地改良中滴灌与暗管排水的协同机制？",
+    "answer": "滴灌淋洗表层盐分，暗管（埋深1.2-1.5 m）快速排出深层盐水，降低地下水位盐分累积 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\170.wav"
+  },
+  "171": {
+    "question": "传感器数据漂移的常见原因？",
+    "answer": "长期受土壤盐分结晶或机械挤压导致探针接触电阻变化，需定期用标准土样校准 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\171.wav"
+  },
+  "172": {
+    "question": "黏土地块为何频繁出现渍害？",
+    "answer": "黏土渗透系数<0.01 cm/h，排水能力差，需深挖明沟（深度>80 cm）辅助排水 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\172.wav"
+  },
+  "173": {
+    "question": "TDR与FDR传感器的适用场景差异？",
+    "answer": "TDR精度高（误差<1%）适合实验室研究，FDR成本低（<200元）适合田间长期监测 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\173.wav"
+  },
+  "174": {
+    "question": "滴灌与渗灌对盐渍土改良效果差异？",
+    "answer": "滴灌通过表层湿润淋洗盐分，渗灌则从地下抬升湿润锋，后者更易导致表层积盐 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\174.wav"
+  },
+  "175": {
+    "question": "国家灌溉农田数据集的精度如何？",
+    "answer": "2016年数据集省级尺度精度87%，地市尺度59%，可用于宏观农业水资源管理 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\175.wav"
+  },
+  "176": {
+    "question": "合作社推广智能灌溉的补贴模式？",
+    "answer": "部分地区提供设备购置补贴（如覆盖40%成本），并配套低息贷款支持基础设施改造 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\176.wav"
+  },
+  "177": {
+    "question": "洪水后黏土地块如何快速恢复耕作？",
+    "answer": "立即开沟排水（间距<10 m），并施用石膏（CaSO₄·2H₂O）改良土壤结构 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\177.wav"
+  },
+  "178": {
+    "question": "干旱预警下如何调整滴灌施肥策略？",
+    "answer": "减少氮肥比例，增加腐植酸类抗旱剂，并将灌溉时间调整为夜间（蒸发损失降低40%）。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\178.wav"
+  },
+  "179": {
+    "question": "如何利用机器学习优化传感器网络布局？",
+    "answer": "通过随机森林模型分析历史数据，识别关键监测区域，减少传感器部署密度达30% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\179.wav"
+  },
+  "180": {
+    "question": "区块链技术如何保障灌溉数据可信度？",
+    "answer": "将传感器数据上链存证，防止人为篡改，适用于跨区域水资源分配争议 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\180.wav"
+  },
+  "181": {
+    "question": "如何通过土壤水分释放曲线优化灌溉？",
+    "answer": "通过分析曲线确定田间持水量与萎蔫点，当含水量降至作物最适生长区间下限时触发灌溉，减少水分胁迫 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\181.wav"
+  },
+  "182": {
+    "question": "冻融循环对砂土结构的影响机制？",
+    "answer": "冻融会破坏砂土团聚体，导致孔隙度下降10%-15%，需通过增施有机肥恢复结构稳定性 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\182.wav"
+  },
+  "183": {
+    "question": "国家土壤肥力监测站网如何指导区域施肥？",
+    "answer": "基于长期定位监测数据，发布县域级施肥建议卡，推荐氮磷钾配比及有机肥替代率 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\183.wav"
+  },
+  "184": {
+    "question": "自然肥力与人为肥力如何协同提升？",
+    "answer": "在自然肥力基础上，通过测土配方施肥和轮作制度（如豆科-禾本科轮作）实现人为干预增效 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\184.wav"
+  },
+  "185": {
+    "question": "如何利用遥感数据评估滴灌效率？",
+    "answer": "通过NDVI植被指数对比滴灌与漫灌区的作物长势，结合蒸散模型计算水分利用效率差异 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\185.wav"
+  },
+  "186": {
+    "question": "调亏灌溉在苹果种植中的节水潜力？",
+    "answer": "花后至果实膨大期控水20%，可节水30%且提高糖度1.2 Brix，但需避免采前水分波动 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\186.wav"
+  },
+  "187": {
+    "question": "土壤水分释放曲线如何指导基质槽栽培？",
+    "answer": "确定基质最佳持水量范围（如椰糠60%-70%），避免过度灌溉导致根系缺氧 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\187.wav"
+  },
+  "188": {
+    "question": "多层传感器如何优化温室番茄灌溉？",
+    "answer": "监测0-10 cm（蒸发层）和20-30 cm（根系层），当后者含水量<65%时启动滴灌 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\188.wav"
+  },
+  "189": {
+    "question": "如何结合土壤类型选择智能灌溉系统？",
+    "answer": "砂土采用高频低量滴灌（每日3次），黏土用低频高量模式，并接入气象数据动态调整 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\189.wav"
+  },
+  "190": {
+    "question": "暗管排水在盐碱地改良中的成本效益？",
+    "answer": "初期投资约3000元/亩，但可提升棉花产量40%，3年内收回成本 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\190.wav"
+  },
+  "191": {
+    "question": "传感器数据与实验室测定结果偏差超5%如何处理？",
+    "answer": "采用两点校准法（风干土与饱和土），并检查探针是否被根系缠绕干扰 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\191.wav"
+  },
+  "192": {
+    "question": "黏土地块为何灌溉后出现龟裂？",
+    "answer": "干湿交替导致结构破坏，建议覆盖秸秆减少蒸发，并分次少量灌溉 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\192.wav"
+  },
+  "193": {
+    "question": "TDR与FDR传感器的能耗差异？",
+    "answer": "TDR单次测量耗电0.5 Wh，FDR连续监测日均耗电0.2 Wh，适合太阳能供电系统 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\193.wav"
+  },
+  "194": {
+    "question": "滴灌与渗灌对地下水补给的影响差异？",
+    "answer": "滴灌深层渗漏5%-10%，渗灌通过抬升地下水位减少损失至<3% 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\194.wav"
+  },
+  "195": {
+    "question": "2016年全国灌溉农田数据集的应用价值？",
+    "answer": "用于评估区域水资源利用效率，支持农业部“用水总量控制”政策制定 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\195.wav"
+  },
+  "196": {
+    "question": "合作社智能灌溉补贴的申请流程？",
+    "answer": "需提交设备采购合同、土地经营权证明，经县级农业部门审核后拨付补贴资金 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\196.wav"
+  },
+  "197": {
+    "question": "持续阴雨后如何快速恢复设施大棚土壤通气？",
+    "answer": "揭膜晾晒3天，配合施用生物炭（500 kg/ha）改善孔隙度 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\197.wav"
+  },
+  "198": {
+    "question": "高温预警下如何调整果园灌溉策略？",
+    "answer": "增加夜间灌溉比例至70%，并覆盖稻草降低地温3-5℃ 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\198.wav"
+  },
+  "199": {
+    "question": "区块链如何保障灌溉用水权交易？",
+    "answer": "将取水许可证和传感器用水量上链，实现跨流域交易的可信溯源 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\199.wav"
+  },
+  "200": {
+    "question": "数字孪生技术在灌区管理中的应用？",
+    "answer": "构建虚拟灌区模型，模拟不同灌溉方案对地下水位和作物产量的影响，优化决策 。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\200.wav"
+  },
+  "201": {
+    "question": "这张叶片有褐色斑点，你怎么看？参数显示叶绿素指数只有 15。",
+    "answer": "褐色斑点加上叶绿素指数偏低，首先要考虑氮素缺乏导致叶绿素合成减少，引起叶片点斑和黄化。建议立即补施速效氮肥（如硝酸铵或尿素），并配合钾肥提高植株抗逆性。同时检查光照是否充足，若在遮荫环境下，可适当增亮补光，促进光合。施肥后一周左右测叶绿素指数，若提升则说明缓解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\201.wav"
+  },
+  "202": {
+    "question": "叶片图像边缘发黄，土壤湿度是 30%，气温 28°C，怎么办？",
+    "answer": "土壤偏干（30%）又伴高温（28°C），叶片边缘失水发黄是典型缺水热胁迫表现。建议早晚凉爽时段各浇一次透水，并在中午高温时段用遮阳网或薄膜遮阴，降低温室内温度。同时可在叶面喷雾降温增加空气湿度，每日通风两次以上，保持湿度在 50–60%，避免叶片持续干热。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\202.wav"
+  },
+  "203": {
+    "question": "叶面温度偏高，红外图显示 35°C，叶绿素指数正常，怎么办？",
+    "answer": "尽管叶绿素合成正常，但叶面温度 35°C 会抑制气孔张开、减少蒸腾冷却，长期会损伤叶片。应先检查气孔活性是否受阻，并在正午前后使用遮阴网或遮阳网降低光强；同时增加棚内风机或鼓风机，加速空气流通，促进叶面散热。如土壤水分充足，可适当增加灌溉量，利用根系蒸腾带走热量。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\203.wav"
+  },
+  "204": {
+    "question": "这株番茄叶片有白粉状，光照强度 20000 lux，叶绿素指数 20。",
+    "answer": "番茄叶面出现白粉状斑点，配合叶绿素指数中等，典型白粉病症状。此病多在湿度较高且通风不良环境下发生。建议先降低棚内湿度至 60% 以下，增开风机保持流动；喷施生物防治制剂（如枯草芽孢杆菌或硅藻土混悬剂），可抑制真菌生长，并于傍晚实施，避免强光下药剂光分解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\204.wav"
+  },
+  "205": {
+    "question": "叶片图像整体偏暗，CO₂ 浓度 350 ppm，叶绿素指数 10。",
+    "answer": "叶绿素指数仅 10 且叶片偏暗，说明叶绿素含量低、光合效率不足，同时 CO₂ 浓度偏低（理想 800–1200 ppm）。建议首先提高 CO₂ 供应，可在温室内布置 CO₂ 管道或定时释放 CO₂；其次增加补光照明时长，从每天 12 小时延长至 14–16 小时；同时补施铁、镁等叶绿素合成关键微量元素，促进叶色恢复。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\205.wav"
+  },
+  "206": {
+    "question": "叶脉部位出现网纹状黄化，土壤 EC 值 2.0 mS/cm，如何改进？",
+    "answer": "网状叶脉黄化多为盐分或重金属累积导致的离子毒害，EC 2.0 mS/cm 已偏高。建议先用大量清水冲洗表层土壤，通过灌溉排盐降低 EC 值至 1.0 以下，并改善盆穴或床土排水；同时可添加腐殖酸或腐植酸类土壤调理剂，帮助螯合过量离子；后期施肥时控制浓度，避免再次累积。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\206.wav"
+  },
+  "207": {
+    "question": "这张叶片图上新叶萎蔫，实时温度 32°C，湿度 40%。",
+    "answer": "新叶萎蔫且环境高温低湿，植株蒸腾速率过高导致水分供应跟不上。建议立即启动降温措施：开启遮阳网或喷水降温系统，将温度控制在 28°C 以下；同时使用加湿器或叶面喷雾，提升相对湿度至 60–70%；保证基质含水量在 50–60%，必要时每隔 2 小时轻喷一次。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\207.wav"
+  },
+  "208": {
+    "question": "叶片有褐色焦边，土壤湿度 80%，即将下雨，需浇水吗？",
+    "answer": "土壤湿度 80% 已接近饱和，高湿遇雨易造成积水和根系缺氧。建议暂停浇水，并确保花盆底部有良好排水孔；若使用托盘接水，及时倒掉积水以防烂根；雨后检查基质含水，如仍偏潮湿，再延迟 2–3 天后视情况补水，切忌连续高湿环境。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\208.wav"
+  },
+  "209": {
+    "question": "叶片正中有小孔，叶绿素指数 18，光周期 12h。",
+    "answer": "叶片中央出现孔洞，多见于咀嚼性害虫啃食，如尺蠖、夜蛾幼虫。叶绿素指数 18 属中等，光周期正常。建议遍查叶面及背面幼虫或虫粪，清除可见害虫；可喷洒低毒性生物农药（如苏云金杆菌或氨基酸+白僵菌复配制剂），并结合天敌（草蛉）释放，抑制害虫繁殖。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\209.wav"
+  },
+  "210": {
+    "question": "多张叶片发紫伴叶绿素下降，最近夜温 12°C。",
+    "answer": "夜温 12°C 偏低，易诱导花青素在叶片中积累，造成叶片发紫，同时光合速率下降，叶绿素减少。建议将夜温控制在 15–18°C 以上，可通过温室保温膜或夜间加热系统提升温度；同时补施少量钾肥和磷肥，帮助恢复光合作用；待环境温度回升后，新叶渐渐恢复绿色。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\210.wav"
+  },
+  "211": {
+    "question": "叶片边缘发干，湿度传感 25%，明天有阵雨。",
+    "answer": "空气湿度 25% 极低导致叶缘失水干枯，而阵雨短时难迅速提高根区含水。建议在傍晚阵雨前进行轻雾状喷雾，提升叶面湿度；同时喷施少量保湿剂或叶面剂减少水分蒸发；待雨落后再检查土壤含水并决定是否浇水；晚上可覆盖薄膜保湿，以稳定夜间湿度。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\211.wav"
+  },
+  "212": {
+    "question": "叶片背面图像有尘土，光照 15000 lux，叶绿素 22。",
+    "answer": "尘土覆盖会阻碍叶片接受光照，影响气孔功能和光合效率，虽然叶绿素指数 22 处于正常，但建议定期清洁叶面。可用软布蘸清水或0.1% 界面活性剂轻轻擦拭，避免损伤叶片；同时确保棚内通风无尘，减少浮尘沉积；清洁后光合作用效率可明显提升。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\212.wav"
+  },
+  "213": {
+    "question": "这片叶子半边枯萎，土壤 pH 5.0，理想 pH 6.0。",
+    "answer": "土壤 pH 5.0 偏酸，会影响钙、镁、磷等元素吸收，导致局部组织坏死枯萎。建议施用农业石灰或腐殖酸石灰粉调节 pH，将 pH 提升至 6.0 左右；同时结合有机肥（如腐熟厩肥）缓释，改善土壤团粒结构；调理后2 周内监测 pH 变化，再视情况补调。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\213.wav"
+  },
+  "214": {
+    "question": "叶片有褐斑，叶面涂层感，湿度 85%，通风差。",
+    "answer": "高湿（85%）和通风不良助真菌侵染，叶面涂层感可能为菌丝或菌膜形成。建议立即增开风扇或排风口，加强空气流通，将湿度降至 60% 以下；同时用生物制剂（如枯草芽孢杆菌+解淀粉芽孢杆菌混配）喷雾，清除病原，同时在叶面形成保护层，抑制复发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\214.wav"
+  },
+  "215": {
+    "question": "叶脉变细伴叶绿素指数 12，CO₂ 220 ppm。",
+    "answer": "CO₂ 浓度明显偏低，只 220 ppm，会导致光合供碳不足，叶片营养不足表现为叶脉细。建议安装 CO₂ 发生装置或间歇释放 CO₂，使浓度保持在 800–1200 ppm；同时补施碳氮平衡肥料，如硝基硫酸钾，确保植物碳水化合物合成与运转恢复正常。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\215.wav"
+  },
+  "216": {
+    "question": "叶片图像上可见白色粉霜状，温度 18°C。",
+    "answer": "温度 18°C 且出现白色粉霜，几乎可确定为白粉病。建议在傍晚气温较低时喷施生物防治制剂（如特比萘芬+枯草芽孢杆菌联合制剂），同时将棚内温度白天控制在 22–25°C、夜间不低于 15°C，降低湿度，并适当开窗通风，减少叶面干湿交替。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\216.wav"
+  },
+  "217": {
+    "question": "叶尖干枯，EC 1.8 mS/cm，灌溉频率每天一次合适吗？",
+    "answer": "EC 1.8 mS/cm 略高，易造成基质盐分累积，叶尖干枯是典型盐害表现。每天灌溉一次可能冲不净累盐，建议改为低 EC 清水冲洗，每次灌溉量 2–3 倍容器体积，彻底排盐；之后再恢复正常配比营养液，EC 控制在 1.2–1.4 mS/cm；同时每周监测 EC 变化。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\217.wav"
+  },
+  "218": {
+    "question": "叶片背面有小黑点，实时风速 1 m/s，湿度 60%。",
+    "answer": "小黑点可能为螨虫粪便或真菌黑霉，风速 1 m/s 通风一般，湿度 60% 中等。建议取少量黑点用胶带粘取观察，如为螨虫则喷洒肥皂水或硅藻土粉；若是真菌，则喷施生物杀菌剂（如枯草芽孢杆菌）；同时可增加局部气流至 1.5 m/s，以减少湿斑环境。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\218.wav"
+  },
+  "219": {
+    "question": "叶面上网红说要加施磷肥，但叶绿素指数正常。",
+    "answer": "叶绿素正常说明氮、镁等元素足够，贸然补磷可能造成元素拮抗，抑制铁、锌吸收。建议先做土壤或叶面养分检测，确认磷含量是否不足；若测定正常，则无需额外补磷，保持现有配方即可；如缺磷，可分次少量补施，避免一次性过量导致其他营养失衡。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\219.wav"
+  },
+  "220": {
+    "question": "叶片出现褐色死斑，阵雨后土壤排水慢。",
+    "answer": "褐色死斑多由病原菌侵染或缺氧引起，阵雨过后滞水会加剧烂根。建议立即开沟或提高苗床，疏通排水沟，尽快排除积水；并喷施低毒生物杀菌剂（如枯草芽孢杆菌）保护根系；待土壤干透后再视情况补水，避免再次积水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\220.wav"
+  },
+  "221": {
+    "question": "叶脉间黄化，EC 0.5 mS/cm，营养盐偏低。",
+    "answer": "网状黄化常见镁、铁或锌等微量元素缺乏，EC 0.5 mS/cm 表明基质养分较少。建议补施高镁肥（如硫酸镁）、螯合铁或螯合锌，配合复合NPK肥料，以提高总养分，同时检查灌溉水源是否有缺素风险，定期监测叶面养分，确保无缺。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\221.wav"
+  },
+  "222": {
+    "question": "叶片上可见孔洞，湿度 55%，光合效率如何？",
+    "answer": "孔洞为咀嚼性害虫啃噬所致，会降低有效光合面积，从而影响光合效率。虽湿度 55% 适中，但仍需立即防治：全面检查虫口并清除幼虫，喷施生物农药（如苏云金杆菌）或放养天敌（草蛉）；后续关注伤口愈合情况，保持叶面清洁和通风。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\222.wav"
+  },
+  "223": {
+    "question": "叶片整齐发白，实时 CO₂ 800 ppm。",
+    "answer": "叶片发白可能为缺铁性叶绿素减少，与 CO₂ 水平无关。建议喷施螯合铁剂或浸根滴灌含铁营养液，每周 1–2 次；同时保持 pH 在 6.0–6.5 之间，确保铁离子有效；待叶片逐渐恢复绿色后，可适当调整其他微量元素以维持整体营养平衡。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\223.wav"
+  },
+  "224": {
+    "question": "叶面潮湿易积水，模型建议如何？",
+    "answer": "模型建议显示湿度过高时应停止灌溉并加强通风。具体可设置湿度阈值（如 70%）后自动关闭灌溉系统，并启动排风扇；若条件允许，可在湿度高峰期使用防雾喷淋或叶面吹风，减少水膜滞留；长期可优化棚顶排水设计，避免结露或滞水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\224.wav"
+  },
+  "225": {
+    "question": "这张叶子近端有褪绿，日照时长 6h，是否足够？",
+    "answer": "6 小时日照略低于大多数蔬菜作物所需的 8–10 小时，可能导致光合作用不足，近端老叶褪绿。建议增设补光灯或延长人工照明至 8–10 小时；同时补施叶面肥（含氮、镁、铁）促进叶绿素合成；若在日照较短季节，可考虑移动至日照更好的区域。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\225.wav"
+  },
+  "226": {
+    "question": "新叶有卷曲，叶绿素 16，温度 30°C。",
+    "answer": "30°C 高温加速蒸腾，若水分供应不足会引起新叶卷曲，同时叶绿素中等。建议降低环境温度至 25–28°C，可启动遮阳或通风系统；保持基质湿润但不积水，并进行叶面喷雾增加局部湿度；另外检查是否有药害或病毒引起的叶缘卷曲。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\226.wav"
+  },
+  "227": {
+    "question": "土壤湿度 35%，明天有雷阵雨，推荐灌溉吗？",
+    "answer": "35% 湿度偏低，但若预报雷阵雨且预计雨量 >5mm，可不必额外灌溉，以免雨后积水。建议在雷阵雨前保持浅层保湿，待雨后根据实际土壤含水量再决定；同时检查排水状况，确保大雨过后无积水风险。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\227.wav"
+  },
+  "228": {
+    "question": "叶片上有油膜感，图像显示气孔阻塞。",
+    "answer": "油膜可能为农药残留或环境沉积，阻塞气孔影响气体交换。建议用清水或 0.05% 温和界面活性剂溶液喷洗叶面，轻柔擦拭后再用清水冲净；检查施肥或喷药记录，避免高浓度油剂；之后保持通风并监测气孔恢复情况。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\228.wav"
+  },
+  "229": {
+    "question": "黄叶伴叶绿素 8，湿度 45%，如何改进？",
+    "answer": "叶绿素 8 严重偏低，结合 45% 湿度和黄叶表现，说明缺水加缺素双重胁迫。建议立即补水至 60–70% 并改用保湿基质；同时补施速效氮肥和微量元素（镁、铁）叶面肥；恢复后逐步调整灌溉频率至每 12 小时或根据土壤含水动态调节。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\229.wav"
+  },
+  "230": {
+    "question": "叶面有灰尘覆盖，模型怎么看？",
+    "answer": "Dust 影像检测模型判定叶面灰尘影响光合效率。建议定期每周清洁一次叶面，可用软布或叶面清洗剂；同时在通风进气口安装滤网或防尘网，减少灰尘进入大棚；清洁后光合作用显著提升，并减少病原附着。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\230.wav"
+  },
+  "231": {
+    "question": "大棚内叶绿素低但叶面积指数正常。",
+    "answer": "叶面积正常但叶绿素偏低，说明单叶光合能力受限。建议提高光照强度或延长光照时长；补施微量元素，如镁、铁，促进叶绿素合成；可额外喷施生物刺激素（如吲哚乙酸）提升叶片活性；同时保持 CO₂ 在 800–1200 ppm，以保证光合作用饱满。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\231.wav"
+  },
+  "232": {
+    "question": "叶片萎靡，土壤湿度 90%，连续阴雨。",
+    "answer": "90% 土壤湿度和阴雨环境易导致根系缺氧、叶片萎靡。建议立即开沟或翻松土壤，增加排水；可在基质中加入透气材料（如珍珠岩）；如条件允许，使用鼓风机对根区通气，同时喷施生物菌剂（如解淀粉芽孢杆菌）改善根际微生物环境。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\232.wav"
+  },
+  "233": {
+    "question": "图像上可见粉叶圈，叶绿素指数 14。",
+    "answer": "粉叶圈（粉状环斑）常见叶霉病或叶斑病变异。叶绿素 14 说明尚有光合作用。建议及时去除病叶并焚烧销毁；喷施铜制剂（如波尔多液）或生物制剂（枯草芽孢杆菌）双管齐下；增强通风降湿，并保持日照充足，减少叶面湿润时间。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\233.wav"
+  },
+  "234": {
+    "question": "叶柄发软，温度 25°C 以上持续 5h。",
+    "answer": "温度持续 25°C 以上可能加速呼吸作用，导致水分和养分流失，叶柄变软。可在温度高峰 5 小时段启动遮阳和通风，或开启雾化降温系统；同时补施钙肥和硼肥增强细胞壁强度；若必要可在叶柄处加支撑，减轻机械负担。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\234.wav"
+  },
+  "235": {
+    "question": "土壤 pH 7.8，叶片黄化严重。",
+    "answer": "pH 7.8 偏碱会导致微量元素（如铁、锌）固化、难被吸收，出现黄化。建议施用硫磺或硫酸铵降低 pH 至 6.5 左右；同时补施螯合铁和螯合锌；结合有机质（腐熟堆肥）改良土壤结构，促进阳离子交换，稳定 pH 后黄化可逐步缓解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\235.wav"
+  },
+  "236": {
+    "question": "叶片图像有深色斑块，叶绿素 11。",
+    "answer": "深色斑块可能为锰或铜等重金属中毒，叶绿素 11 表明光合受限。建议停止含该元素的肥料施用，并用清水深度灌洗土壤或基质降低积累浓度；添加有机质或高钙肥料帮助螯合重金属；后续监测土壤重金属含量，必要时更换部分基质。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\236.wav"
+  },
+  "237": {
+    "question": "叶缘焦枯，土壤 EC 3.0。",
+    "answer": "EC 3.0 严重偏高，盐分过量造成离子毒害，表现为叶缘焦枯。建议立即用大量清水冲洗基质，排出过量盐分；施用腐植酸或钙基改良剂帮助中和；冲洗后 EC 应降至 1.2–1.6，再恢复正常营养液；并调整施肥浓度，避免再次累积。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\237.wav"
+  },
+  "238": {
+    "question": "叶片暗绿色带亮斑，光强 18000 lux。",
+    "answer": "18000 lux 光强接近作物光饱和点，暗绿加亮斑可能是轻微日灼。建议在高光时段（10–14 点）使用遮阳网，减少直射光；对已有亮斑叶片喷施护叶剂加速恢复；同时监测光照分布，保证均匀照明，防止局部光强过高。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\238.wav"
+  },
+  "239": {
+    "question": "我的传感器说土壤干燥，叶绿素正常。",
+    "answer": "土壤干燥会限制根系吸水，久而久之将影响光合产物运输，尽管当前叶绿素正常，也应尽快补水。建议按需灌溉，每次浇透后再等基质含水下降至 40% 以下再补；同时铺设覆盖物、铺地膜或用滴灌系统维持基质湿润；定期检查传感器读数并结合手掂土块感受，避免过度依赖单一传感器误差。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\239.wav"
+  },
+  "240": {
+    "question": "图像中叶脉发红，CO₂ 400 ppm。",
+    "answer": "叶脉发红通常与花青素积累或缺乏镁、磷有关，CO₂ 400 ppm 接近大气背景水平，对光合限速。建议先提高 CO₂ 至 800–1 200 ppm，可用 CO₂ 发生器或瓶装 CO₂ 释放装置；同时喷施含镁螯合剂（如硫酸镁溶液）或补施磷肥；观察 1–2 周后叶脉红是否减轻，再视情况调整养分或气体浓度。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\240.wav"
+  },
+  "241": {
+    "question": "叶面布满水珠，气温 20 °C。",
+    "answer": "低温（20 °C）配合水珠易造成夜间湿冷环境，增加真菌病风险。建议在日落前用软布或微雾喷雾将大颗水珠散布为细雾，加速蒸发；若有条件可在夜间适度通风，减少露水；或启用轻微加温设备将温度维持在 22–24 °C；并保持空气流通，避免叶面长时间水膜聚集。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\241.wav"
+  },
+  "242": {
+    "question": "土壤湿度 50%，24 h 预报小雨。",
+    "answer": "50% 属于中等湿度，若预报小雨（2–5 mm），可暂缓灌溉。建议在雨前通过浅滴灌或雾化补水，保持根区微湿；雨后两小时检查基质含水，若超过 60% 再视情况调整；同时检查排水系统，确保小雨后无积水，结合传感器阈值设定自动灌溉策略，实现精准控水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\242.wav"
+  },
+  "243": {
+    "question": "叶片边缘发紫，叶绿素 13。",
+    "answer": "叶缘发紫为典型缺磷或夜温过低现象，叶绿素 13 表明光合潜力尚可。建议施用速效磷肥（如过磷酸钙），并在晚间保持温室内温度不低于 15 °C；同时喷施少量可溶性钾肥，提升根系对磷的吸收；观察 7–10 天，如边缘颜色减轻，即为补磷成效。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\243.wav"
+  },
+  "244": {
+    "question": "图像识别出叶斑，湿度 70%。",
+    "answer": "70% 湿度已进入真菌流行阈值，图像检测到病斑后应迅速应对。建议去除重病叶并焚毁；喷施生物防治制剂（如枯草芽孢杆菌+白僵菌混配），打底保护；增开风扇降低棚内湿度至 60% 以下；加强日光照射，每日通风 2–3 次，减少露珠停留。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\244.wav"
+  },
+  "245": {
+    "question": "叶片有油脂感，气门关闭？",
+    "answer": "油膜感常见农药或叶面肥残留，导致气孔阻塞、关闭，影响气体交换。建议用软布蘸清水轻擦叶面，或喷洒 0.05% 界面活性剂溶液后再冲净；之后通风 30 分钟；检查后续施药方案，避免高油基配方；若气孔长期关闭，可适当人工叶面增湿，帮助气孔重新张开。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\245.wav"
+  },
+  "246": {
+    "question": "湿度传感器读数 65%，叶绿素 17。",
+    "answer": "65% 湿度和叶绿素 17 均在适宜范围，无明显胁迫，但仍可优化。建议维持此湿度并定时轻雾喷雾提高空气循环；结合叶面快速检测系统，每周监测叶绿素是否稳定；同时在日中高光时段略微提高风速，增强气孔功能，确保光合效率长期保持在最优水平。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\246.wav"
+  },
+  "247": {
+    "question": "图像显示叶片背面虫眼，湿度 55%。",
+    "answer": "背面小孔或虫眼为潜伏害虫咀嚼迹象，55% 湿度无促病风险。建议翻检叶片背面寻找幼虫、螨虫或蛀虫；可用透明胶带粘捕查看；并喷施生物杀虫剂（如苏云金杆菌悬浮剂）对付幼虫；如发现螨虫，可用肥皂水或硅藻土粉剂对叶背处理；后续继续监测两周。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\247.wav"
+  },
+  "248": {
+    "question": "土壤湿度过低，明天高温。",
+    "answer": "土壤湿度过低加上高温胁迫，根系水分供应跟不上蒸腾需求。建议在今日傍晚进行深度灌溉，将基质含水提升至 60% 以上；夜间覆盖地膜或铺干草保湿；明晨开启遮阳并启动微雾降温；同时设置传感器报警阈值 < 40% 时自动补水，避免次日高温期间干旱。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\248.wav"
+  },
+  "249": {
+    "question": "叶片表面出现粉状白膜，湿度 80%。",
+    "answer": "80% 湿度和白膜表面几乎可确定白粉病或霜霉病初期。建议即刻降低湿度至 60% 左右，开启大风机；喷施生物防治制剂（如枯草芽孢杆菌+硅藻土悬浮剂），并交替使用微量铜制剂；待 7 天后复喷一遍；同时去除严重病叶并焚烧，防止孢子扩散。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\249.wav"
+  },
+  "250": {
+    "question": "温室内叶绿素均值 19，湿度 40%。",
+    "answer": "叶绿素 19 属正常下限，湿度 40% 较低会限制蒸腾和养分流动。建议将湿度提升至 50–60%，可通过叶面雾化或加湿器；同时在中午前后适度补水；如条件允许，可在地面铺湿帘，增加蒸发冷却与湿度；一周后复测叶绿素，预期其能稳步上升。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\250.wav"
+  },
+  "251": {
+    "question": "图像上发现叶片部分卷曲，CO₂ 600 ppm。",
+    "answer": "600 ppm CO₂ 在中等水平，新叶部分卷曲可能因蒸腾速率过快或化学药害。建议先将 CO₂ 维持在 800–1 200 ppm，满足光合需求；并在高光时段开启喷雾或加湿；检查近 48 h 内是否喷药过量，若有残留可清洗叶面；卷曲情况应在 3–5 天内缓解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\251.wav"
+  },
+  "252": {
+    "question": "土壤湿度 75%，天气预报有阵雨。",
+    "answer": "75% 湿度偏高，且有阵雨预报，若继续灌溉易造成积水。建议暂停灌溉，并打开排水阀或开沟排水；在阴雨前检查盆底排水孔是否畅通；雨后松土两厘米，增强透气；若阵雨量大，可临时覆盖拱棚底部，防止上游径流进入，保护基质结构。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\252.wav"
+  },
+  "253": {
+    "question": "叶片皱缩，低光照 800 lux。",
+    "answer": "800 lux 光照过低，不足以支撑正常光合作用，导致叶片无法维持正常细胞膨压而皱缩。建议补充人工补光（LED日光灯）至 5 000–10 000 lux；同时调整日照时长至 12 小时以上；恢复后叶片细胞膨压将逐渐恢复，新叶可在一周内舒展。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\253.wav"
+  },
+  "254": {
+    "question": "图像+参数显示腐烂斑，湿度 90%。",
+    "answer": "90% 高湿配合腐烂斑，极易由细菌或霜霉菌侵染导致叶部软腐。建议立即降低湿度至 60% 以下，开启风机和除湿机；去除并销毁腐烂叶片；喷施低毒生物杀菌剂（如解淀粉芽孢杆菌）配合铜制剂；并定期检查土壤 pH 与 EC，避免病原菌通过土壤扩散。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\254.wav"
+  },
+  "255": {
+    "question": "土壤湿度 45%，明天有小雨。",
+    "answer": "45% 湿度偏低，但有小雨预报（<5 mm），可在雨前进行浅雾喷雾保湿，确保叶片蒸腾不失衡；待小雨后两小时检查基质含水，若 <50% 再进行适量灌溉；此策略兼顾干旱预防与积水风险，保证根系持续吸水和透气。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\255.wav"
+  },
+  "256": {
+    "question": "叶尖焦枯，土壤 EC 2.2。",
+    "answer": "EC 2.2 偏高，盐分积累会首先在叶尖表现为焦枯。建议用清水灌溉冲洗基质 2–3 倍容器体积，排出过量盐分；之后将 EC 控制在 1.2–1.6；可添加腐殖酸或有机质调理，帮助螯合多余离子；一周后复测 EC 并继续跟踪叶尖恢复情况。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\256.wav"
+  },
+  "257": {
+    "question": "图像中有条状黄斑，叶绿素 12。",
+    "answer": "条状黄斑伴叶绿素 12 典型缺镁症状，镁是叶绿素核心元素。建议喷施硫酸镁溶液（0.5–1%）叶面或基质施用；同时补充复合肥以维持 NPK 平衡；待两次施用后观测新叶颜色变化，一般 10 天内可见明显恢复，叶绿素指数会提升至 15 以上。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\257.wav"
+  },
+  "258": {
+    "question": "土壤湿度 60%，未来 3 天高温。",
+    "answer": "60% 湿度适中，但未来三天高温会加剧蒸腾耗水。建议每天早晚各灌溉一次，并在中午高温期使用遮阳网或薄膜降温；可在地面覆盖黑色或透明地膜，减少水分蒸发；同时叶面雾化增湿，保持叶片气孔功能；定期监测湿度和土温，避免干旱和热害。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\258.wav"
+  },
+  "259": {
+    "question": "叶片背面有霉状物，湿度 85%。",
+    "answer": "85% 湿度极易促发霉菌生长，叶背霉状物可能为灰霉或霜霉菌孢子。建议喷施生物菌剂（如枯草芽孢杆菌+白僵菌），并在叶背重点处理；同时增开局部风扇，对叶背进行直接吹风；湿度控制在 60–70%，可使用除湿机；3 天后复查，如无再生霉层则成功控制。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\259.wav"
+  },
+  "260": {
+    "question": "图像显示叶缘微卷，温度 29 °C。",
+    "answer": "29 °C 近热胁迫阈值，新叶缘微卷常为气孔关闭或叶片脱水。建议在 10–16 点开启遮阳和微雾降温，将温度控制在 25–27 °C；同时保持基质湿度 60% 以上；夜间适度灌溉并通风，减少叶片夜间脱水；叶缘微卷应在 2–3 天内缓解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\260.wav"
+  },
+  "261": {
+    "question": "土壤湿度 55%，预计降雨量 10 mm。",
+    "answer": "55% 湿度和 10 mm 降雨量预报，雨后土壤总湿度可能升至 70% 以上。建议今夜做少量保湿灌溉，再在大雨来临前松土打孔，保证雨后透气；雨后待水渗透 2 小时后检查湿度，如超 70% 再暂停浇水；同时留意低洼处防止积水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\261.wav"
+  },
+  "262": {
+    "question": "叶片变白伴叶绿素 9。",
+    "answer": "叶绿素 9 严重偏低且发白，可能缺铁或镁。建议喷施 0.1% 螯合铁或硫酸镁叶面，同时基质滴灌含微量元素营养液；保持 pH 6.0–6.5；若条件允许，可夜间增温至 18 °C 以上，促进营养吸收；10 天后测叶绿素，若回升说明处理有效。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\262.wav"
+  },
+  "263": {
+    "question": "土壤湿度传感器的数据为什么突然为空？",
+    "answer": "可能是传感器掉线了，我正在重连并重新同步数据。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\263.wav"
+  },
+  "264": {
+    "question": "现在各传感器的心跳状态如何？",
+    "answer": "四个节点均在线，最近一次心跳在 10 秒前。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\264.wav"
+  },
+  "265": {
+    "question": "树莓派采集到的温度数据落后了吗？",
+    "answer": "数据管道出现延迟，当前已缓冲 3 条待上传记录。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\265.wav"
+  },
+  "266": {
+    "question": "MQTT 通道为什么连接不上？",
+    "answer": "网络不稳定，我已切换至 HTTP 备用通道继续发送。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\266.wav"
+  },
+  "267": {
+    "question": "土壤湿度超过阈值怎么办？",
+    "answer": "已触发告警，并通过 Bitnet 给出灌溉建议。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\267.wav"
+  },
+  "268": {
+    "question": "数据落盘是否成功？",
+    "answer": "是的，最新 50 条数据已写入本地 SQLite 数据库。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\268.wav"
+  },
+  "269": {
+    "question": "Jetson TX2 上的推理延迟多长？",
+    "answer": "每帧平均 120 ms，已做量化优化，可再压缩模型加速。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\269.wav"
+  },
+  "270": {
+    "question": "MQTT 消息丢失率是多少？",
+    "answer": "丢失率低于 0.1%，丢包后会自动重发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\270.wav"
+  },
+  "271": {
+    "question": "边缘节点的 CPU 占用率？",
+    "answer": "目前占用 65%，有足够余量处理更多推理任务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\271.wav"
+  },
+  "272": {
+    "question": "土壤湿度传感器校准值正确吗？",
+    "answer": "校准系数为 1.02，数据在可接受范围内。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\272.wav"
+  },
+  "273": {
+    "question": "为什么有两条重复数据？",
+    "answer": "网络抖动导致重发，系统已自动去重。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\273.wav"
+  },
+  "274": {
+    "question": "MQTT 主题结构方便查看吗？",
+    "answer": "已按照“/garden/sensor/{node_id}/{type}”规范发布。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\274.wav"
+  },
+  "275": {
+    "question": "设备掉电重启后数据如何恢复？",
+    "answer": "本地缓存与数据库可保证断电后续传。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\275.wav"
+  },
+  "276": {
+    "question": "边缘推理结果是否对外发送？",
+    "answer": "仅在灌溉建议触发时通过 HTTP 回传服务器。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\276.wav"
+  },
+  "277": {
+    "question": "Bitnet 模型加载完毕了吗？",
+    "answer": "已加载 quantized Bitnet1.5B 模型，准备就绪。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\277.wav"
+  },
+  "278": {
+    "question": "所有节点当前时间戳是否同步？",
+    "answer": "已通过 NTP 服务同步，偏差小于 50 ms。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\278.wav"
+  },
+  "279": {
+    "question": "MQTT 客户端重连策略是什么？",
+    "answer": "指数退避，每次重连间隔逐步增长至 60 s。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\279.wav"
+  },
+  "280": {
+    "question": "传感器网络中有离线节点报警吗？",
+    "answer": "节点 03 异常，下线超过 30 s，已生成告警。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\280.wav"
+  },
+  "281": {
+    "question": "为什么数据库插入速度变慢？",
+    "answer": "当前写入频次高，可调整批量插入参数。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\281.wav"
+  },
+  "282": {
+    "question": "边缘设备内存不足怎么办？",
+    "answer": "建议裁剪模型中间层或启用 swap 机制。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\282.wav"
+  },
+  "283": {
+    "question": "MQTT QoS 级别设置为几？",
+    "answer": "采用 QoS 1，确保“至少一次”传递。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\283.wav"
+  },
+  "284": {
+    "question": "数据丢失如何补偿？",
+    "answer": "可通过重采样或从本地缓存重发机制补齐。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\284.wav"
+  },
+  "285": {
+    "question": "Bitnet 在 Jetson TX2 上的精度如何？",
+    "answer": "量化后精度下降约 1%，仍在可接受范围内。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\285.wav"
+  },
+  "286": {
+    "question": "为什么有时数据滞后 5 分钟？",
+    "answer": "网络抖动或管道拥塞，已自动缓冲重发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\286.wav"
+  },
+  "287": {
+    "question": "传感器节点时序对齐了吗？",
+    "answer": "利用时间戳统一对齐，误差不超过 100 ms。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\287.wav"
+  },
+  "288": {
+    "question": "如何查看本地缓存队列？",
+    "answer": "执行 docker logs edge_service 查看缓存详情。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\288.wav"
+  },
+  "289": {
+    "question": "MQTT 隐私数据如何加密？",
+    "answer": "采用 TLS1.2 加密通道，保证传输安全。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\289.wav"
+  },
+  "290": {
+    "question": "为何数据库索引失效？",
+    "answer": "可能因表结构变化，需要重建索引。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\290.wav"
+  },
+  "291": {
+    "question": "Bitnet 推理日志能导出吗？",
+    "answer": "支持导出 JSON 格式日志供离线分析。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\291.wav"
+  },
+  "292": {
+    "question": "设备端怎样监控模型健康状态？",
+    "answer": "定期检查推理时延与平均功耗指标。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\292.wav"
+  },
+  "293": {
+    "question": "HTTP 接口响应码有哪些？",
+    "answer": "主要返回 200、400、500 等标准 HTTP 状态。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\293.wav"
+  },
+  "294": {
+    "question": "传感器数据频率是多少？",
+    "answer": "默认 1 Hz，可在配置文件中调整。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\294.wav"
+  },
+  "295": {
+    "question": "网络断开重连机制测试了吗？",
+    "answer": "已模拟断网场景，重连成功率 100%。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\295.wav"
+  },
+  "296": {
+    "question": "Bitnet 推理结果如何缓存？",
+    "answer": "结果存储于本地 Redis，并周期性同步服务器。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\296.wav"
+  },
+  "297": {
+    "question": "如何查看节点健康报告？",
+    "answer": "访问 http://edge.local/health 即可。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\297.wav"
+  },
+  "298": {
+    "question": "为什么 CPU 占用忽高忽低？",
+    "answer": "推理任务与数据处理并行，可通过任务调度平滑负载。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\298.wav"
+  },
+  "299": {
+    "question": "数据管道是否支持批量发送？",
+    "answer": "支持 HTTP 批量 POST 提交，减少连接开销。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\299.wav"
+  },
+  "300": {
+    "question": "传感器节点如何升级固件？",
+    "answer": "通过 OTA 机制自动推送并更新固件。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\300.wav"
+  },
+  "301": {
+    "question": "MQTT Broker 崩溃后怎么办？",
+    "answer": "备份 Broker 实例，自动切换到备用节点。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\301.wav"
+  },
+  "302": {
+    "question": "Bitnet 模型如何动态替换？",
+    "answer": "上传新模型文件至指定目录，重启服务自动加载。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\302.wav"
+  },
+  "303": {
+    "question": "数据库磁盘占用高怎么办？",
+    "answer": "可开启日志清理与归档策略。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\303.wav"
+  },
+  "304": {
+    "question": "数据同步延迟监控在哪里？",
+    "answer": "在仪表盘“延迟监控”模块查看实时图表。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\304.wav"
+  },
+  "305": {
+    "question": "为何同一传感器报两个节点？",
+    "answer": "节点配置重复，需排查 ID 冲突。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\305.wav"
+  },
+  "306": {
+    "question": "边缘设备能否离线工作？",
+    "answer": "可以，本地缓存与推理均可正常运行。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\306.wav"
+  },
+  "307": {
+    "question": "如何备份 Bitnet 模型？",
+    "answer": "将 model.onnx 与量化文件一并同步到备份存储。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\307.wav"
+  },
+  "308": {
+    "question": "MQTT 主题订阅过多会怎样？",
+    "answer": "可能导致内存占用增加，建议精简订阅列表。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\308.wav"
+  },
+  "309": {
+    "question": "传感器校准多久做一次？",
+    "answer": "建议每月校准一次，保证读数准确。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\309.wav"
+  },
+  "310": {
+    "question": "为什么推理速度突然变慢？",
+    "answer": "可能因散热不足触发降频，可检查散热模块。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\310.wav"
+  },
+  "311": {
+    "question": "HTTP 上传失败如何重试？",
+    "answer": "内部实现 3 次重试，超过则写入本地队列。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\311.wav"
+  },
+  "312": {
+    "question": "Bitnet 的量化精度是多少？",
+    "answer": "采用 8-bit 量化，模型大小减至原来的 25%。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\312.wav"
+  },
+  "313": {
+    "question": "如何查看各节点的错误日志？",
+    "answer": "执行 journalctl -u sensor_node 即可。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\313.wav"
+  },
+  "314": {
+    "question": "网络抖动严重怎么办？",
+    "answer": "可启用本地直连模式，减少外网依赖。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\314.wav"
+  },
+  "315": {
+    "question": "数据在数据库的保留时间？",
+    "answer": "默认保留 30 天，超过自动清理。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\315.wav"
+  },
+  "316": {
+    "question": "设备端如何报警？",
+    "answer": "支持蜂鸣器和 LED 指示，可在配置中启用。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\316.wav"
+  },
+  "317": {
+    "question": "Bitnet 在 Pi4 上推理延迟？",
+    "answer": "平均约 200 ms，需进一步优化。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\317.wav"
+  },
+  "318": {
+    "question": "MQTT Broker 支持集群吗？",
+    "answer": "支持，可部署多节点负载均衡。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\318.wav"
+  },
+  "319": {
+    "question": "传感器网络拓扑如何查看？",
+    "answer": "在仪表盘“网络拓扑”模块可视化展示。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\319.wav"
+  },
+  "320": {
+    "question": "数据丢失如何补偿？",
+    "answer": "本地缓存与多通道传输已实现冗余。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\320.wav"
+  },
+  "321": {
+    "question": "模型更新时如何保证不中断？",
+    "answer": "支持灰度发布，先加载新模型再切换流量。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\321.wav"
+  },
+  "322": {
+    "question": "为什么节点状态显示未知？",
+    "answer": "可能因心跳包被防火墙拦截。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\322.wav"
+  },
+  "323": {
+    "question": "如何手动触发推理？",
+    "answer": "调用 /infer 接口并传入最新传感器数据。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\323.wav"
+  },
+  "324": {
+    "question": "边缘推理能输出可解释结果吗？",
+    "answer": "支持 Grad-CAM 可视化特征图。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\324.wav"
+  },
+  "325": {
+    "question": "怎么查看数据管道性能？",
+    "answer": "在“性能监控”页面可查看各段延迟。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\325.wav"
+  },
+  "326": {
+    "question": "MQTT TLS 证书过期怎么办？",
+    "answer": "生成新证书并更新 Broker 配置。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\326.wav"
+  },
+  "327": {
+    "question": "Bitnet 模型占用多少显存？",
+    "answer": "约 500 MB，剩余可用空间约 1 GB。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\327.wav"
+  },
+  "328": {
+    "question": "传感器采样时钟如何同步？",
+    "answer": "采用 PTP 协议在边缘网络内同步。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\328.wav"
+  },
+  "329": {
+    "question": "为何数据库写入报错？",
+    "answer": "可能因磁盘权限或空间不足导致。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\329.wav"
+  },
+  "330": {
+    "question": "边缘设备可否横向扩展？",
+    "answer": "支持多设备集群通过负载均衡管理。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\330.wav"
+  },
+  "331": {
+    "question": "Bitnet 推理接口如何调用？",
+    "answer": "POST 请求 /api/v1/predict 并上传 JSON 数据。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\331.wav"
+  },
+  "332": {
+    "question": "为什么有数据包延迟 2 分钟？",
+    "answer": "发生过网络重连，重发延迟导致。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\332.wav"
+  },
+  "333": {
+    "question": "如何导出传感器历史数据？",
+    "answer": "访问 /export/history?days=7 即可下载 CSV。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\333.wav"
+  },
+  "334": {
+    "question": "边缘推理结果如何验证？",
+    "answer": "使用标注数据集进行离线批量评估。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\334.wav"
+  },
+  "335": {
+    "question": "MQTT Topic 有订阅冲突怎么办？",
+    "answer": "检查重复订阅并移除多余主题。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\335.wav"
+  },
+  "336": {
+    "question": "Bitnet 模型可否在线微调？",
+    "answer": "资源有限，建议在服务器端微调后下发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\336.wav"
+  },
+  "337": {
+    "question": "数据管道如何监控吞吐量？",
+    "answer": "在仪表盘“吞吐量”模块查看实时曲线。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\337.wav"
+  },
+  "338": {
+    "question": "传感器节点如何快速恢复？",
+    "answer": "可远程下发重启命令并重新注册。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\338.wav"
+  },
+  "339": {
+    "question": "Bitnet on-device 量化后性能？",
+    "answer": "推理速度提升约 3 倍，资源占用下降 60%。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\339.wav"
+  },
+  "340": {
+    "question": "为何边缘设备日志过大？",
+    "answer": "开启了 DEBUG 模式，建议切换至 INFO。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\340.wav"
+  },
+  "341": {
+    "question": "如何查看 HTTP 请求日志？",
+    "answer": "在 access.log 文件中可找到详细记录。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\341.wav"
+  },
+  "342": {
+    "question": "传感器节点如何自动发现？",
+    "answer": "采用 mDNS 协议实现零配置自动发现。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\342.wav"
+  },
+  "343": {
+    "question": "Bitnet 模型能否压缩为更小？",
+    "answer": "可尝试剪枝或知识蒸馏进一步小型化。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\343.wav"
+  },
+  "344": {
+    "question": "数据存储层如何扩容？",
+    "answer": "可挂载外部 NAS 或云存储卷。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\344.wav"
+  },
+  "345": {
+    "question": "MQTT 保活间隔多少秒？",
+    "answer": "默认 60 s，可对应调整客户端设置。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\345.wav"
+  },
+  "346": {
+    "question": "边缘推理如何处理异常输入？",
+    "answer": "输入超过阈值时会拒绝并记录异常。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\346.wav"
+  },
+  "347": {
+    "question": "如何批量下发配置？",
+    "answer": "通过 /config/batch_update 接口一次性下发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\347.wav"
+  },
+  "348": {
+    "question": "Bitnet 模型为何报 GPU 内存不足？",
+    "answer": "可能因同时运行其他进程，建议关闭不必要服务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\348.wav"
+  },
+  "349": {
+    "question": "数据管道能否自动扩展？",
+    "answer": "支持动态扩容容器，按需增加副本。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\349.wav"
+  },
+  "350": {
+    "question": "传感器网络丢包如何监控？",
+    "answer": "仪表盘“网络质量”统计丢包率曲线。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\350.wav"
+  },
+  "351": {
+    "question": "边缘设备重启后日志如何保留？",
+    "answer": "启用持久化卷，日志文件不会丢失。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\351.wav"
+  },
+  "352": {
+    "question": "Bitnet 模型可否跨平台部署？",
+    "answer": "支持 ARM 和 x86 双架构部署。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\352.wav"
+  },
+  "353": {
+    "question": "如何查看节点配置参数？",
+    "answer": "访问 /nodes/{id}/config 即可。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\353.wav"
+  },
+  "354": {
+    "question": "MQTT Topic 安全如何管理？",
+    "answer": "可设置 ACL 控制订阅和发布权限。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\354.wav"
+  },
+  "355": {
+    "question": "边缘推理失败如何回滚？",
+    "answer": "自动回退至上一个稳定模型版本。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\355.wav"
+  },
+  "356": {
+    "question": "数据管道支持数据清洗吗？",
+    "answer": "具备简单规则引擎，可在传输前做格式校验。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\356.wav"
+  },
+  "357": {
+    "question": "传感器节点如何节能？",
+    "answer": "可设置采样休眠周期降低功耗。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\357.wav"
+  },
+  "358": {
+    "question": "Bitnet 模型更新通知如何接收？",
+    "answer": "支持 Webhook 回调通知客户端。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\358.wav"
+  },
+  "359": {
+    "question": "数据存储如何实现加密？",
+    "answer": "可开启磁盘加密或数据库透明加密功能。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\359.wav"
+  },
+  "360": {
+    "question": "边缘设备如何自动恢复？",
+    "answer": "实现 Watchdog 监控进程自动重启服务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\360.wav"
+  },
+  "361": {
+    "question": "MQTT 压缩传输数据包吗？",
+    "answer": "支持 GZIP 压缩以减少带宽。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\361.wav"
+  },
+  "362": {
+    "question": "Bitnet on-device 推理日志包括哪些字段？",
+    "answer": "包含 timestamp、input_hash、output_hash、latency、memory_usage 等多项指标。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\362.wav"
+  },
+  "363": {
+    "question": "你好",
+    "answer": "我在，请问有什么可以帮到您？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\363.wav"
+  },
+  "364": {
+    "question": "嗨",
+    "answer": "您好，有什么需要帮助的吗？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\364.wav"
+  },
+  "365": {
+    "question": "在吗",
+    "answer": "一直都在呢，需要我做些什么？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\365.wav"
+  },
+  "366": {
+    "question": "喂",
+    "answer": "你好，随时为您服务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\366.wav"
+  },
+  "367": {
+    "question": "您好",
+    "answer": "您好，我是智能助手，请问有何吩咐？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\367.wav"
+  },
+  "368": {
+    "question": "哈喽",
+    "answer": "哈喽！有什么可以为您效劳的吗？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\368.wav"
+  },
+  "369": {
+    "question": "Hi",
+    "answer": "Hi~ 有什么问题想了解吗？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\369.wav"
+  },
+  "370": {
+    "question": "早上好",
+    "answer": "早上好，祝您一天好心情！需要帮忙吗？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\370.wav"
+  },
+  "371": {
+    "question": "晚上好",
+    "answer": "晚上好，有什么我能帮您的？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\371.wav"
+  },
+  "372": {
+    "question": "今天天气",
+    "answer": "我在呢～ 要查看天气信息吗？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\372.wav"
+  },
+  "373": {
+    "question": "你是谁",
+    "answer": "我是您的智能农科助手，很高兴为您服务。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\373.wav"
+  },
+  "374": {
+    "question": "帮我一下",
+    "answer": "好的，请告诉我您需要什么帮助。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\374.wav"
+  },
+  "375": {
+    "question": "测试",
+    "answer": "测试成功，我正正常运行中。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\375.wav"
+  },
+  "376": {
+    "question": "你好吗",
+    "answer": "我很好，谢谢关心！有什么可以帮到您的吗？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\376.wav"
+  },
+  "377": {
+    "question": "Hello",
+    "answer": "Hello！请问有什么问题？",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\377.wav"
+  },
+  "378": {
+    "question": "今天最高温度是多少？",
+    "answer": "今日最高温预计为 32°C，注意高温防护。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\378.wav"
+  },
+  "379": {
+    "question": "过去 24 小时降雨量为多少？",
+    "answer": "累计降雨量约 15 mm，土壤湿度将明显增加。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\379.wav"
+  },
+  "380": {
+    "question": "现在风速是多少？",
+    "answer": "当前平均风速约 5 m/s，阵风可达 8 m/s。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\380.wav"
+  },
+  "381": {
+    "question": "气象站测到夜间最低温度？",
+    "answer": "夜间最低温将降至 18°C，注意夜间保温。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\381.wav"
+  },
+  "382": {
+    "question": "明天凌晨有露水吗？",
+    "answer": "根据湿度预报，凌晨可能出现重露。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\382.wav"
+  },
+  "383": {
+    "question": "持续高温会影响灌溉吗？",
+    "answer": "高温蒸发加剧，需适当提高灌溉频率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\383.wav"
+  },
+  "384": {
+    "question": "降雨后还能覆盖秸秆吗？",
+    "answer": "雨后需待地面干燥再进行覆盖，以防霉变。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\384.wav"
+  },
+  "385": {
+    "question": "风速大时怎样保护幼苗？",
+    "answer": "建议采用防风网或支架加固。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\385.wav"
+  },
+  "386": {
+    "question": "明天有大风预警吗？",
+    "answer": "气象局发布 6 m/s 以上大风预警，请提前加固设施。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\386.wav"
+  },
+  "387": {
+    "question": "高温下能否早晨喷药？",
+    "answer": "温度超过 30°C 易药效挥发，建议清晨 7 点前进行。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\387.wav"
+  },
+  "388": {
+    "question": "土壤温度会影响发芽吗？",
+    "answer": "土壤温度低于 10°C 会抑制种子萌发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\388.wav"
+  },
+  "389": {
+    "question": "大雨过后土壤含氧如何？",
+    "answer": "雨后土壤通气差，需加松土或控水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\389.wav"
+  },
+  "390": {
+    "question": "今晨风速突然增大原因？",
+    "answer": "受冷锋影响，局部阵风可达 10 m/s。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\390.wav"
+  },
+  "391": {
+    "question": "如何根据降雨预测安排灌溉？",
+    "answer": "若预计 >20 mm，可暂停人工灌溉。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\391.wav"
+  },
+  "392": {
+    "question": "温度骤降对作物有何影响？",
+    "answer": "骤降易诱发冻害，需覆盖保温材料。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\392.wav"
+  },
+  "393": {
+    "question": "雨后什么时候复耕最佳？",
+    "answer": "待土壤含水率降至 60% 后进行。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\393.wav"
+  },
+  "394": {
+    "question": "连续阴雨能否覆盖种植？",
+    "answer": "建议待降雨间隙进行覆盖，防止积水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\394.wav"
+  },
+  "395": {
+    "question": "阵风超过 7 m/s 时怎么办？",
+    "answer": "暂停无人机作业，避免设备受损。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\395.wav"
+  },
+  "396": {
+    "question": "明天下午降温幅度多少？",
+    "answer": "预计降温 5°C，最高温降至 27°C。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\396.wav"
+  },
+  "397": {
+    "question": "夜间大风会影响授粉吗？",
+    "answer": "强风易吹落花瓣，建议风小时段进行授粉。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\397.wav"
+  },
+  "398": {
+    "question": "雨后土壤湿度达到多少？",
+    "answer": "测得湿度约 80%，适宜根系呼吸。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\398.wav"
+  },
+  "399": {
+    "question": "高温天气要减少覆盖吗？",
+    "answer": "覆盖可保湿、降温，建议持续覆盖。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\399.wav"
+  },
+  "400": {
+    "question": "风速如何影响农机作业？",
+    "answer": "风速 > 6 m/s 不适宜喷雾作业，影响喷雾效果。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\400.wav"
+  },
+  "401": {
+    "question": "明天有霜冻风险吗？",
+    "answer": "凌晨温度将降至 2°C，有霜冻风险。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\401.wav"
+  },
+  "402": {
+    "question": "雨量小于 5 mm 还需灌溉？",
+    "answer": "微量降雨蒸发快，建议补灌 10 mm。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\402.wav"
+  },
+  "403": {
+    "question": "大风下如何固定大棚？",
+    "answer": "加重地锚并安装风挡板。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\403.wav"
+  },
+  "404": {
+    "question": "如何利用天气预报选择耐旱品种？",
+    "answer": "若持续高温干旱，可选择抗旱玉米品种。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\404.wav"
+  },
+  "405": {
+    "question": "雨后覆盖能保温吗？",
+    "answer": "覆盖可减少温度波动，保护根系。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\405.wav"
+  },
+  "406": {
+    "question": "强对流天气如何保护育苗？",
+    "answer": "及时撤离临时棚，并加固支撑。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\406.wav"
+  },
+  "407": {
+    "question": "风速过低会影响通风吗？",
+    "answer": "低风速易高湿，建议开窗通风或加风机。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\407.wav"
+  },
+  "408": {
+    "question": "雨季是否需调整覆盖材料？",
+    "answer": "可选用防水透气布，兼顾保湿与透气。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\408.wav"
+  },
+  "409": {
+    "question": "高温下耐旱品种表现如何？",
+    "answer": "耐旱品种根系更发达，抗旱能力强。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\409.wav"
+  },
+  "410": {
+    "question": "大风天气可用遮阳网吗？",
+    "answer": "需确保网孔细密并加固边缘。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\410.wav"
+  },
+  "411": {
+    "question": "夜间降雨是否影响覆盖？",
+    "answer": "轻雨可保湿，注意排水通道畅通。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\411.wav"
+  },
+  "412": {
+    "question": "如何用降雨量调整覆膜密度？",
+    "answer": "大雨季节可减薄覆膜，防止积水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\412.wav"
+  },
+  "413": {
+    "question": "持续高温对覆盖材料有损害吗？",
+    "answer": "高温会加速老化，建议定期更换。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\413.wav"
+  },
+  "414": {
+    "question": "风速大时耐涝品种应如何？",
+    "answer": "抗涝品种耐水性好，但需防风击。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\414.wav"
+  },
+  "415": {
+    "question": "日平均温如何影响覆盖时长？",
+    "answer": "温度高时延长覆盖，防止土壤蒸发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\415.wav"
+  },
+  "416": {
+    "question": "降雨均匀时可不覆盖？",
+    "answer": "覆盖仍能维持土壤结构，建议保留。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\416.wav"
+  },
+  "417": {
+    "question": "高温干旱时覆盖深度？",
+    "answer": "建议 5 cm 左右，兼顾保水和透气。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\417.wav"
+  },
+  "418": {
+    "question": "风速中等可否继续覆盖？",
+    "answer": "可降低覆盖高度并固定好边缘。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\418.wav"
+  },
+  "419": {
+    "question": "雨后多久可再次覆盖？",
+    "answer": "待地表水渗干后，约 6 小时。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\419.wav"
+  },
+  "420": {
+    "question": "温度骤降易积水吗？",
+    "answer": "低温减缓蒸发，注意排水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\420.wav"
+  },
+  "421": {
+    "question": "风速变化如何调整覆盖？",
+    "answer": "风大时加重覆盖物或减少覆盖面积。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\421.wav"
+  },
+  "422": {
+    "question": "耐旱品种在强光下表现？",
+    "answer": "合适耐旱作物叶片能减少水分蒸腾。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\422.wav"
+  },
+  "423": {
+    "question": "雨后覆盖会抑制病害吗？",
+    "answer": "覆盖能减少病菌溅起，但需通气。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\423.wav"
+  },
+  "424": {
+    "question": "高温时可否用反光膜？",
+    "answer": "反光膜能降低地表温度，但成本高。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\424.wav"
+  },
+  "425": {
+    "question": "暴雨后如何修复覆盖？",
+    "answer": "及时揭开检修并重新安装覆盖材料。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\425.wav"
+  },
+  "426": {
+    "question": "风速过大怎样预防土壤侵蚀？",
+    "answer": "使用遮风网并覆盖秸秆防止流失。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\426.wav"
+  },
+  "427": {
+    "question": "耐旱品种在弱风下？",
+    "answer": "弱风减少蒸散，耐旱优势不明显。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\427.wav"
+  },
+  "428": {
+    "question": "降雨预报可靠度？",
+    "answer": "短期预报准确率约 80%，仅供参考。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\428.wav"
+  },
+  "429": {
+    "question": "高温下覆盖要透气吗？",
+    "answer": "需选用透气材料，否则易高温伤根。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\429.wav"
+  },
+  "430": {
+    "question": "雨后用覆盖能提高土温吗？",
+    "answer": "覆盖可保持温度，防止骤冷。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\430.wav"
+  },
+  "431": {
+    "question": "风速影响覆盖材料选择？",
+    "answer": "风大时选用防风效果好的重质材料。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\431.wav"
+  },
+  "432": {
+    "question": "耐涝品种需覆盖吗？",
+    "answer": "仍建议覆盖，以防雨后土壤板结。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\432.wav"
+  },
+  "433": {
+    "question": "降雨时覆盖是否移除？",
+    "answer": "小雨可保留，大雨建议暂时移除。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\433.wav"
+  },
+  "434": {
+    "question": "高温下覆盖与灌溉如何结合？",
+    "answer": "覆盖后可减少灌溉频次，提高效率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\434.wav"
+  },
+  "435": {
+    "question": "风速 3 m/s 是否安全覆盖？",
+    "answer": "可正常作业，但需检查固定情况。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\435.wav"
+  },
+  "436": {
+    "question": "暴雨预警下覆盖怎么办？",
+    "answer": "提前加固或暂时移除防止损坏。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\436.wav"
+  },
+  "437": {
+    "question": "耐旱品种根系深度？",
+    "answer": "一般可达 1.5 米以上，更耐旱。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\437.wav"
+  },
+  "438": {
+    "question": "覆盖如何影响风速对作物的影响？",
+    "answer": "覆盖能减少地表扰动，但对风速影响有限。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\438.wav"
+  },
+  "439": {
+    "question": "雨后覆盖防止霜冻吗？",
+    "answer": "覆盖可保温，但霜冻需额外防护。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\439.wav"
+  },
+  "440": {
+    "question": "高温时覆盖厚度？",
+    "answer": "宜薄厚适中，约 3–5 cm。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\440.wav"
+  },
+  "441": {
+    "question": "风速 10 m/s 时覆盖风险？",
+    "answer": "高风险，建议暂停并加固。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\441.wav"
+  },
+  "442": {
+    "question": "耐旱品种生育期长吗？",
+    "answer": "生育期略短，有助避开干季。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\442.wav"
+  },
+  "443": {
+    "question": "降雨 5 mm 后多久灌溉？",
+    "answer": "待蒸发一半后再补灌。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\443.wav"
+  },
+  "444": {
+    "question": "覆盖与施肥同时进行？",
+    "answer": "可先施肥再覆盖，效率更高。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\444.wav"
+  },
+  "445": {
+    "question": "风速 7 m/s 覆盖材料推荐？",
+    "answer": "可选用重型塑料或砂袋固定。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\445.wav"
+  },
+  "446": {
+    "question": "耐旱品种与普通品种区别？",
+    "answer": "叶片更厚、气孔更少，蒸腾更低。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\446.wav"
+  },
+  "447": {
+    "question": "降雨量与覆盖时机？",
+    "answer": "小雨后可立即覆盖，大雨后需等地干。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\447.wav"
+  },
+  "448": {
+    "question": "覆盖如何防止高温？",
+    "answer": "覆盖可反射热量或保温，视材料而定。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\448.wav"
+  },
+  "449": {
+    "question": "风速影响灌溉喷头吗？",
+    "answer": "风大时喷雾偏移，需关闭或低速运行。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\449.wav"
+  },
+  "450": {
+    "question": "耐旱品种需不需要覆盖？",
+    "answer": "覆盖可进一步保水，建议配合使用。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\450.wav"
+  },
+  "451": {
+    "question": "降雨断续怎么办？",
+    "answer": "根据间歇降雨动态调整覆盖和灌溉。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\451.wav"
+  },
+  "452": {
+    "question": "覆盖时如何防止积水？",
+    "answer": "留出排水口并定期检查。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\452.wav"
+  },
+  "453": {
+    "question": "风速预报误差大吗？",
+    "answer": "短期误差约 ±1 m/s，需动态监测。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\453.wav"
+  },
+  "454": {
+    "question": "耐旱品种光合效率高吗？",
+    "answer": "略低于普通品种，但节水效果显著。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\454.wav"
+  },
+  "455": {
+    "question": "降雨不足如何覆盖？",
+    "answer": "覆盖仍可减少蒸发，提高利用率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\455.wav"
+  },
+  "456": {
+    "question": "覆盖后风干时间？",
+    "answer": "约 2 小时后才可恢复正常作业。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\456.wav"
+  },
+  "457": {
+    "question": "耐旱品种根系分布？",
+    "answer": "更深更广，吸水能力强。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\457.wav"
+  },
+  "458": {
+    "question": "降雨预测与实际差距？",
+    "answer": "雨量误差约 ±2 mm，需留有余地。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\458.wav"
+  },
+  "459": {
+    "question": "覆盖防止风吹砂？",
+    "answer": "覆盖可固定土壤，降低风蚀。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\459.wav"
+  },
+  "460": {
+    "question": "耐旱品种叶厚度？",
+    "answer": "叶肉更厚，储水能力强。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\460.wav"
+  },
+  "461": {
+    "question": "降雨过多影响覆盖吗？",
+    "answer": "大雨可导致覆盖滑移，需重铺。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\461.wav"
+  },
+  "462": {
+    "question": "覆盖与风速控制装置结合吗？",
+    "answer": "可同时使用风挡与覆盖，双重保护。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\462.wav"
+  },
+  "463": {
+    "question": "耐旱品种生育适温？",
+    "answer": "可耐 35°C 以上高温。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\463.wav"
+  },
+  "464": {
+    "question": "降雨量与耐涝品种关系？",
+    "answer": "大雨季节可选耐涝品种减少淹水损失。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\464.wav"
+  },
+  "465": {
+    "question": "覆盖材料环保吗？",
+    "answer": "可选生物降解膜，减少污染。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\465.wav"
+  },
+  "466": {
+    "question": "耐涝品种根茎特征？",
+    "answer": "根茎耐缺氧，有气孔组织。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\466.wav"
+  },
+  "467": {
+    "question": "降雨时覆盖是否滑落？",
+    "answer": "可用锚固钉或沙袋固定。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\467.wav"
+  },
+  "468": {
+    "question": "覆盖与秸秆结合？",
+    "answer": "可铺秸秆后覆盖膜，增强保湿。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\468.wav"
+  },
+  "469": {
+    "question": "耐旱品种需不需要额外灌溉？",
+    "answer": "仍需适量灌溉，覆盖可减少蒸发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\469.wav"
+  },
+  "470": {
+    "question": "降雨后覆盖需翻动吗？",
+    "answer": "无需翻动，保持覆盖层稳定。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\470.wav"
+  },
+  "471": {
+    "question": "覆盖可否提升产量？",
+    "answer": "保湿保温，有助增产 5%–10%。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\471.wav"
+  },
+  "472": {
+    "question": "耐涝品种适合哪些地区？",
+    "answer": "低洼易涝地区种植效果佳。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\472.wav"
+  },
+  "473": {
+    "question": "降雨季节覆盖策略？",
+    "answer": "可选半覆盖或可拆卸覆盖模式。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\473.wav"
+  },
+  "474": {
+    "question": "覆盖后如何监测土温？",
+    "answer": "在覆膜下埋温度传感器实时监测。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\474.wav"
+  },
+  "475": {
+    "question": "耐旱品种施肥量？",
+    "answer": "下追肥量可略减，减少烧根风险。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\475.wav"
+  },
+  "476": {
+    "question": "降雨断面覆膜效果？",
+    "answer": "可防止降雨冲刷植株基部。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\476.wav"
+  },
+  "477": {
+    "question": "覆盖加耐旱品种配合效果？",
+    "answer": "组合使用可将旱灾损失降低 30%。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\477.wav"
+  },
+  "478": {
+    "question": "为什么保护生物多样性很重要？",
+    "answer": "多样性能增强生态系统韧性，提高抵御病虫害和气候变化的能力。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\478.wav"
+  },
+  "479": {
+    "question": "生态系统服务包含哪些内容？",
+    "answer": "主要有空气净化、水源涵养、授粉以及土壤保持等功能。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\479.wav"
+  },
+  "480": {
+    "question": "热带雨林为何被称为“地球之肺”？",
+    "answer": "因为其丰富的生物多样性能高效吸收二氧化碳并释放氧气。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\480.wav"
+  },
+  "481": {
+    "question": "农业如何影响本地物种？",
+    "answer": "过度耕作和化学农药会破坏栖息地，降低物种丰富度。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\481.wav"
+  },
+  "482": {
+    "question": "城市绿地对生态系统服务有何贡献？",
+    "answer": "能减缓城市热岛效应，并提供微气候调节和生物栖息空间。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\482.wav"
+  },
+  "483": {
+    "question": "为何蜜蜂数量骤减令人担忧？",
+    "answer": "蜜蜂是重要授粉者，它们的减少会影响作物产量与生态平衡。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\483.wav"
+  },
+  "484": {
+    "question": "恢复湿地有何生态价值？",
+    "answer": "湿地可净化水体、储存洪水、并提供候鸟栖息地。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\484.wav"
+  },
+  "485": {
+    "question": "保护基因多样性有什么意义？",
+    "answer": "能为未来育种提供更多耐逆性基因资源。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\485.wav"
+  },
+  "486": {
+    "question": "如何通过生态服务评估一个区域价值？",
+    "answer": "可量化其对水源净化、碳固存和生计支撑的贡献。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\486.wav"
+  },
+  "487": {
+    "question": "物种灭绝会带来什么风险？",
+    "answer": "会削弱食物链稳定性，导致生态系统崩溃。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\487.wav"
+  },
+  "488": {
+    "question": "有机认证需要满足哪些标准？",
+    "answer": "禁止合成农药、化肥、转基因材料，并要求良好农业规范。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\488.wav"
+  },
+  "489": {
+    "question": "有机肥对土壤健康有什么好处？",
+    "answer": "能增加有机质含量，改善土壤团粒结构和水分保持能力。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\489.wav"
+  },
+  "490": {
+    "question": "土壤pH值如何影响作物生长？",
+    "answer": "pH过高或过低都会影响养分可用性，需施石灰或硫磺调节。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\490.wav"
+  },
+  "491": {
+    "question": "为何推荐轮作？",
+    "answer": "轮作能打破病虫害循环，并提高土地养分利用效率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\491.wav"
+  },
+  "492": {
+    "question": "有机农业如何控制病虫害？",
+    "answer": "依靠生物防治、诱虫灯和农家肥喷洒等生态友好措施。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\492.wav"
+  },
+  "493": {
+    "question": "怎样判断土壤是否健康？",
+    "answer": "可通过测定有机质含量、微生物多样性和团粒结构评价。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\493.wav"
+  },
+  "494": {
+    "question": "有机农业的产量会低于常规农业吗？",
+    "answer": "初期可能略低，但长期来看可通过改良土壤恢复产能。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\494.wav"
+  },
+  "495": {
+    "question": "有机认证周期有多长？",
+    "answer": "一般需三年转换期，确保土壤和作物达到有机标准。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\495.wav"
+  },
+  "496": {
+    "question": "如何检测土壤中的重金属？",
+    "answer": "可采样化验，分析镉、铅、砷等元素含量。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\496.wav"
+  },
+  "497": {
+    "question": "有机农业对水质有什么好处？",
+    "answer": "减少化肥和农药流失，保护地表和地下水资源。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\497.wav"
+  },
+  "498": {
+    "question": "家庭厨余垃圾可以怎样堆肥？",
+    "answer": "可使用堆肥桶、堆肥堆或Bokashi发酵方式。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\498.wav"
+  },
+  "499": {
+    "question": "堆肥需要注意哪些 C/N 比？",
+    "answer": "最佳碳氮比约在 25–30:1，有助于高效分解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\499.wav"
+  },
+  "500": {
+    "question": "堆肥过程为何要定期翻堆？",
+    "answer": "翻堆能补充氧气，加速好氧分解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\500.wav"
+  },
+  "501": {
+    "question": "废水再利用有哪些常见途径？",
+    "answer": "可用于农田灌溉、补充地下水或工业冷却水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\501.wav"
+  },
+  "502": {
+    "question": "废水再利用前需做哪些处理？",
+    "answer": "通常需经过一级沉淀、二级生化和三级消毒。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\502.wav"
+  },
+  "503": {
+    "question": "堆肥后产出的腐熟物如何使用？",
+    "answer": "可作为基肥或土壤改良剂，提升养分和结构。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\503.wav"
+  },
+  "504": {
+    "question": "如何防止堆肥异味？",
+    "answer": "保持适宜湿度和通气，避免过度堆积。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\504.wav"
+  },
+  "505": {
+    "question": "雨水能否直接用于灌溉？",
+    "answer": "若无污染，可收集后储存再利用。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\505.wav"
+  },
+  "506": {
+    "question": "废水中的营养物质价值如何？",
+    "answer": "含氮磷钾，可替代部分化肥。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\506.wav"
+  },
+  "507": {
+    "question": "小规模农场如何实施循环农业？",
+    "answer": "可建设小型沼气池、堆肥厂和雨水收集系统。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\507.wav"
+  },
+  "508": {
+    "question": "什么是沼渣沼液利用？",
+    "answer": "沼气工程产物可用于土壤改良和植物营养。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\508.wav"
+  },
+  "509": {
+    "question": "堆肥温度为何要达到 55°C 以上？",
+    "answer": "高温可杀死病源微生物和杂草种子。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\509.wav"
+  },
+  "510": {
+    "question": "废水重金属如何去除？",
+    "answer": "可通过沉淀、絮凝和活性炭吸附等方法。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\510.wav"
+  },
+  "511": {
+    "question": "家庭雨水收集系统要点？",
+    "answer": "安装滤网、保持溢流口通畅并定期清洁。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\511.wav"
+  },
+  "512": {
+    "question": "堆肥用菌剂有必要吗？",
+    "answer": "自然堆肥已有微生物群落，菌剂可加速初期分解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\512.wav"
+  },
+  "513": {
+    "question": "工业废水与生活废水可以混合处理吗？",
+    "answer": "需先评估污染物类型，避免毒性影响生化处理。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\513.wav"
+  },
+  "514": {
+    "question": "堆肥成熟的判断依据？",
+    "answer": "温度回落、堆体变松散且无异味。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\514.wav"
+  },
+  "515": {
+    "question": "废水再利用的法律法规？",
+    "answer": "需要遵守当地水质标准和排放许可。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\515.wav"
+  },
+  "516": {
+    "question": "堆肥容器选材有讲究吗？",
+    "answer": "最好选用透气性好且防渗漏的材料。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\516.wav"
+  },
+  "517": {
+    "question": "废水可以直接灌溉果树吗？",
+    "answer": "需确保消毒彻底并控制灌溉方式避免果实受污染。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\517.wav"
+  },
+  "518": {
+    "question": "堆肥过程中氨气味严重怎么办？",
+    "answer": "调整材料 C/N 比并增加通气。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\518.wav"
+  },
+  "519": {
+    "question": "灰水与黑水区别？",
+    "answer": "灰水来源于洗涤、淋浴；黑水来自厕所须单独处理。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\519.wav"
+  },
+  "520": {
+    "question": "堆肥液如何使用？",
+    "answer": "稀释后可作叶面肥或根部冲施液肥。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\520.wav"
+  },
+  "521": {
+    "question": "废水中藻类如何清除？",
+    "answer": "可先做沉淀，再进行膜过滤。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\521.wav"
+  },
+  "522": {
+    "question": "堆肥适合哪些原料？",
+    "answer": "果蔬废料、落叶、秸秆和园林废弃物。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\522.wav"
+  },
+  "523": {
+    "question": "污水处理厂的中水回用率？",
+    "answer": "现代化厂可达到 80% 以上的中水回用。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\523.wav"
+  },
+  "524": {
+    "question": "堆肥中常用碳源有哪些？",
+    "answer": "稻壳、木屑、锯末和落叶。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\524.wav"
+  },
+  "525": {
+    "question": "废水中病原微生物如何灭活？",
+    "answer": "需进行消毒，可选氯化或紫外消毒。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\525.wav"
+  },
+  "526": {
+    "question": "堆肥盆需要开孔吗？",
+    "answer": "需要，保证空气交换。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\526.wav"
+  },
+  "527": {
+    "question": "废水再利用有哪些风险？",
+    "answer": "可能含病原菌、重金属和有机污染物。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\527.wav"
+  },
+  "528": {
+    "question": "堆肥可产生温室气体吗？",
+    "answer": "好氧堆肥产生 CO₂ 少 CH₄；厌氧堆肥需严格控氧。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\528.wav"
+  },
+  "529": {
+    "question": "灌溉用水回收标准是什么？",
+    "answer": "需符合《农业灌溉水质标准》相关指标。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\529.wav"
+  },
+  "530": {
+    "question": "堆肥如何储存？",
+    "answer": "应保持通风干燥，避免二次分解。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\530.wav"
+  },
+  "531": {
+    "question": "废水回用能否节省成本？",
+    "answer": "可减少清水用量，但需投入处理设备成本。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\531.wav"
+  },
+  "532": {
+    "question": "堆肥成熟后 pH 值如何？",
+    "answer": "一般接近中性，有利植物吸收。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\532.wav"
+  },
+  "533": {
+    "question": "废水中氨氮如何去除？",
+    "answer": "可采用生物脱氮或化学沉淀法。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\533.wav"
+  },
+  "534": {
+    "question": "堆肥会吸引虫害吗？",
+    "answer": "若材料不均匀或过湿易滋生蛆虫。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\534.wav"
+  },
+  "535": {
+    "question": "废水再利用对地下水有影响吗？",
+    "answer": "若管理不当可渗入地下水，需做好防渗措施。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\535.wav"
+  },
+  "536": {
+    "question": "堆肥用什么温度记录仪？",
+    "answer": "可使用耐高温探头式温度计或数据记录仪。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\536.wav"
+  },
+  "537": {
+    "question": "废水再利用怎样监控水质？",
+    "answer": "需定期检测 COD、氨氮和病原菌指标。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\537.wav"
+  },
+  "538": {
+    "question": "堆肥可用来种花种菜吗？",
+    "answer": "成熟堆肥可安全用于大多数园艺作物。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\538.wav"
+  },
+  "539": {
+    "question": "废水中重金属标准是多少？",
+    "answer": "需符合《污水再利用水质标准》限值。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\539.wav"
+  },
+  "540": {
+    "question": "堆肥过程中细菌作用如何？",
+    "answer": "细菌主导初期分解氨基酸和糖类。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\540.wav"
+  },
+  "541": {
+    "question": "废水再利用的公共接受度？",
+    "answer": "取决于处理工艺透明度与公众教育。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\541.wav"
+  },
+  "542": {
+    "question": "堆肥可促进土壤团聚体形成吗？",
+    "answer": "可，增加土壤透气性与保水性。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\542.wav"
+  },
+  "543": {
+    "question": "废水回用对作物产量有帮助吗？",
+    "answer": "合格中水可维持正常产量并节水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\543.wav"
+  },
+  "544": {
+    "question": "堆肥需要添加菌剂吗？",
+    "answer": "一般无需，但在低温季节可添加启动剂。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\544.wav"
+  },
+  "545": {
+    "question": "废水再利用如何防止病害传播？",
+    "answer": "需彻底消毒并控制使用方式。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\545.wav"
+  },
+  "546": {
+    "question": "堆肥的最佳湿度？",
+    "answer": "约在 50–60% 之间最为理想。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\546.wav"
+  },
+  "547": {
+    "question": "废水再利用的经济效益？",
+    "answer": "可节省市政水费，并减少污水排放成本。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\547.wav"
+  },
+  "548": {
+    "question": "堆肥是否能杀死杂草种子？",
+    "answer": "高温堆肥可有效灭活大多数种子。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\548.wav"
+  },
+  "549": {
+    "question": "废水中有机物如何去除？",
+    "answer": "二级生化处理可去除 85–90% 有机物。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\549.wav"
+  },
+  "550": {
+    "question": "堆肥用氧气仪有必要吗？",
+    "answer": "可监测含氧量，帮助判断通气是否足够。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\550.wav"
+  },
+  "551": {
+    "question": "废水再利用对土壤盐渍化有何影响？",
+    "answer": "长期用水需谨防含盐分积累。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\551.wav"
+  },
+  "552": {
+    "question": "堆肥可用来改善酸性土壤吗？",
+    "answer": "可，堆肥一般呈中性，有助调节 pH。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\552.wav"
+  },
+  "553": {
+    "question": "废水回用要做安全评价吗？",
+    "answer": "需进行风险评估，确保健康安全。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\553.wav"
+  },
+  "554": {
+    "question": "堆肥的分解速度快慢受什么影响？",
+    "answer": "受温度、水分和 C/N 比共同影响。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\554.wav"
+  },
+  "555": {
+    "question": "废水再利用在农业推广的难点？",
+    "answer": "主要是公众接受度和基础设施建设成本。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\555.wav"
+  },
+  "556": {
+    "question": "堆肥如何防止病原菌？",
+    "answer": "高温堆肥和适时翻堆可抑制病菌。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\556.wav"
+  },
+  "557": {
+    "question": "废水再利用如何回收磷？",
+    "answer": "可通过化学沉淀生成磷酸钙回收。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\557.wav"
+  },
+  "558": {
+    "question": "堆肥后残渣要筛分吗？",
+    "answer": "可筛出未分解大块再继续堆肥。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\558.wav"
+  },
+  "559": {
+    "question": "废水再利用能否用于食品作物？",
+    "answer": "需达到较高处理标准并获得认证。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\559.wav"
+  },
+  "560": {
+    "question": "堆肥菌群如何监测？",
+    "answer": "可用微生物测序或菌落计数方法。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\560.wav"
+  },
+  "561": {
+    "question": "废水再利用的循环经济意义？",
+    "answer": "将废水视为资源，将成本转化为收益。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\561.wav"
+  },
+  "562": {
+    "question": "堆肥中重金属如何监测？",
+    "answer": "成品堆肥需做重金属含量检测。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\562.wav"
+  },
+  "563": {
+    "question": "废水再利用如何兼顾生态保护？",
+    "answer": "需确保流域水循环不受破坏并保护野生动植物。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\563.wav"
+  },
+  "564": {
+    "question": "堆肥的成熟时间？",
+    "answer": "一般为 2–4 个月视材料和环境而定。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\564.wav"
+  },
+  "565": {
+    "question": "废水再利用会影响土壤微生物吗？",
+    "answer": "合格中水对微生物影响较小，但需长期监测。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\565.wav"
+  },
+  "566": {
+    "question": "堆肥可促进碳固存吗？",
+    "answer": "有机质被固定于土壤，可提高碳汇能力。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\566.wav"
+  },
+  "567": {
+    "question": "废水再利用如何促进生物多样性？",
+    "answer": "可减缓淡水资源压力，保护自然生态用水。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\567.wav"
+  },
+  "568": {
+    "question": "堆肥应在室内还是室外？",
+    "answer": "可户外堆，也可小规模室内堆肥箱。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\568.wav"
+  },
+  "569": {
+    "question": "废水再利用适合哪些作物？",
+    "answer": "如花卉、观赏植物和部分果树等耐盐作物。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\569.wav"
+  },
+  "570": {
+    "question": "堆肥需要防雨吗？",
+    "answer": "大雨会冲走养分，建议覆盖防雨布。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\570.wav"
+  },
+  "571": {
+    "question": "废水再利用如何监测重金属？",
+    "answer": "定期检测水样，符合标准方可使用。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\571.wav"
+  },
+  "572": {
+    "question": "堆肥用什么容器最环保？",
+    "answer": "再生塑料或木箱皆可，避免新的资源消耗。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\572.wav"
+  },
+  "573": {
+    "question": "废水再利用的社会效益？",
+    "answer": "可创造就业并提升社区环保意识。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\573.wav"
+  },
+  "574": {
+    "question": "堆肥的体积变化？",
+    "answer": "约减半，因有机物分解损失水分与 CO₂。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\574.wav"
+  },
+  "575": {
+    "question": "废水再利用存在法律风险吗？",
+    "answer": "需严格遵守水质法规，避免污染责任。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\575.wav"
+  },
+  "576": {
+    "question": "堆肥后如何储存和运输？",
+    "answer": "干化后包装，避免二次污染和滋生虫害。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\576.wav"
+  },
+  "577": {
+    "question": "废水再利用如何结合可再生能源？",
+    "answer": "可利用沼气发电，为处理设施提供动力。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\577.wav"
+  },
+  "578": {
+    "question": "我家庄稼可能得了叶斑病，该怎么办？",
+    "answer": "建议先对田间叶片进行仔细检查，确认是否有褐色或黑色圆形斑点并伴随黄化或枯边现象。若确诊，可选用枯草芽孢杆菌、百菌清等生物或低毒性化学制剂喷施，并注意每隔7–10日重复一次。田间还要保持通风透光，避免高湿和密植，及时清理病残体，实施轮作和合理施肥，可有效减轻叶斑病危害。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\578.wav"
+  },
+  "579": {
+    "question": "怎么判断是不是螨虫？",
+    "answer": "螨虫体型极小，肉眼难以分辨，一般表现为叶片背面出现细小黄白色斑点或网状淡化，严重时叶片干枯脱落。可取受害叶片，用放大镜或显微镜观察是否有点状或丝状爬行体。也可将疑似叶片放入透明袋内轻轻拍打，看是否有细小浮游黑点。若不确定，可送植保站或实验室进行鉴定。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\579.wav"
+  },
+  "580": {
+    "question": "最近看到一些像是飞虱的虫子，这要紧吗？",
+    "answer": "飞虱为刺吸式口器害虫，可在短时间内群体爆发，并传播多种植物病毒。刚发现少量时，可先用黄色粘板监测虫口动态，评估危害程度；若密度持续升高，则建议结合生物防治（释放草蛉、寄生蜂）和低毒性化学防治（吡虫啉等）交替用药，控制在经济损害阈值以下，避免大面积爆发。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\580.wav"
+  },
+  "581": {
+    "question": "有没有不用农药就能控制疫病的方法？",
+    "answer": "疫病主要由真菌或细菌引起，生物防治可选用枯草芽孢杆菌、解淀粉芽孢杆菌等微生物制剂，通过拮抗、竞争或产生抗菌物质抑制病原菌。另可苗期使用种衣剂进行种子消毒，田间铺设遮阳网、改善排水，加强田间卫生管理和轮作，提升作物自身抗病力，达到生态安全且无农残的防病效果。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\581.wav"
+  },
+  "582": {
+    "question": "生物防治适用于哪些类型的虫害？",
+    "answer": "生物防治主要依靠天敌昆虫（如瓢虫、草蛉、寄生蜂）、微生物（如白僵菌、绿僵菌）和植物源提取物，对软体吸汁害虫（蚜虫、粉虱、蓟马、飞虱）和部分螨虫、蛀茎害虫均有显著效果。因其无化学残留，不会破坏生态环境，可在温室、设施农业及有机种植中广泛推广应用。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\582.wav"
+  },
+  "583": {
+    "question": "蚜虫和物理陷阱哪个更环保？",
+    "answer": "物理陷阱（如黄板、蓝板）无需任何化学成分，只利用昆虫趋光或趋色特性，粘捕飞行阶段害虫；对非靶标昆虫伤害小，无残留，对人畜安全。而蚜虫本身是害虫，不是防治手段。若比较物理陷阱与化学农药，前者环保性最高，但可与天敌释放等生物防治结合，以提高防治效率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\583.wav"
+  },
+  "584": {
+    "question": "什么是根腐病？它的症状是什么？",
+    "answer": "根腐病是土传真菌（如镰刀菌、腐霉菌）或细菌侵染根系造成的病害。早期根部褐变、软化、失去弹性；地上部则出现叶片黄化、萎蔫、株型矮小，严重时整株枯死。检视根系可见黑褐色腐烂区，并有异味。该病常发生于土壤过湿、排水不良或连作田块，应及时改良土壤环境。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\584.wav"
+  },
+  "585": {
+    "question": "我该怎么防治螨虫？",
+    "answer": "螨虫防治可综合运用物理、高温和生物方法：先保持田间通风透光及清除杂草；日间高温时段（如正午）用高压热水冲洗叶面；释放捕食性螨（如食螨虫）或瓢虫进行生物防治；必要时选用植物源农药（如苦楝素）或低毒性化学制剂（如阿维菌素）轮换使用，避免抗性并减少对益虫伤害。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\585.wav"
+  },
+  "586": {
+    "question": "飞虱对作物的危害大吗？",
+    "answer": "飞虱具有高繁殖速度和迁飞能力，可大量取食叶汁并吸取植物体液，引起叶面黄化、萎蔫，严重者导致株体衰弱。更重要的是它们能传播稻瘟病、黄矮病等病毒性疾病，造成减产或绝收。若不及时监测和防控，后期防治成本高、效果差，建议发现后迅速采取综合防控。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\586.wav"
+  },
+  "587": {
+    "question": "能不能推荐一些化学农药的方法？",
+    "answer": "化学防治要遵循“轮换用药、适时施药”原则：针对刺吸式害虫可选用吡虫啉、噻虫嗪等内吸传导型药剂；针对螨害可用阿维菌素、啶虫脒等；喷药时注意雾化均匀并全株覆盖，避开高温时段，以降低光解和挥发损失。施药后严格遵守安全间隔期，避免残留并轮换作用机制相异的农药。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\587.wav"
+  },
+  "588": {
+    "question": "叶斑病是否可以通过生物防治解决？",
+    "answer": "可以。可选用枯草芽孢杆菌、解淀粉芽孢杆菌等生物制剂喷施，它们通过分泌抗真菌物质或占据病原菌生态位来抑制叶斑病原真菌生长。同时结合作物抗病品种、田间通风和清园措施，效果更佳。生物防治无残留，适合有机农业及对农残敏感市场。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\588.wav"
+  },
+  "589": {
+    "question": "疫病和飞虱哪个更常见？",
+    "answer": "疫病（如稻瘟病、晚疫病）多在雨季或灌溉过度的田块高发，几乎每年都能见到；飞虱则在气温25–30℃、高湿环境下繁殖迅速，常见于夏季高峰期。但两者爆发时机会重叠，如湿热季节疫情更严重，需同时监测，按阈值分别采取生物、化学及田间措施综合防控。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\589.wav"
+  },
+  "590": {
+    "question": "有没有不伤害益虫的方法来防治蚜虫？",
+    "answer": "可以采用诱导释放性费洛蒙、黄色粘板、释放瓢虫和寄生蜂等生物天敌方式捕食蚜虫；或者喷施植物源提取物（如白芷、艾蒿提取物），对害虫具有抑制作用但对天敌毒性低。还可通过栽培间作、施用抗蚜品种提高田间生态多样性，减少化学农药使用，保护益虫群体。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\590.wav"
+  },
+  "591": {
+    "question": "物理陷阱适用于什么样的虫害？",
+    "answer": "物理陷阱主要针对具飞行能力的害虫，如飞虱、白粉虱、蓟马、菜青虫成虫等。以黄色或蓝色板面结合粘虫剂，利用害虫趋光、趋色本能将成虫诱集粘杀。适合温室、设施和露地有机栽培，可持续监测害虫动态并及时评估防治效果。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\591.wav"
+  },
+  "592": {
+    "question": "我不想用化学农药，还有别的办法吗？",
+    "answer": "除生物防治（释放天敌、施用微生物制剂）和物理防治（粘板、风扇驱逐）外，还可改善田间管理：合理密植和轮作、调整施肥比例、增施有机质、提升作物自身抗性；实施精准灌溉、防止过湿；使用抗病品种；施用诱捕植物或套种驱虫作物，通过综合技术减少农药依赖。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\592.wav"
+  },
+  "593": {
+    "question": "叶斑病是由什么引起的？",
+    "answer": "叶斑病大多由真菌（如早疫霉、白粉菌、炭疽菌）或少数细菌（如角斑细菌）感染叶片组织所致。高温多湿、密植通风差及氮肥过量都会助长病原菌繁殖。病菌通过孢子在叶面发芽侵入，在叶片组织内繁殖形成斑点并产生病原毒素，最终导致叶片枯黄脱落。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\593.wav"
+  },
+  "594": {
+    "question": "根腐病和疫病哪个更危险？",
+    "answer": "根腐病主要破坏根系组织，影响水肥吸收，作物逐渐萎蔫，难以快速恢复；疫病则病发迅速，可在短时间内在叶片或穗部大面积扩散并造成死株。两者危害方式不同，疫病爆发速度更快、易形成流行，根腐病危害隐蔽且难早期发现，需结合田间条件综合评估风险并及时防治。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\594.wav"
+  },
+  "595": {
+    "question": "化学农药会不会导致抗药性？",
+    "answer": "会的。长期、单一或超剂量使用同类作用机制的农药，会让害虫不断积累耐药基因，降低药剂对其毒杀效果。为延缓抗性出现，需轮换不同作用方式的药剂，并与生物、物理防治结合，保持田间害虫的敏感性，确保化学防治在作物全生育期内持续有效。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\595.wav"
+  },
+  "596": {
+    "question": "我听说螨虫肉眼看不见，这是真的吗？",
+    "answer": "是的，螨虫体长通常在0.1–0.5毫米之间，肉眼难以识别。叶背或叶缘出现黄白色斑点、幼叶卷曲或叶面出现细网状纹理时，可取样在显微镜或放大镜下查看。如发现螨体或卵块，则可判定为螨虫侵染，及时配合生物或化学手段进行防治。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\596.wav"
+  },
+  "597": {
+    "question": "怎么才能有效防止飞虱爆发？",
+    "answer": "首先定期布设黄色粘板监测虫口，掌握密度变化；通过合理密植降低田间通风阻力；清除田间杂草和寄主杂草，减少虫源；适时释放天敌如寄生蜂、草蛉；在密度接近阈值时，结合内吸传导型药剂局部点施，避免大面积喷药，并实行轮换用药以防抗性。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\597.wav"
+  },
+  "598": {
+    "question": "哪种方法防治蚜虫更安全？",
+    "answer": "生物防治最安全：释放瓢虫、寄生蜂等天敌，利用它们捕食或寄生蚜虫；喷施植物源提取物如大蒜素、辣椒素等，对蚜虫有触杀或干扰繁殖作用，但对哺乳动物和天敌毒性低；结合黄色粘板监测，避免化学农药对生态系统造成破坏。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\598.wav"
+  },
+  "599": {
+    "question": "病害爆发前有什么预警指标？",
+    "answer": "土壤过湿、排水不良或灌溉过量可导致田间湿度骤增；气温骤变（如连阴雨后骤然回暖）容易触发真菌、细菌病原爆发；作物过度施用氮肥、抗病品种比例低、田间卫生差，也会增加发病几率。若同时出现高湿高温条件，应加强巡查并提前喷施生物或低毒性防病药剂。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\599.wav"
+  },
+  "600": {
+    "question": "生物防治是不是见效慢？",
+    "answer": "相较于化学农药，生物防治确实起效需要一定时间，因为微生物或天敌需先定殖、繁殖或建立足够种群才会对害虫产生显著压力。但其效果持久且不易产生抗性，对环境和农产品安全友好。合理搭配物理诱捕和优化施用时机，可加快其生效速度。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\600.wav"
+  },
+  "601": {
+    "question": "为什么有时候用药后效果不明显？",
+    "answer": "可能原因包括：选用农药与目标害虫不匹配、药剂剂量过低或喷施不均；高温、强光或降雨导致药效降解或被冲刷；害虫已发生抗药性；叶片背面或新梢未覆盖到位。建议严格按说明书推荐剂量和喷雾时间，避开高温或雨前施药，并定期轮换不同作用机制农药。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\601.wav"
+  },
+  "602": {
+    "question": "化学农药是否会污染地下水？",
+    "answer": "若施用过量、雨后未及时渗水管理，部分水溶性或易迁移农药成分可随渗漏进入地下水，造成环境污染。为防止此类风险，应选用吸附性强、低水溶性或高土壤固定性的低毒环保型农药；严格控制施药量；做好田间排水系统设计，避免药液径流入地下。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\602.wav"
+  },
+  "603": {
+    "question": "哪些虫子对黄板更敏感？",
+    "answer": "黄色对许多飞行性刺吸式害虫具有强烈趋性，常见包括蚜虫、白粉虱、飞虱、蓟马以及部分尺蠖类成虫。利用黄色粘板可以高效诱集这些害虫，既能及时监测虫情，又能减少成虫密度，配合其他防治手段可进一步降低田间害虫基数。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\603.wav"
+  },
+  "604": {
+    "question": "我能自己制作物理陷阱吗？",
+    "answer": "可以。常见做法是用硬纸板或塑料板喷涂明亮黄色或蓝色，再在表面涂抹粘虫剂（如废机油加松香油稀释），悬挂于植株上方或地边。诱虫效果与板面颜色和粘剂质量相关，定期检查并更换粘板，可实现经济、环保且便于家庭或小规模种植的物理防控。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\604.wav"
+  },
+  "605": {
+    "question": "飞虱什么时候最活跃？",
+    "answer": "飞虱在清晨（气温回升时）和傍晚（气温下降前）最为活跃，捕食和产卵活动频繁。此时田间湿度适中、光线适宜，虫口易聚集。防治可选择在每日两次高峰期前后布板或喷药，以提高药剂覆盖率和诱捕效率，实现对飞虱种群的有效打击。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\605.wav"
+  },
+  "606": {
+    "question": "叶斑病能通过种子传播吗？",
+    "answer": "部分叶斑病原菌，尤其是真菌性病原，可附着在种子表面或潜藏在种子组织内，借种子播撒进入新田。为防止此类传播，建议播前进行种子消毒处理，如用2%多菌灵悬浮剂浸种20分钟，或用热水（52–55℃）浸种10分钟，再晾干后播种，可大幅减少种子传播性病害。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\606.wav"
+  },
+  "607": {
+    "question": "什么是生物防治？",
+    "answer": "生物防治是利用生物天敌（捕食者、寄生者）、病原微生物或天然植物提取物来抑制或消灭害虫和病原菌的技术。通过引入或增殖有益生物，建立田间生态平衡，实现对病虫害的长期控制，无农药残留，对环境和作物安全友好，是现代绿色农业的重要组成。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\607.wav"
+  },
+  "608": {
+    "question": "根腐病能否预防？",
+    "answer": "能预防。关键在于改善土壤排水和通气，避免积水和高湿环境；实施合理轮作，打破土传病原累积；选用抗根腐品种；施用生物菌剂（如枯草芽孢杆菌）提高土壤抑病能力；合理施肥不过量氮肥，增强根系韧性。多管齐下，可显著降低根腐病发生概率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\608.wav"
+  },
+  "609": {
+    "question": "天气对病害有影响吗？",
+    "answer": "有。持续阴雨、高湿环境为真菌、细菌病原繁殖提供理想条件；温度骤变结合大雾、露水可加剧病害扩散；干旱、高温则抑制多数病原生长，但有些病毒病和干热害虫则在高温时更活跃。根据天气预报及时调整防除计划，可提高防病效率。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\609.wav"
+  },
+  "610": {
+    "question": "蚜虫的繁殖速度快吗？",
+    "answer": "非常快。蚜虫在适宜的温暖环境（20–25℃）下，每隔5–7天可繁殖一代，雌性无性繁殖使种群迅速膨胀；若环境优越，一季可产生几十代。田间一旦发现少量蚜虫，应立即采取防治措施，避免出现爆发式增长，导致难以控制的严重危害。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\610.wav"
+  },
+  "611": {
+    "question": "使用物理陷阱后还需要打药吗？",
+    "answer": "如果田间害虫基数较高，仅靠粘板难以彻底消灭幼龄或潜藏害虫，此时可在粘板监测到虫口接近阈值后，再结合低毒性生物或化学药剂定点喷施，以消灭剩余害虫。粘板与药剂配合，可减少用药量，延缓抗性产生并保证防治效果。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\611.wav"
+  },
+  "612": {
+    "question": "防治虫害时要注意什么？",
+    "answer": "一是合理轮换不同作用机制的农药，避免抗性；二是选择对天敌毒性低、低残留的药剂；三是喷药前修剪繁密枝叶，确保药液均匀覆盖；四是遵守安全间隔期，确保作物和环境安全；五是结合生态方法（物理、生物、防御栽培），实施综合治理，避免单一依赖化学农药。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\612.wav"
+  },
+  "613": {
+    "question": "如何判断是不是疫病？",
+    "answer": "疫病多以叶片、叶鞘或果实上出现水渍状或水渍环纹斑点为特征，边缘颜色常较深，中心呈淡色或透明状，遇湿斑面更大且迅速扩散；高温多湿时病斑可长出白色菌丝。若在短时间内病斑数量和面积骤增，且伴果实或穗部腐烂，多属疫病范畴。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\613.wav"
+  },
+  "614": {
+    "question": "哪些作物易得根腐病？",
+    "answer": "喜湿性作物如番茄、黄瓜、豆科作物和一些蔬菜根系在湿热环境中更易感染根腐病原；连作或地块土壤板结、排水不良时，病害更为严重。对这些作物应特别注意土壤改良和轮作，并在高风险阶段做好生物制剂或耐病品种的提前防控。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\614.wav"
+  },
+  "615": {
+    "question": "物理陷阱成本高吗？",
+    "answer": "成本低廉，仅需彩色硬纸板或塑料板、简单粘剂即可制作；可重复使用或更换粘面。相比持续购买化学农药投入，物理陷阱一次投入少、效果持久，且不产生残留，尤其适合小农户、家庭园艺或有机农业推广，是经济实用的环保防控手段。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\615.wav"
+  },
+  "616": {
+    "question": "害虫抗药性是什么？",
+    "answer": "指在农药持续或单一使用的压力下，害虫种群中出现耐药个体并逐代繁殖，导致原本有效的药剂毒力下降、死亡率降低。抗性一旦形成，防治成本大幅上升。防治中应采用药剂轮换、混配不同作用机制的药剂，并结合非化学手段，延缓或避免抗性产生。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\616.wav"
+  },
+  "617": {
+    "question": "使用农药后多久能采收？",
+    "answer": "不同农药有不同安全间隔期，一般为3–30天不等，具体应严格参照农药标签说明书。安全间隔期结束后采收，确保农残水平低于国家标准。切勿提前采收或超量施药，以免农药残留超标影响食品安全与消费者健康。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\617.wav"
+  },
+  "618": {
+    "question": "怎么判断生物防治是否起效？",
+    "answer": "可通过观察田间害虫密度和天敌种群数量变化来评估：若释放天敌后2–3周内害虫数量明显减少且天敌存活良好，说明生物防治正在发挥作用；同时监测病原微生物防病效果，如病斑数目和扩展速率下降。定期记录数据，对比处理组与未处理组差异，可客观评估成效。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\618.wav"
+  },
+  "619": {
+    "question": "飞虱能用性诱剂诱捕吗？",
+    "answer": "可以。飞虱对特定波长的光和挥发性化合物敏感，可使用合成或天然性信息素（如蒽醌类化合物）配合灯诱或诱芯，设置在田间高处，将成虫诱集至诱捕器内。此法对飞虱种群监测和抑制都有良好效果，可减少化学用药量。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\619.wav"
+  },
+  "620": {
+    "question": "使用生物防治需要注意什么？",
+    "answer": "释放天敌时要注意天敌品种与目标害虫匹配，释放数量和时期要准确；避免在天敌活跃期喷用对其有毒的化学药剂；保持田间多样性，为天敌提供替代食物或藏身场所；储存和运输生物制剂或天敌时要保持适宜温湿度，确保活性和成效。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\620.wav"
+  },
+  "621": {
+    "question": "我能在家庭园艺中用这些方法吗？",
+    "answer": "完全可以。家庭园艺可采用自制粘板诱捕害虫，喷施植物提取物（如大蒜、辣椒水）、释放瓢虫和捕食螨等小型天敌，或使用市售微生物制剂（如枯草芽孢杆菌悬浮剂）进行生物防治。同时保持花盆排水通畅、及时修剪和轮换种植，可有效减少病虫害。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\621.wav"
+  },
+  "622": {
+    "question": "叶斑病有几种类型？",
+    "answer": "常见叶斑病类型众多，包括褐斑病（桔梗形深褐斑）、灰斑病（灰色中央斑点）、炭疽病（炭黑色病斑带清晰边缘）等；不同作物上还存在赤斑病、角斑病等专性病原，症状、发生环境和防治方法略有差异，需结合叶斑形态和寄主植物做具体诊断和针对性防治。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\622.wav"
+  },
+  "623": {
+    "question": "蚜虫都有哪些危害？",
+    "answer": "蚜虫通过刺吸植物汁液削弱植株生长，造成叶片卷曲、发黄、畸形；同时在采食过程中分泌蜜露，引发煤污病；更重要的是蚜虫是多种植物病毒的重要传播媒介，可在短时间内将病毒扩散至大面积田块，严重影响产量和品质。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\623.wav"
+  },
+  "624": {
+    "question": "什么条件下疫病最容易发生？",
+    "answer": "高温高湿（25–30℃、相对湿度>85%）环境下，病原菌孢子繁殖迅速，孢子萌发和侵染效率高；连阴雨或大雾天病斑扩展迅速；夜间露水时间延长也助长病害。根据气象预报，在高风险期提前防控可显著降低疫情。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\624.wav"
+  },
+  "625": {
+    "question": "我怎样合理轮换用药？",
+    "answer": "首先了解各农药的作用机制类别（如N、G、I、M组）；每次用药时更换不同组别的药剂，避免连续施用同一作用机制的农药；可采用化学+生物混配或间隔使用；记录用药品种、剂量和时间，并结合田间监测数据调整方案，以保持害虫对农药的敏感性。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\625.wav"
+  },
+  "626": {
+    "question": "化学农药要怎么保存？",
+    "answer": "存放在阴凉、干燥、通风良好的专用农药库房，远离火源和热源，避免阳光直射；密封保存，防止受潮变质；不同类别农药应分区存放，避免交叉污染；确保儿童和无关人员无法接触；定期检查包装完整性，过期或失效农药应按当地环保规定集中处理。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\626.wav"
+  },
+  "627": {
+    "question": "有机种植能防治病虫害吗？",
+    "answer": "有机种植依托生物防治、物理防治、抗病品种和农艺措施实现病虫害综合防控。通过轮作、间作、覆盖作物残茬、施用堆肥和微生物制剂，增强土壤健康和作物抵抗力；利用天敌昆虫和粘板诱捕，减少化学输入，完全能够控制常见病虫害，实现绿色无公害生产。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\627.wav"
+  },
+  "628": {
+    "question": "病害最初出现在哪些部位？",
+    "answer": "真菌性病害多先在叶片表面下部或背面出现小水渍状病斑；细菌性病害则先在叶缘或叶尖出现水浸样斑点；根腐病从根系开始潜伏，地上部晚期才见萎蔫黄化；病毒病往往在新梢上出现花叶、条斑等特征。定期检查不同部位，可及早发现并干预。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\628.wav"
+  },
+  "629": {
+    "question": "怎样让防治更高效？",
+    "answer": "应坚持“预防为主、综合防治”原则：根据监测数据精准施策，科学轮换用药；综合运用生物、物理和化学方法；优化田间管理（合理密植、轮作、排水、施肥）；选用抗病、抗虫品种；结合气象信息和阈值判断，及时、适量、精准防治，既提高效果又节约成本。",
+    "audio": "C:\\Users\\wx\\Desktop\\All\\demo\\Audio_data\\629.wav"
+  }
+}

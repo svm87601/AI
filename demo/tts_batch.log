@@ -1,0 +1,1266 @@
+2025-06-04 09:53:00,092 - INFO - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2025-06-04 09:53:00,387 - INFO - 1) 从数据库加载 FAQ 数据 ...
+2025-06-04 09:53:00,407 - INFO - 从数据库加载到 629 条 FAQ 记录
+2025-06-04 09:53:00,408 - INFO - 2) 合成 TTS 并保存 ...
+2025-06-04 09:53:00,408 - INFO - 正在初始化TTS引擎...
+2025-06-04 09:53:02,292 - INFO - TTS引擎初始化成功
+2025-06-04 09:53:02,297 - INFO - 处理 ID 1 (长度: 27 字符)
+2025-06-04 09:53:14,302 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\1.wav
+2025-06-04 09:53:14,303 - INFO - 处理 ID 2 (长度: 23 字符)
+2025-06-04 09:53:20,857 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\2.wav
+2025-06-04 09:53:20,857 - INFO - 处理 ID 3 (长度: 27 字符)
+2025-06-04 09:53:31,799 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\3.wav
+2025-06-04 09:53:31,799 - INFO - 处理 ID 4 (长度: 24 字符)
+2025-06-04 09:53:37,273 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\4.wav
+2025-06-04 09:53:37,273 - INFO - 处理 ID 5 (长度: 22 字符)
+2025-06-04 09:53:43,127 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\5.wav
+2025-06-04 09:53:43,127 - INFO - 处理 ID 6 (长度: 21 字符)
+2025-06-04 09:53:49,603 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\6.wav
+2025-06-04 09:53:49,604 - INFO - 处理 ID 7 (长度: 25 字符)
+2025-06-04 09:53:55,956 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\7.wav
+2025-06-04 09:53:55,957 - INFO - 处理 ID 8 (长度: 21 字符)
+2025-06-04 09:54:01,387 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\8.wav
+2025-06-04 09:54:01,387 - INFO - 处理 ID 9 (长度: 22 字符)
+2025-06-04 09:54:04,926 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\9.wav
+2025-06-04 09:54:04,926 - INFO - 处理 ID 10 (长度: 22 字符)
+2025-06-04 09:54:10,715 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\10.wav
+2025-06-04 09:54:10,715 - INFO - 处理 ID 11 (长度: 22 字符)
+2025-06-04 09:54:17,377 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\11.wav
+2025-06-04 09:54:17,377 - INFO - 处理 ID 12 (长度: 17 字符)
+2025-06-04 09:54:20,982 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\12.wav
+2025-06-04 09:54:20,982 - INFO - 处理 ID 13 (长度: 16 字符)
+2025-06-04 09:54:25,402 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\13.wav
+2025-06-04 09:54:25,403 - INFO - 处理 ID 14 (长度: 14 字符)
+2025-06-04 09:54:30,064 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\14.wav
+2025-06-04 09:54:30,064 - INFO - 处理 ID 15 (长度: 17 字符)
+2025-06-04 09:54:32,705 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\15.wav
+2025-06-04 09:54:32,706 - INFO - 处理 ID 16 (长度: 16 字符)
+2025-06-04 09:54:37,734 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\16.wav
+2025-06-04 09:54:37,734 - INFO - 处理 ID 17 (长度: 15 字符)
+2025-06-04 09:54:45,011 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\17.wav
+2025-06-04 09:54:45,011 - INFO - 处理 ID 18 (长度: 16 字符)
+2025-06-04 09:54:51,070 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\18.wav
+2025-06-04 09:54:51,070 - INFO - 处理 ID 19 (长度: 26 字符)
+2025-06-04 09:54:55,158 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\19.wav
+2025-06-04 09:54:55,159 - INFO - 处理 ID 20 (长度: 28 字符)
+2025-06-04 09:55:02,279 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\20.wav
+2025-06-04 09:55:02,279 - INFO - 处理 ID 21 (长度: 22 字符)
+2025-06-04 09:55:08,336 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\21.wav
+2025-06-04 09:55:08,336 - INFO - 处理 ID 22 (长度: 22 字符)
+2025-06-04 09:55:14,176 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\22.wav
+2025-06-04 09:55:14,176 - INFO - 处理 ID 23 (长度: 25 字符)
+2025-06-04 09:55:20,789 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\23.wav
+2025-06-04 09:55:20,789 - INFO - 处理 ID 24 (长度: 25 字符)
+2025-06-04 09:55:27,209 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\24.wav
+2025-06-04 09:55:27,209 - INFO - 处理 ID 25 (长度: 23 字符)
+2025-06-04 09:55:36,927 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\25.wav
+2025-06-04 09:55:36,927 - INFO - 处理 ID 26 (长度: 27 字符)
+2025-06-04 09:55:44,844 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\26.wav
+2025-06-04 09:55:44,844 - INFO - 处理 ID 27 (长度: 22 字符)
+2025-06-04 09:55:50,728 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\27.wav
+2025-06-04 09:55:50,729 - INFO - 处理 ID 28 (长度: 20 字符)
+2025-06-04 09:55:54,278 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\28.wav
+2025-06-04 09:55:54,278 - INFO - 处理 ID 29 (长度: 23 字符)
+2025-06-04 09:55:57,832 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\29.wav
+2025-06-04 09:55:57,833 - INFO - 处理 ID 30 (长度: 19 字符)
+2025-06-04 09:56:11,040 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\30.wav
+2025-06-04 09:56:11,040 - INFO - 处理 ID 31 (长度: 20 字符)
+2025-06-04 09:56:14,520 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\31.wav
+2025-06-04 09:56:14,520 - INFO - 处理 ID 32 (长度: 17 字符)
+2025-06-04 09:56:23,027 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\32.wav
+2025-06-04 09:56:23,027 - INFO - 处理 ID 33 (长度: 16 字符)
+2025-06-04 09:56:26,646 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\33.wav
+2025-06-04 09:56:26,646 - INFO - 处理 ID 34 (长度: 19 字符)
+2025-06-04 09:56:32,099 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\34.wav
+2025-06-04 09:56:32,099 - INFO - 处理 ID 35 (长度: 22 字符)
+2025-06-04 09:56:37,356 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\35.wav
+2025-06-04 09:56:37,356 - INFO - 处理 ID 36 (长度: 14 字符)
+2025-06-04 09:56:42,071 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\36.wav
+2025-06-04 09:56:42,072 - INFO - 处理 ID 37 (长度: 22 字符)
+2025-06-04 09:56:49,148 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\37.wav
+2025-06-04 09:56:49,148 - INFO - 处理 ID 38 (长度: 27 字符)
+2025-06-04 09:56:55,699 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\38.wav
+2025-06-04 09:56:55,699 - INFO - 处理 ID 39 (长度: 20 字符)
+2025-06-04 09:57:01,251 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\39.wav
+2025-06-04 09:57:01,251 - INFO - 处理 ID 40 (长度: 28 字符)
+2025-06-04 09:57:15,290 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\40.wav
+2025-06-04 09:57:15,291 - INFO - 处理 ID 41 (长度: 23 字符)
+2025-06-04 09:57:27,380 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\41.wav
+2025-06-04 09:57:27,380 - INFO - 处理 ID 42 (长度: 21 字符)
+2025-06-04 09:57:33,617 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\42.wav
+2025-06-04 09:57:33,618 - INFO - 处理 ID 43 (长度: 27 字符)
+2025-06-04 09:57:41,101 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\43.wav
+2025-06-04 09:57:41,101 - INFO - 处理 ID 44 (长度: 21 字符)
+2025-06-04 09:57:50,443 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\44.wav
+2025-06-04 09:57:50,443 - INFO - 处理 ID 45 (长度: 21 字符)
+2025-06-04 09:57:53,755 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\45.wav
+2025-06-04 09:57:53,755 - INFO - 处理 ID 46 (长度: 16 字符)
+2025-06-04 09:57:58,301 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\46.wav
+2025-06-04 09:57:58,301 - INFO - 处理 ID 47 (长度: 15 字符)
+2025-06-04 09:58:03,365 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\47.wav
+2025-06-04 09:58:03,366 - INFO - 处理 ID 48 (长度: 20 字符)
+2025-06-04 09:58:16,856 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\48.wav
+2025-06-04 09:58:16,856 - INFO - 处理 ID 49 (长度: 16 字符)
+2025-06-04 09:58:21,197 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\49.wav
+2025-06-04 09:58:21,197 - INFO - 处理 ID 50 (长度: 28 字符)
+2025-06-04 09:58:29,992 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\50.wav
+2025-06-04 09:58:29,992 - INFO - 处理 ID 51 (长度: 25 字符)
+2025-06-04 09:58:37,431 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\51.wav
+2025-06-04 09:58:37,431 - INFO - 处理 ID 52 (长度: 21 字符)
+2025-06-04 09:58:40,909 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\52.wav
+2025-06-04 09:58:40,909 - INFO - 处理 ID 53 (长度: 19 字符)
+2025-06-04 09:58:49,696 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\53.wav
+2025-06-04 09:58:49,697 - INFO - 处理 ID 54 (长度: 20 字符)
+2025-06-04 09:58:53,706 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\54.wav
+2025-06-04 09:58:53,706 - INFO - 处理 ID 55 (长度: 19 字符)
+2025-06-04 09:58:57,955 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\55.wav
+2025-06-04 09:58:57,955 - INFO - 处理 ID 56 (长度: 19 字符)
+2025-06-04 09:59:01,235 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\56.wav
+2025-06-04 09:59:01,236 - INFO - 处理 ID 57 (长度: 22 字符)
+2025-06-04 09:59:05,070 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\57.wav
+2025-06-04 09:59:05,070 - INFO - 处理 ID 58 (长度: 20 字符)
+2025-06-04 09:59:08,817 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\58.wav
+2025-06-04 09:59:08,817 - INFO - 处理 ID 59 (长度: 21 字符)
+2025-06-04 09:59:17,260 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\59.wav
+2025-06-04 09:59:17,260 - INFO - 处理 ID 60 (长度: 17 字符)
+2025-06-04 09:59:24,225 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\60.wav
+2025-06-04 09:59:24,225 - INFO - 处理 ID 61 (长度: 18 字符)
+2025-06-04 09:59:27,590 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\61.wav
+2025-06-04 09:59:27,590 - INFO - 处理 ID 62 (长度: 16 字符)
+2025-06-04 09:59:33,662 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\62.wav
+2025-06-04 09:59:33,662 - INFO - 处理 ID 63 (长度: 15 字符)
+2025-06-04 09:59:37,042 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\63.wav
+2025-06-04 09:59:37,043 - INFO - 处理 ID 64 (长度: 17 字符)
+2025-06-04 09:59:42,156 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\64.wav
+2025-06-04 09:59:42,156 - INFO - 处理 ID 65 (长度: 21 字符)
+2025-06-04 09:59:47,531 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\65.wav
+2025-06-04 09:59:47,531 - INFO - 处理 ID 66 (长度: 14 字符)
+2025-06-04 09:59:50,037 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\66.wav
+2025-06-04 09:59:50,038 - INFO - 处理 ID 67 (长度: 18 字符)
+2025-06-04 09:59:54,112 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\67.wav
+2025-06-04 09:59:54,113 - INFO - 处理 ID 68 (长度: 20 字符)
+2025-06-04 10:00:00,130 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\68.wav
+2025-06-04 10:00:00,131 - INFO - 处理 ID 69 (长度: 16 字符)
+2025-06-04 10:00:04,257 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\69.wav
+2025-06-04 10:00:04,257 - INFO - 处理 ID 70 (长度: 16 字符)
+2025-06-04 10:00:09,465 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\70.wav
+2025-06-04 10:00:09,465 - INFO - 处理 ID 71 (长度: 22 字符)
+2025-06-04 10:00:13,420 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\71.wav
+2025-06-04 10:00:13,420 - INFO - 处理 ID 72 (长度: 18 字符)
+2025-06-04 10:00:16,302 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\72.wav
+2025-06-04 10:00:16,302 - INFO - 处理 ID 73 (长度: 27 字符)
+2025-06-04 10:00:22,458 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\73.wav
+2025-06-04 10:00:22,458 - INFO - 处理 ID 74 (长度: 21 字符)
+2025-06-04 10:00:32,869 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\74.wav
+2025-06-04 10:00:32,869 - INFO - 处理 ID 75 (长度: 29 字符)
+2025-06-04 10:00:36,986 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\75.wav
+2025-06-04 10:00:36,986 - INFO - 处理 ID 76 (长度: 25 字符)
+2025-06-04 10:00:40,883 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\76.wav
+2025-06-04 10:00:40,885 - INFO - 处理 ID 77 (长度: 26 字符)
+2025-06-04 10:00:56,057 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\77.wav
+2025-06-04 10:00:56,057 - INFO - 处理 ID 78 (长度: 20 字符)
+2025-06-04 10:01:09,372 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\78.wav
+2025-06-04 10:01:09,372 - INFO - 处理 ID 79 (长度: 15 字符)
+2025-06-04 10:01:16,189 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\79.wav
+2025-06-04 10:01:16,189 - INFO - 处理 ID 80 (长度: 18 字符)
+2025-06-04 10:01:20,743 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\80.wav
+2025-06-04 10:01:20,743 - INFO - 处理 ID 81 (长度: 15 字符)
+2025-06-04 10:01:24,419 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\81.wav
+2025-06-04 10:01:24,419 - INFO - 处理 ID 82 (长度: 18 字符)
+2025-06-04 10:01:27,166 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\82.wav
+2025-06-04 10:01:27,167 - INFO - 处理 ID 83 (长度: 15 字符)
+2025-06-04 10:01:31,725 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\83.wav
+2025-06-04 10:01:31,725 - INFO - 处理 ID 84 (长度: 14 字符)
+2025-06-04 10:01:34,721 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\84.wav
+2025-06-04 10:01:34,721 - INFO - 处理 ID 85 (长度: 17 字符)
+2025-06-04 10:01:37,550 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\85.wav
+2025-06-04 10:01:37,550 - INFO - 处理 ID 86 (长度: 16 字符)
+2025-06-04 10:01:40,776 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\86.wav
+2025-06-04 10:01:40,776 - INFO - 处理 ID 87 (长度: 22 字符)
+2025-06-04 10:01:44,133 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\87.wav
+2025-06-04 10:01:44,134 - INFO - 处理 ID 88 (长度: 20 字符)
+2025-06-04 10:01:52,482 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\88.wav
+2025-06-04 10:01:52,482 - INFO - 处理 ID 89 (长度: 16 字符)
+2025-06-04 10:01:55,064 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\89.wav
+2025-06-04 10:01:55,064 - INFO - 处理 ID 90 (长度: 16 字符)
+2025-06-04 10:02:00,502 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\90.wav
+2025-06-04 10:02:00,503 - INFO - 处理 ID 91 (长度: 15 字符)
+2025-06-04 10:02:04,853 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\91.wav
+2025-06-04 10:02:04,853 - INFO - 处理 ID 92 (长度: 16 字符)
+2025-06-04 10:02:08,656 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\92.wav
+2025-06-04 10:02:08,656 - INFO - 处理 ID 93 (长度: 14 字符)
+2025-06-04 10:02:11,553 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\93.wav
+2025-06-04 10:02:11,553 - INFO - 处理 ID 94 (长度: 16 字符)
+2025-06-04 10:02:14,514 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\94.wav
+2025-06-04 10:02:14,514 - INFO - 处理 ID 95 (长度: 22 字符)
+2025-06-04 10:02:17,014 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\95.wav
+2025-06-04 10:02:17,014 - INFO - 处理 ID 96 (长度: 18 字符)
+2025-06-04 10:02:19,850 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\96.wav
+2025-06-04 10:02:19,850 - INFO - 处理 ID 97 (长度: 15 字符)
+2025-06-04 10:02:23,521 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\97.wav
+2025-06-04 10:02:23,521 - INFO - 处理 ID 98 (长度: 18 字符)
+2025-06-04 10:02:26,417 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\98.wav
+2025-06-04 10:02:26,417 - INFO - 处理 ID 99 (长度: 22 字符)
+2025-06-04 10:02:30,923 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\99.wav
+2025-06-04 10:02:30,923 - INFO - 处理 ID 100 (长度: 32 字符)
+2025-06-04 10:02:38,219 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\100.wav
+2025-06-04 10:02:38,219 - INFO - 处理 ID 101 (长度: 61 字符)
+2025-06-04 10:02:53,804 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\101.wav
+2025-06-04 10:02:53,804 - INFO - 处理 ID 102 (长度: 38 字符)
+2025-06-04 10:03:05,475 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\102.wav
+2025-06-04 10:03:05,475 - INFO - 处理 ID 103 (长度: 31 字符)
+2025-06-04 10:03:14,583 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\103.wav
+2025-06-04 10:03:14,583 - INFO - 处理 ID 104 (长度: 37 字符)
+2025-06-04 10:03:23,787 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\104.wav
+2025-06-04 10:03:23,787 - INFO - 处理 ID 105 (长度: 31 字符)
+2025-06-04 10:03:32,371 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\105.wav
+2025-06-04 10:03:32,371 - INFO - 处理 ID 106 (长度: 29 字符)
+2025-06-04 10:03:40,882 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\106.wav
+2025-06-04 10:03:40,882 - INFO - 处理 ID 107 (长度: 35 字符)
+2025-06-04 10:03:51,605 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\107.wav
+2025-06-04 10:03:51,605 - INFO - 处理 ID 108 (长度: 34 字符)
+2025-06-04 10:03:57,174 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\108.wav
+2025-06-04 10:03:57,174 - INFO - 处理 ID 109 (长度: 28 字符)
+2025-06-04 10:04:02,151 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\109.wav
+2025-06-04 10:04:02,151 - INFO - 处理 ID 110 (长度: 34 字符)
+2025-06-04 10:04:07,905 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\110.wav
+2025-06-04 10:04:07,905 - INFO - 处理 ID 111 (长度: 35 字符)
+2025-06-04 10:04:13,943 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\111.wav
+2025-06-04 10:04:13,943 - INFO - 处理 ID 112 (长度: 31 字符)
+2025-06-04 10:04:24,781 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\112.wav
+2025-06-04 10:04:24,781 - INFO - 处理 ID 113 (长度: 33 字符)
+2025-06-04 10:04:32,583 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\113.wav
+2025-06-04 10:04:32,583 - INFO - 处理 ID 114 (长度: 46 字符)
+2025-06-04 10:04:46,092 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\114.wav
+2025-06-04 10:04:46,092 - INFO - 处理 ID 115 (长度: 36 字符)
+2025-06-04 10:04:53,658 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\115.wav
+2025-06-04 10:04:53,658 - INFO - 处理 ID 116 (长度: 35 字符)
+2025-06-04 10:05:02,691 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\116.wav
+2025-06-04 10:05:02,691 - INFO - 处理 ID 117 (长度: 34 字符)
+2025-06-04 10:05:18,330 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\117.wav
+2025-06-04 10:05:18,330 - INFO - 处理 ID 118 (长度: 40 字符)
+2025-06-04 10:05:24,965 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\118.wav
+2025-06-04 10:05:24,966 - INFO - 处理 ID 119 (长度: 41 字符)
+2025-06-04 10:05:38,217 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\119.wav
+2025-06-04 10:05:38,217 - INFO - 处理 ID 120 (长度: 25 字符)
+2025-06-04 10:05:46,273 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\120.wav
+2025-06-04 10:05:46,273 - INFO - 处理 ID 121 (长度: 40 字符)
+2025-06-04 10:05:58,773 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\121.wav
+2025-06-04 10:05:58,773 - INFO - 处理 ID 122 (长度: 29 字符)
+2025-06-04 10:06:06,819 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\122.wav
+2025-06-04 10:06:06,819 - INFO - 处理 ID 123 (长度: 46 字符)
+2025-06-04 10:06:19,102 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\123.wav
+2025-06-04 10:06:19,102 - INFO - 处理 ID 124 (长度: 33 字符)
+2025-06-04 10:06:24,563 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\124.wav
+2025-06-04 10:06:24,564 - INFO - 处理 ID 125 (长度: 48 字符)
+2025-06-04 10:06:40,362 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\125.wav
+2025-06-04 10:06:40,362 - INFO - 处理 ID 126 (长度: 44 字符)
+2025-06-04 10:06:58,173 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\126.wav
+2025-06-04 10:06:58,174 - INFO - 处理 ID 127 (长度: 39 字符)
+2025-06-04 10:07:07,075 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\127.wav
+2025-06-04 10:07:07,075 - INFO - 处理 ID 128 (长度: 44 字符)
+2025-06-04 10:07:20,286 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\128.wav
+2025-06-04 10:07:20,286 - INFO - 处理 ID 129 (长度: 35 字符)
+2025-06-04 10:07:25,133 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\129.wav
+2025-06-04 10:07:25,133 - INFO - 处理 ID 130 (长度: 38 字符)
+2025-06-04 10:07:35,785 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\130.wav
+2025-06-04 10:07:35,785 - INFO - 处理 ID 131 (长度: 35 字符)
+2025-06-04 10:07:41,475 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\131.wav
+2025-06-04 10:07:41,475 - INFO - 处理 ID 132 (长度: 40 字符)
+2025-06-04 10:07:47,251 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\132.wav
+2025-06-04 10:07:47,251 - INFO - 处理 ID 133 (长度: 37 字符)
+2025-06-04 10:07:58,633 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\133.wav
+2025-06-04 10:07:58,633 - INFO - 处理 ID 134 (长度: 38 字符)
+2025-06-04 10:08:09,244 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\134.wav
+2025-06-04 10:08:09,244 - INFO - 处理 ID 135 (长度: 37 字符)
+2025-06-04 10:08:14,776 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\135.wav
+2025-06-04 10:08:14,777 - INFO - 处理 ID 136 (长度: 40 字符)
+2025-06-04 10:08:26,235 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\136.wav
+2025-06-04 10:08:26,235 - INFO - 处理 ID 137 (长度: 43 字符)
+2025-06-04 10:08:38,974 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\137.wav
+2025-06-04 10:08:38,974 - INFO - 处理 ID 138 (长度: 38 字符)
+2025-06-04 10:08:47,914 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\138.wav
+2025-06-04 10:08:47,914 - INFO - 处理 ID 139 (长度: 41 字符)
+2025-06-04 10:09:00,424 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\139.wav
+2025-06-04 10:09:00,424 - INFO - 处理 ID 140 (长度: 35 字符)
+2025-06-04 10:09:12,334 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\140.wav
+2025-06-04 10:09:12,335 - INFO - 处理 ID 141 (长度: 35 字符)
+2025-06-04 10:09:22,183 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\141.wav
+2025-06-04 10:09:22,183 - INFO - 处理 ID 142 (长度: 52 字符)
+2025-06-04 10:09:38,878 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\142.wav
+2025-06-04 10:09:38,878 - INFO - 处理 ID 143 (长度: 40 字符)
+2025-06-04 10:09:50,199 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\143.wav
+2025-06-04 10:09:50,199 - INFO - 处理 ID 144 (长度: 43 字符)
+2025-06-04 10:09:58,274 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\144.wav
+2025-06-04 10:09:58,274 - INFO - 处理 ID 145 (长度: 41 字符)
+2025-06-04 10:10:09,005 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\145.wav
+2025-06-04 10:10:09,006 - INFO - 处理 ID 146 (长度: 34 字符)
+2025-06-04 10:10:16,764 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\146.wav
+2025-06-04 10:10:16,764 - INFO - 处理 ID 147 (长度: 46 字符)
+2025-06-04 10:10:29,528 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\147.wav
+2025-06-04 10:10:29,528 - INFO - 处理 ID 148 (长度: 36 字符)
+2025-06-04 10:10:37,632 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\148.wav
+2025-06-04 10:10:37,633 - INFO - 处理 ID 149 (长度: 45 字符)
+2025-06-04 10:10:47,655 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\149.wav
+2025-06-04 10:10:47,655 - INFO - 处理 ID 150 (长度: 36 字符)
+2025-06-04 10:10:59,274 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\150.wav
+2025-06-04 10:10:59,274 - INFO - 处理 ID 151 (长度: 37 字符)
+2025-06-04 10:11:09,058 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\151.wav
+2025-06-04 10:11:09,058 - INFO - 处理 ID 152 (长度: 38 字符)
+2025-06-04 10:11:22,844 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\152.wav
+2025-06-04 10:11:22,844 - INFO - 处理 ID 153 (长度: 37 字符)
+2025-06-04 10:11:34,997 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\153.wav
+2025-06-04 10:11:34,997 - INFO - 处理 ID 154 (长度: 47 字符)
+2025-06-04 10:11:42,548 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\154.wav
+2025-06-04 10:11:42,548 - INFO - 处理 ID 155 (长度: 38 字符)
+2025-06-04 10:11:52,990 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\155.wav
+2025-06-04 10:11:52,990 - INFO - 处理 ID 156 (长度: 39 字符)
+2025-06-04 10:12:03,136 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\156.wav
+2025-06-04 10:12:03,137 - INFO - 处理 ID 157 (长度: 37 字符)
+2025-06-04 10:12:18,593 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\157.wav
+2025-06-04 10:12:18,593 - INFO - 处理 ID 158 (长度: 39 字符)
+2025-06-04 10:12:28,197 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\158.wav
+2025-06-04 10:12:28,197 - INFO - 处理 ID 159 (长度: 38 字符)
+2025-06-04 10:12:34,856 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\159.wav
+2025-06-04 10:12:34,857 - INFO - 处理 ID 160 (长度: 33 字符)
+2025-06-04 10:12:40,810 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\160.wav
+2025-06-04 10:12:40,810 - INFO - 处理 ID 161 (长度: 54 字符)
+2025-06-04 10:12:54,981 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\161.wav
+2025-06-04 10:12:54,981 - INFO - 处理 ID 162 (长度: 39 字符)
+2025-06-04 10:13:03,468 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\162.wav
+2025-06-04 10:13:03,468 - INFO - 处理 ID 163 (长度: 45 字符)
+2025-06-04 10:13:10,307 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\163.wav
+2025-06-04 10:13:10,308 - INFO - 处理 ID 164 (长度: 37 字符)
+2025-06-04 10:13:19,435 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\164.wav
+2025-06-04 10:13:19,435 - INFO - 处理 ID 165 (长度: 40 字符)
+2025-06-04 10:13:35,075 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\165.wav
+2025-06-04 10:13:35,075 - INFO - 处理 ID 166 (长度: 42 字符)
+2025-06-04 10:13:42,434 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\166.wav
+2025-06-04 10:13:42,434 - INFO - 处理 ID 167 (长度: 52 字符)
+2025-06-04 10:14:10,721 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\167.wav
+2025-06-04 10:14:10,721 - INFO - 处理 ID 168 (长度: 45 字符)
+2025-06-04 10:14:21,396 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\168.wav
+2025-06-04 10:14:21,397 - INFO - 处理 ID 169 (长度: 45 字符)
+2025-06-04 10:14:35,741 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\169.wav
+2025-06-04 10:14:35,741 - INFO - 处理 ID 170 (长度: 43 字符)
+2025-06-04 10:14:47,377 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\170.wav
+2025-06-04 10:14:47,377 - INFO - 处理 ID 171 (长度: 37 字符)
+2025-06-04 10:14:53,714 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\171.wav
+2025-06-04 10:14:53,715 - INFO - 处理 ID 172 (长度: 40 字符)
+2025-06-04 10:14:59,517 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\172.wav
+2025-06-04 10:14:59,517 - INFO - 处理 ID 173 (长度: 41 字符)
+2025-06-04 10:15:09,426 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\173.wav
+2025-06-04 10:15:09,426 - INFO - 处理 ID 174 (长度: 37 字符)
+2025-06-04 10:15:16,852 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\174.wav
+2025-06-04 10:15:16,852 - INFO - 处理 ID 175 (长度: 38 字符)
+2025-06-04 10:15:23,362 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\175.wav
+2025-06-04 10:15:23,362 - INFO - 处理 ID 176 (长度: 39 字符)
+2025-06-04 10:15:29,505 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\176.wav
+2025-06-04 10:15:29,505 - INFO - 处理 ID 177 (长度: 37 字符)
+2025-06-04 10:15:38,898 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\177.wav
+2025-06-04 10:15:38,898 - INFO - 处理 ID 178 (长度: 39 字符)
+2025-06-04 10:15:45,016 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\178.wav
+2025-06-04 10:15:45,016 - INFO - 处理 ID 179 (长度: 38 字符)
+2025-06-04 10:15:51,658 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\179.wav
+2025-06-04 10:15:51,658 - INFO - 处理 ID 180 (长度: 33 字符)
+2025-06-04 10:15:57,506 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\180.wav
+2025-06-04 10:15:57,506 - INFO - 处理 ID 181 (长度: 48 字符)
+2025-06-04 10:16:14,116 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\181.wav
+2025-06-04 10:16:14,116 - INFO - 处理 ID 182 (长度: 41 字符)
+2025-06-04 10:16:26,591 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\182.wav
+2025-06-04 10:16:26,591 - INFO - 处理 ID 183 (长度: 38 字符)
+2025-06-04 10:16:36,832 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\183.wav
+2025-06-04 10:16:36,833 - INFO - 处理 ID 184 (长度: 43 字符)
+2025-06-04 10:16:43,514 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\184.wav
+2025-06-04 10:16:43,515 - INFO - 处理 ID 185 (长度: 42 字符)
+2025-06-04 10:16:51,173 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\185.wav
+2025-06-04 10:16:51,173 - INFO - 处理 ID 186 (长度: 43 字符)
+2025-06-04 10:17:02,959 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\186.wav
+2025-06-04 10:17:02,959 - INFO - 处理 ID 187 (长度: 36 字符)
+2025-06-04 10:17:15,622 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\187.wav
+2025-06-04 10:17:15,622 - INFO - 处理 ID 188 (长度: 44 字符)
+2025-06-04 10:17:46,225 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\188.wav
+2025-06-04 10:17:46,226 - INFO - 处理 ID 189 (长度: 40 字符)
+2025-06-04 10:17:52,301 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\189.wav
+2025-06-04 10:17:52,301 - INFO - 处理 ID 190 (长度: 32 字符)
+2025-06-04 10:17:57,929 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\190.wav
+2025-06-04 10:17:57,930 - INFO - 处理 ID 191 (长度: 33 字符)
+2025-06-04 10:18:03,902 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\191.wav
+2025-06-04 10:18:03,902 - INFO - 处理 ID 192 (长度: 31 字符)
+2025-06-04 10:18:11,404 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\192.wav
+2025-06-04 10:18:11,404 - INFO - 处理 ID 193 (长度: 43 字符)
+2025-06-04 10:18:19,065 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\193.wav
+2025-06-04 10:18:19,065 - INFO - 处理 ID 194 (长度: 29 字符)
+2025-06-04 10:18:23,406 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\194.wav
+2025-06-04 10:18:23,406 - INFO - 处理 ID 195 (长度: 31 字符)
+2025-06-04 10:18:31,382 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\195.wav
+2025-06-04 10:18:31,383 - INFO - 处理 ID 196 (长度: 36 字符)
+2025-06-04 10:18:40,812 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\196.wav
+2025-06-04 10:18:40,812 - INFO - 处理 ID 197 (长度: 31 字符)
+2025-06-04 10:18:45,996 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\197.wav
+2025-06-04 10:18:45,996 - INFO - 处理 ID 198 (长度: 29 字符)
+2025-06-04 10:18:50,784 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\198.wav
+2025-06-04 10:18:50,784 - INFO - 处理 ID 199 (长度: 30 字符)
+2025-06-04 10:18:59,387 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\199.wav
+2025-06-04 10:18:59,387 - INFO - 处理 ID 200 (长度: 37 字符)
+2025-06-04 10:19:04,768 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\200.wav
+2025-06-04 10:19:04,769 - INFO - 处理 ID 201 (长度: 131 字符)
+2025-06-04 10:19:42,687 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\201.wav
+2025-06-04 10:19:42,687 - INFO - 处理 ID 202 (长度: 127 字符)
+2025-06-04 10:20:16,277 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\202.wav
+2025-06-04 10:20:16,278 - INFO - 处理 ID 203 (长度: 133 字符)
+2025-06-04 10:20:49,640 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\203.wav
+2025-06-04 10:20:49,640 - INFO - 处理 ID 204 (长度: 126 字符)
+2025-06-04 10:21:17,205 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\204.wav
+2025-06-04 10:21:17,205 - INFO - 处理 ID 205 (长度: 155 字符)
+2025-06-04 10:22:07,128 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\205.wav
+2025-06-04 10:22:07,128 - INFO - 处理 ID 206 (长度: 131 字符)
+2025-06-04 10:22:40,861 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\206.wav
+2025-06-04 10:22:40,861 - INFO - 处理 ID 207 (长度: 127 字符)
+2025-06-04 10:23:16,016 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\207.wav
+2025-06-04 10:23:16,016 - INFO - 处理 ID 208 (长度: 109 字符)
+2025-06-04 10:23:49,818 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\208.wav
+2025-06-04 10:23:49,818 - INFO - 处理 ID 209 (长度: 119 字符)
+2025-06-04 10:24:11,846 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\209.wav
+2025-06-04 10:24:11,850 - INFO -   原始文本: 夜温 12°C 偏低，易诱导花青素在叶片中积累，造成叶片发紫，同时光合速率下降，叶绿素减少。建议将夜温控制在 15–18°C 以上，可通过温室保温膜或夜间加热系统提升温度；同时补施少量钾肥和磷肥，帮助恢复光合作用；待环境温度回升后，新叶渐渐恢复绿色。
+2025-06-04 10:24:11,851 - INFO -   处理后文本: 夜温 12摄氏度 偏低，易诱导花青素在叶片中积累，造成叶片发紫，同时光合速率下降，叶绿素减少。建议将夜温控制在 15到18摄氏度 以上，可通过温室保温膜或夜间加热系统提升温度；同时补施少量钾肥和磷肥，帮助恢复光合作用；待环境温度回升后，新叶渐渐恢复绿色。
+2025-06-04 10:24:11,851 - INFO - 处理 ID 210 (长度: 127 字符)
+2025-06-04 10:24:39,008 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\210.wav
+2025-06-04 10:24:39,008 - INFO - 处理 ID 211 (长度: 114 字符)
+2025-06-04 10:25:10,973 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\211.wav
+2025-06-04 10:25:10,974 - INFO - 处理 ID 212 (长度: 113 字符)
+2025-06-04 10:25:37,002 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\212.wav
+2025-06-04 10:25:37,002 - INFO - 处理 ID 213 (长度: 122 字符)
+2025-06-04 10:26:54,127 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\213.wav
+2025-06-04 10:26:54,128 - INFO - 处理 ID 214 (长度: 114 字符)
+2025-06-04 10:27:24,264 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\214.wav
+2025-06-04 10:27:24,264 - INFO - 处理 ID 215 (长度: 121 字符)
+2025-06-04 10:28:16,612 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\215.wav
+2025-06-04 10:28:16,612 - INFO - 处理 ID 216 (长度: 119 字符)
+2025-06-04 10:28:41,436 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\216.wav
+2025-06-04 10:28:41,436 - INFO - 处理 ID 217 (长度: 129 字符)
+2025-06-04 10:29:23,615 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\217.wav
+2025-06-04 10:29:23,615 - INFO - 处理 ID 218 (长度: 117 字符)
+2025-06-04 10:29:54,273 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\218.wav
+2025-06-04 10:29:54,274 - INFO - 处理 ID 219 (长度: 112 字符)
+2025-06-04 10:30:21,663 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\219.wav
+2025-06-04 10:30:21,663 - INFO - 处理 ID 220 (长度: 98 字符)
+2025-06-04 10:30:57,906 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\220.wav
+2025-06-04 10:30:57,907 - INFO - 处理 ID 221 (长度: 108 字符)
+2025-06-04 10:31:33,607 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\221.wav
+2025-06-04 10:31:33,607 - INFO - 处理 ID 222 (长度: 107 字符)
+2025-06-04 10:31:56,625 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\222.wav
+2025-06-04 10:31:56,626 - INFO - 处理 ID 223 (长度: 113 字符)
+2025-06-04 10:32:47,318 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\223.wav
+2025-06-04 10:32:47,318 - INFO - 处理 ID 224 (长度: 106 字符)
+2025-06-04 10:33:12,233 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\224.wav
+2025-06-04 10:33:12,233 - INFO - 处理 ID 225 (长度: 116 字符)
+2025-06-04 10:33:35,762 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\225.wav
+2025-06-04 10:33:35,762 - INFO - 处理 ID 226 (长度: 111 字符)
+2025-06-04 10:34:06,399 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\226.wav
+2025-06-04 10:34:06,399 - INFO - 处理 ID 227 (长度: 91 字符)
+2025-06-04 10:34:30,440 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\227.wav
+2025-06-04 10:34:30,441 - INFO - 处理 ID 228 (长度: 97 字符)
+2025-06-04 10:34:54,025 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\228.wav
+2025-06-04 10:34:54,026 - INFO - 处理 ID 229 (长度: 112 字符)
+2025-06-04 10:35:25,104 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\229.wav
+2025-06-04 10:35:25,104 - INFO - 处理 ID 230 (长度: 94 字符)
+2025-06-04 10:35:49,512 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\230.wav
+2025-06-04 10:35:49,512 - INFO - 处理 ID 231 (长度: 116 字符)
+2025-06-04 10:36:24,118 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\231.wav
+2025-06-04 10:36:24,119 - INFO - 处理 ID 232 (长度: 105 字符)
+2025-06-04 10:37:03,443 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\232.wav
+2025-06-04 10:37:03,444 - INFO - 处理 ID 233 (长度: 105 字符)
+2025-06-04 10:37:30,775 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\233.wav
+2025-06-04 10:37:30,775 - INFO - 处理 ID 234 (长度: 103 字符)
+2025-06-04 10:37:53,771 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\234.wav
+2025-06-04 10:37:53,771 - INFO - 处理 ID 235 (长度: 111 字符)
+2025-06-04 10:38:24,271 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\235.wav
+2025-06-04 10:38:24,271 - INFO - 处理 ID 236 (长度: 105 字符)
+2025-06-04 10:38:57,021 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\236.wav
+2025-06-04 10:38:57,021 - INFO - 处理 ID 237 (长度: 108 字符)
+2025-06-04 10:39:17,378 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\237.wav
+2025-06-04 10:39:17,378 - INFO - 处理 ID 238 (长度: 104 字符)
+2025-06-04 10:39:40,169 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\238.wav
+2025-06-04 10:39:40,169 - INFO - 处理 ID 239 (长度: 130 字符)
+2025-06-04 10:40:12,647 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\239.wav
+2025-06-04 10:40:12,647 - INFO - 处理 ID 240 (长度: 147 字符)
+2025-06-04 10:40:53,860 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\240.wav
+2025-06-04 10:40:53,860 - INFO - 处理 ID 241 (长度: 124 字符)
+2025-06-04 10:41:47,485 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\241.wav
+2025-06-04 10:41:47,486 - INFO - 处理 ID 242 (长度: 120 字符)
+2025-06-04 10:42:21,207 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\242.wav
+2025-06-04 10:42:21,207 - INFO - 处理 ID 243 (长度: 117 字符)
+2025-06-04 10:42:56,950 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\243.wav
+2025-06-04 10:42:56,950 - INFO - 处理 ID 244 (长度: 111 字符)
+2025-06-04 10:43:25,434 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\244.wav
+2025-06-04 10:43:25,434 - INFO - 处理 ID 245 (长度: 119 字符)
+2025-06-04 10:43:54,771 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\245.wav
+2025-06-04 10:43:54,771 - INFO - 处理 ID 246 (长度: 115 字符)
+2025-06-04 10:44:20,738 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\246.wav
+2025-06-04 10:44:20,738 - INFO - 处理 ID 247 (长度: 114 字符)
+2025-06-04 10:44:56,205 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\247.wav
+2025-06-04 10:44:56,205 - INFO - 处理 ID 248 (长度: 115 字符)
+2025-06-04 10:45:24,637 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\248.wav
+2025-06-04 10:45:24,637 - INFO - 处理 ID 249 (长度: 112 字符)
+2025-06-04 10:45:56,160 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\249.wav
+2025-06-04 10:45:56,161 - INFO - 处理 ID 250 (长度: 113 字符)
+2025-06-04 10:46:21,676 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\250.wav
+2025-06-04 10:46:21,676 - INFO - 处理 ID 251 (长度: 128 字符)
+2025-06-04 10:46:57,565 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\251.wav
+2025-06-04 10:46:57,565 - INFO - 处理 ID 252 (长度: 106 字符)
+2025-06-04 10:47:27,316 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\252.wav
+2025-06-04 10:47:27,317 - INFO - 处理 ID 253 (长度: 121 字符)
+2025-06-04 10:48:21,032 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\253.wav
+2025-06-04 10:48:21,034 - INFO - 处理 ID 254 (长度: 117 字符)
+2025-06-04 10:48:41,840 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\254.wav
+2025-06-04 10:48:41,840 - INFO - 处理 ID 255 (长度: 98 字符)
+2025-06-04 10:49:05,043 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\255.wav
+2025-06-04 10:49:05,043 - INFO - 处理 ID 256 (长度: 114 字符)
+2025-06-04 10:49:38,362 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\256.wav
+2025-06-04 10:49:38,362 - INFO - 处理 ID 257 (长度: 116 字符)
+2025-06-04 10:50:10,934 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\257.wav
+2025-06-04 10:50:10,934 - INFO - 处理 ID 258 (长度: 110 字符)
+2025-06-04 10:50:38,546 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\258.wav
+2025-06-04 10:50:38,546 - INFO - 处理 ID 259 (长度: 118 字符)
+2025-06-04 10:51:06,888 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\259.wav
+2025-06-04 10:51:06,888 - INFO - 处理 ID 260 (长度: 117 字符)
+2025-06-04 10:51:35,076 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\260.wav
+2025-06-04 10:51:35,077 - INFO - 处理 ID 261 (长度: 109 字符)
+2025-06-04 10:51:50,778 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\261.wav
+2025-06-04 10:51:50,778 - INFO - 处理 ID 262 (长度: 115 字符)
+2025-06-04 10:52:23,607 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\262.wav
+2025-06-04 10:52:23,607 - INFO - 处理 ID 263 (长度: 23 字符)
+2025-06-04 10:52:26,963 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\263.wav
+2025-06-04 10:52:26,964 - INFO - 处理 ID 264 (长度: 22 字符)
+2025-06-04 10:52:30,412 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\264.wav
+2025-06-04 10:52:30,413 - INFO - 处理 ID 265 (长度: 24 字符)
+2025-06-04 10:52:38,051 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\265.wav
+2025-06-04 10:52:38,051 - INFO - 处理 ID 266 (长度: 26 字符)
+2025-06-04 10:52:44,695 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\266.wav
+2025-06-04 10:52:44,695 - INFO - 处理 ID 267 (长度: 24 字符)
+2025-06-04 10:52:47,453 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\267.wav
+2025-06-04 10:52:47,454 - INFO - 处理 ID 268 (长度: 29 字符)
+2025-06-04 10:52:53,412 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\268.wav
+2025-06-04 10:52:53,412 - INFO - 处理 ID 269 (长度: 28 字符)
+2025-06-04 10:52:57,450 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\269.wav
+2025-06-04 10:52:57,450 - INFO - 处理 ID 270 (长度: 18 字符)
+2025-06-04 10:53:02,028 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\270.wav
+2025-06-04 10:53:02,028 - INFO - 处理 ID 271 (长度: 22 字符)
+2025-06-04 10:53:09,439 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\271.wav
+2025-06-04 10:53:09,440 - INFO - 处理 ID 272 (长度: 20 字符)
+2025-06-04 10:53:14,837 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\272.wav
+2025-06-04 10:53:14,837 - INFO - 处理 ID 273 (长度: 17 字符)
+2025-06-04 10:53:19,248 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\273.wav
+2025-06-04 10:53:19,248 - INFO - 处理 ID 274 (长度: 30 字符)
+2025-06-04 10:53:26,783 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\274.wav
+2025-06-04 10:53:26,784 - INFO - 处理 ID 275 (长度: 17 字符)
+2025-06-04 10:53:32,309 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\275.wav
+2025-06-04 10:53:32,309 - INFO - 处理 ID 276 (长度: 23 字符)
+2025-06-04 10:53:44,410 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\276.wav
+2025-06-04 10:53:44,411 - INFO - 处理 ID 277 (长度: 32 字符)
+2025-06-04 10:53:51,028 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\277.wav
+2025-06-04 10:53:51,028 - INFO - 处理 ID 278 (长度: 24 字符)
+2025-06-04 10:53:54,267 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\278.wav
+2025-06-04 10:53:54,268 - INFO - 处理 ID 279 (长度: 22 字符)
+2025-06-04 10:53:58,158 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\279.wav
+2025-06-04 10:53:58,158 - INFO - 处理 ID 280 (长度: 25 字符)
+2025-06-04 10:54:18,943 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\280.wav
+2025-06-04 10:54:18,944 - INFO - 处理 ID 281 (长度: 18 字符)
+2025-06-04 10:54:24,207 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\281.wav
+2025-06-04 10:54:24,207 - INFO - 处理 ID 282 (长度: 21 字符)
+2025-06-04 10:54:27,965 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\282.wav
+2025-06-04 10:54:27,965 - INFO - 处理 ID 283 (长度: 18 字符)
+2025-06-04 10:54:31,485 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\283.wav
+2025-06-04 10:54:31,486 - INFO - 处理 ID 284 (长度: 19 字符)
+2025-06-04 10:54:34,787 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\284.wav
+2025-06-04 10:54:34,787 - INFO - 处理 ID 285 (长度: 20 字符)
+2025-06-04 10:54:40,942 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\285.wav
+2025-06-04 10:54:40,942 - INFO - 处理 ID 286 (长度: 18 字符)
+2025-06-04 10:54:44,598 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\286.wav
+2025-06-04 10:54:44,598 - INFO - 处理 ID 287 (长度: 23 字符)
+2025-06-04 10:54:50,123 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\287.wav
+2025-06-04 10:54:50,123 - INFO - 处理 ID 288 (长度: 34 字符)
+2025-06-04 10:54:55,842 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\288.wav
+2025-06-04 10:54:55,842 - INFO - 处理 ID 289 (长度: 21 字符)
+2025-06-04 10:54:58,748 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\289.wav
+2025-06-04 10:54:58,749 - INFO - 处理 ID 290 (长度: 16 字符)
+2025-06-04 10:55:03,269 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\290.wav
+2025-06-04 10:55:03,269 - INFO - 处理 ID 291 (长度: 20 字符)
+2025-06-04 10:55:09,966 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\291.wav
+2025-06-04 10:55:09,967 - INFO - 处理 ID 292 (长度: 16 字符)
+2025-06-04 10:55:15,331 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\292.wav
+2025-06-04 10:55:15,331 - INFO - 处理 ID 293 (长度: 29 字符)
+2025-06-04 10:55:25,577 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\293.wav
+2025-06-04 10:55:25,577 - INFO - 处理 ID 294 (长度: 18 字符)
+2025-06-04 10:55:28,275 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\294.wav
+2025-06-04 10:55:28,275 - INFO - 处理 ID 295 (长度: 18 字符)
+2025-06-04 10:55:32,460 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\295.wav
+2025-06-04 10:55:32,460 - INFO - 处理 ID 296 (长度: 24 字符)
+2025-06-04 10:55:42,111 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\296.wav
+2025-06-04 10:55:42,111 - INFO - 处理 ID 297 (长度: 26 字符)
+2025-06-04 10:55:45,324 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\297.wav
+2025-06-04 10:55:45,324 - INFO - 处理 ID 298 (长度: 24 字符)
+2025-06-04 10:55:52,252 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\298.wav
+2025-06-04 10:55:52,252 - INFO - 处理 ID 299 (长度: 26 字符)
+2025-06-04 10:55:59,419 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\299.wav
+2025-06-04 10:55:59,419 - INFO - 处理 ID 300 (长度: 19 字符)
+2025-06-04 10:56:04,308 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\300.wav
+2025-06-04 10:56:04,308 - INFO - 处理 ID 301 (长度: 23 字符)
+2025-06-04 10:56:08,698 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\301.wav
+2025-06-04 10:56:08,700 - INFO - 处理 ID 302 (长度: 22 字符)
+2025-06-04 10:56:13,324 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\302.wav
+2025-06-04 10:56:13,324 - INFO - 处理 ID 303 (长度: 13 字符)
+2025-06-04 10:56:17,829 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\303.wav
+2025-06-04 10:56:17,830 - INFO - 处理 ID 304 (长度: 17 字符)
+2025-06-04 10:56:21,141 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\304.wav
+2025-06-04 10:56:21,142 - INFO - 处理 ID 305 (长度: 17 字符)
+2025-06-04 10:56:27,081 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\305.wav
+2025-06-04 10:56:27,081 - INFO - 处理 ID 306 (长度: 17 字符)
+2025-06-04 10:56:30,735 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\306.wav
+2025-06-04 10:56:30,735 - INFO - 处理 ID 307 (长度: 27 字符)
+2025-06-04 10:56:37,453 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\307.wav
+2025-06-04 10:56:37,454 - INFO - 处理 ID 308 (长度: 20 字符)
+2025-06-04 10:56:41,298 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\308.wav
+2025-06-04 10:56:41,298 - INFO - 处理 ID 309 (长度: 16 字符)
+2025-06-04 10:56:44,719 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\309.wav
+2025-06-04 10:56:44,719 - INFO - 处理 ID 310 (长度: 20 字符)
+2025-06-04 10:56:53,690 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\310.wav
+2025-06-04 10:56:53,690 - INFO - 处理 ID 311 (长度: 21 字符)
+2025-06-04 10:56:57,473 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\311.wav
+2025-06-04 10:56:57,473 - INFO - 处理 ID 312 (长度: 25 字符)
+2025-06-04 10:57:01,277 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\312.wav
+2025-06-04 10:57:01,277 - INFO - 处理 ID 313 (长度: 31 字符)
+2025-06-04 10:57:07,085 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\313.wav
+2025-06-04 10:57:07,086 - INFO - 处理 ID 314 (长度: 17 字符)
+2025-06-04 10:57:11,621 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\314.wav
+2025-06-04 10:57:11,622 - INFO - 处理 ID 315 (长度: 17 字符)
+2025-06-04 10:57:14,255 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\315.wav
+2025-06-04 10:57:14,255 - INFO - 处理 ID 316 (长度: 22 字符)
+2025-06-04 10:57:27,241 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\316.wav
+2025-06-04 10:57:27,241 - INFO - 处理 ID 317 (长度: 18 字符)
+2025-06-04 10:57:35,067 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\317.wav
+2025-06-04 10:57:35,067 - INFO - 处理 ID 318 (长度: 14 字符)
+2025-06-04 10:57:37,559 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\318.wav
+2025-06-04 10:57:37,560 - INFO - 处理 ID 319 (长度: 16 字符)
+2025-06-04 10:57:42,407 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\319.wav
+2025-06-04 10:57:42,407 - INFO - 处理 ID 320 (长度: 16 字符)
+2025-06-04 10:57:48,332 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\320.wav
+2025-06-04 10:57:48,332 - INFO - 处理 ID 321 (长度: 19 字符)
+2025-06-04 10:57:54,385 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\321.wav
+2025-06-04 10:57:54,385 - INFO - 处理 ID 322 (长度: 13 字符)
+2025-06-04 10:57:58,251 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\322.wav
+2025-06-04 10:57:58,251 - INFO - 处理 ID 323 (长度: 22 字符)
+2025-06-04 10:58:10,343 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\323.wav
+2025-06-04 10:58:10,343 - INFO - 处理 ID 324 (长度: 19 字符)
+2025-06-04 10:58:13,975 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\324.wav
+2025-06-04 10:58:13,975 - INFO - 处理 ID 325 (长度: 15 字符)
+2025-06-04 10:58:16,654 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\325.wav
+2025-06-04 10:58:16,654 - INFO - 处理 ID 326 (长度: 19 字符)
+2025-06-04 10:58:20,944 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\326.wav
+2025-06-04 10:58:20,944 - INFO - 处理 ID 327 (长度: 22 字符)
+2025-06-04 10:58:23,905 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\327.wav
+2025-06-04 10:58:23,905 - INFO - 处理 ID 328 (长度: 18 字符)
+2025-06-04 10:58:33,160 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\328.wav
+2025-06-04 10:58:33,160 - INFO - 处理 ID 329 (长度: 15 字符)
+2025-06-04 10:58:35,896 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\329.wav
+2025-06-04 10:58:35,896 - INFO - 处理 ID 330 (长度: 16 字符)
+2025-06-04 10:58:43,407 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\330.wav
+2025-06-04 10:58:43,407 - INFO - 处理 ID 331 (长度: 33 字符)
+2025-06-04 10:58:52,808 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\331.wav
+2025-06-04 10:58:52,810 - INFO - 处理 ID 332 (长度: 15 字符)
+2025-06-04 10:58:55,280 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\332.wav
+2025-06-04 10:58:55,280 - INFO - 处理 ID 333 (长度: 31 字符)
+2025-06-04 10:58:59,508 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\333.wav
+2025-06-04 10:58:59,508 - INFO - 处理 ID 334 (长度: 16 字符)
+2025-06-04 10:59:05,186 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\334.wav
+2025-06-04 10:59:05,186 - INFO - 处理 ID 335 (长度: 14 字符)
+2025-06-04 10:59:08,561 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\335.wav
+2025-06-04 10:59:08,561 - INFO - 处理 ID 336 (长度: 18 字符)
+2025-06-04 10:59:11,199 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\336.wav
+2025-06-04 10:59:11,199 - INFO - 处理 ID 337 (长度: 16 字符)
+2025-06-04 10:59:14,336 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\337.wav
+2025-06-04 10:59:14,337 - INFO - 处理 ID 338 (长度: 15 字符)
+2025-06-04 10:59:20,289 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\338.wav
+2025-06-04 10:59:20,289 - INFO - 处理 ID 339 (长度: 22 字符)
+2025-06-04 10:59:27,307 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\339.wav
+2025-06-04 10:59:27,307 - INFO - 处理 ID 340 (长度: 24 字符)
+2025-06-04 10:59:35,039 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\340.wav
+2025-06-04 10:59:35,040 - INFO - 处理 ID 341 (长度: 23 字符)
+2025-06-04 10:59:41,976 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\341.wav
+2025-06-04 10:59:41,976 - INFO - 处理 ID 342 (长度: 20 字符)
+2025-06-04 10:59:45,773 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\342.wav
+2025-06-04 10:59:45,773 - INFO - 处理 ID 343 (长度: 17 字符)
+2025-06-04 10:59:50,454 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\343.wav
+2025-06-04 10:59:50,454 - INFO - 处理 ID 344 (长度: 16 字符)
+2025-06-04 10:59:55,238 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\344.wav
+2025-06-04 10:59:55,238 - INFO - 处理 ID 345 (长度: 19 字符)
+2025-06-04 10:59:59,546 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\345.wav
+2025-06-04 10:59:59,547 - INFO - 处理 ID 346 (长度: 16 字符)
+2025-06-04 11:00:04,145 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\346.wav
+2025-06-04 11:00:04,146 - INFO - 处理 ID 347 (长度: 29 字符)
+2025-06-04 11:00:08,849 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\347.wav
+2025-06-04 11:00:08,849 - INFO - 处理 ID 348 (长度: 22 字符)
+2025-06-04 11:00:15,024 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\348.wav
+2025-06-04 11:00:15,024 - INFO - 处理 ID 349 (长度: 16 字符)
+2025-06-04 11:00:18,984 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\349.wav
+2025-06-04 11:00:18,985 - INFO - 处理 ID 350 (长度: 15 字符)
+2025-06-04 11:00:25,655 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\350.wav
+2025-06-04 11:00:25,655 - INFO - 处理 ID 351 (长度: 16 字符)
+2025-06-04 11:00:30,514 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\351.wav
+2025-06-04 11:00:30,515 - INFO - 处理 ID 352 (长度: 19 字符)
+2025-06-04 11:00:44,082 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\352.wav
+2025-06-04 11:00:44,082 - INFO - 处理 ID 353 (长度: 20 字符)
+2025-06-04 11:00:46,709 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\353.wav
+2025-06-04 11:00:46,709 - INFO - 处理 ID 354 (长度: 18 字符)
+2025-06-04 11:00:51,634 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\354.wav
+2025-06-04 11:00:51,634 - INFO - 处理 ID 355 (长度: 15 字符)
+2025-06-04 11:00:56,052 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\355.wav
+2025-06-04 11:00:56,052 - INFO - 处理 ID 356 (长度: 20 字符)
+2025-06-04 11:00:59,177 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\356.wav
+2025-06-04 11:00:59,179 - INFO - 处理 ID 357 (长度: 14 字符)
+2025-06-04 11:01:02,892 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\357.wav
+2025-06-04 11:01:02,892 - INFO - 处理 ID 358 (长度: 19 字符)
+2025-06-04 11:01:07,093 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\358.wav
+2025-06-04 11:01:07,093 - INFO - 处理 ID 359 (长度: 18 字符)
+2025-06-04 11:01:13,509 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\359.wav
+2025-06-04 11:01:13,510 - INFO - 处理 ID 360 (长度: 23 字符)
+2025-06-04 11:01:22,689 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\360.wav
+2025-06-04 11:01:22,689 - INFO - 处理 ID 361 (长度: 16 字符)
+2025-06-04 11:01:26,673 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\361.wav
+2025-06-04 11:01:26,673 - INFO - 处理 ID 362 (长度: 60 字符)
+2025-06-04 11:01:30,527 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\362.wav
+2025-06-04 11:01:30,527 - INFO - 处理 ID 363 (长度: 14 字符)
+2025-06-04 11:01:34,325 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\363.wav
+2025-06-04 11:01:34,325 - INFO - 处理 ID 364 (长度: 13 字符)
+2025-06-04 11:01:37,919 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\364.wav
+2025-06-04 11:01:37,919 - INFO - 处理 ID 365 (长度: 14 字符)
+2025-06-04 11:01:42,685 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\365.wav
+2025-06-04 11:01:42,685 - INFO - 处理 ID 366 (长度: 10 字符)
+2025-06-04 11:01:45,470 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\366.wav
+2025-06-04 11:01:45,471 - INFO - 处理 ID 367 (长度: 17 字符)
+2025-06-04 11:01:50,519 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\367.wav
+2025-06-04 11:01:50,519 - INFO - 处理 ID 368 (长度: 15 字符)
+2025-06-04 11:01:53,465 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\368.wav
+2025-06-04 11:01:53,465 - INFO - 处理 ID 369 (长度: 13 字符)
+2025-06-04 11:01:56,677 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\369.wav
+2025-06-04 11:01:56,677 - INFO - 处理 ID 370 (长度: 18 字符)
+2025-06-04 11:01:59,628 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\370.wav
+2025-06-04 11:01:59,628 - INFO - 处理 ID 371 (长度: 13 字符)
+2025-06-04 11:02:02,289 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\371.wav
+2025-06-04 11:02:02,289 - INFO - 处理 ID 372 (长度: 13 字符)
+2025-06-04 11:02:05,244 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\372.wav
+2025-06-04 11:02:05,244 - INFO - 处理 ID 373 (长度: 19 字符)
+2025-06-04 11:02:07,720 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\373.wav
+2025-06-04 11:02:07,720 - INFO - 处理 ID 374 (长度: 15 字符)
+2025-06-04 11:02:11,294 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\374.wav
+2025-06-04 11:02:11,295 - INFO - 处理 ID 375 (长度: 13 字符)
+2025-06-04 11:02:14,571 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\375.wav
+2025-06-04 11:02:14,571 - INFO - 处理 ID 376 (长度: 20 字符)
+2025-06-04 11:02:19,904 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\376.wav
+2025-06-04 11:02:19,904 - INFO - 处理 ID 377 (长度: 14 字符)
+2025-06-04 11:02:21,556 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\377.wav
+2025-06-04 11:02:21,556 - INFO - 处理 ID 378 (长度: 22 字符)
+2025-06-04 11:02:30,438 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\378.wav
+2025-06-04 11:02:30,438 - INFO - 处理 ID 379 (长度: 23 字符)
+2025-06-04 11:02:33,899 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\379.wav
+2025-06-04 11:02:33,900 - INFO - 处理 ID 380 (长度: 23 字符)
+2025-06-04 11:02:36,900 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\380.wav
+2025-06-04 11:02:36,900 - INFO - 处理 ID 381 (长度: 22 字符)
+2025-06-04 11:02:40,042 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\381.wav
+2025-06-04 11:02:40,042 - INFO - 处理 ID 382 (长度: 16 字符)
+2025-06-04 11:02:42,684 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\382.wav
+2025-06-04 11:02:42,684 - INFO - 处理 ID 383 (长度: 17 字符)
+2025-06-04 11:02:46,123 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\383.wav
+2025-06-04 11:02:46,123 - INFO - 处理 ID 384 (长度: 19 字符)
+2025-06-04 11:02:49,762 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\384.wav
+2025-06-04 11:02:49,762 - INFO - 处理 ID 385 (长度: 13 字符)
+2025-06-04 11:02:52,790 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\385.wav
+2025-06-04 11:02:52,790 - INFO - 处理 ID 386 (长度: 26 字符)
+2025-06-04 11:02:58,153 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\386.wav
+2025-06-04 11:02:58,153 - INFO - 处理 ID 387 (长度: 29 字符)
+2025-06-04 11:03:05,189 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\387.wav
+2025-06-04 11:03:05,190 - INFO - 处理 ID 388 (长度: 21 字符)
+2025-06-04 11:03:08,801 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\388.wav
+2025-06-04 11:03:08,801 - INFO - 处理 ID 389 (长度: 16 字符)
+2025-06-04 11:03:14,595 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\389.wav
+2025-06-04 11:03:14,595 - INFO - 处理 ID 390 (长度: 19 字符)
+2025-06-04 11:03:19,323 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\390.wav
+2025-06-04 11:03:19,323 - INFO - 处理 ID 391 (长度: 18 字符)
+2025-06-04 11:03:22,487 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\391.wav
+2025-06-04 11:03:22,488 - INFO - 处理 ID 392 (长度: 16 字符)
+2025-06-04 11:03:27,478 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\392.wav
+2025-06-04 11:03:27,478 - INFO - 处理 ID 393 (长度: 16 字符)
+2025-06-04 11:03:31,000 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\393.wav
+2025-06-04 11:03:31,000 - INFO - 处理 ID 394 (长度: 17 字符)
+2025-06-04 11:03:34,366 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\394.wav
+2025-06-04 11:03:34,366 - INFO - 处理 ID 395 (长度: 15 字符)
+2025-06-04 11:03:39,184 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\395.wav
+2025-06-04 11:03:39,185 - INFO - 处理 ID 396 (长度: 22 字符)
+2025-06-04 11:03:42,349 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\396.wav
+2025-06-04 11:03:42,349 - INFO - 处理 ID 397 (长度: 19 字符)
+2025-06-04 11:03:46,522 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\397.wav
+2025-06-04 11:03:46,522 - INFO - 处理 ID 398 (长度: 16 字符)
+2025-06-04 11:03:49,897 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\398.wav
+2025-06-04 11:03:49,897 - INFO - 处理 ID 399 (长度: 16 字符)
+2025-06-04 11:03:57,234 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\399.wav
+2025-06-04 11:03:57,234 - INFO - 处理 ID 400 (长度: 23 字符)
+2025-06-04 11:04:01,292 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\400.wav
+2025-06-04 11:04:01,292 - INFO - 处理 ID 401 (长度: 19 字符)
+2025-06-04 11:04:04,058 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\401.wav
+2025-06-04 11:04:04,058 - INFO - 处理 ID 402 (长度: 19 字符)
+2025-06-04 11:04:07,075 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\402.wav
+2025-06-04 11:04:07,075 - INFO - 处理 ID 403 (长度: 11 字符)
+2025-06-04 11:04:09,466 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\403.wav
+2025-06-04 11:04:09,467 - INFO - 处理 ID 404 (长度: 18 字符)
+2025-06-04 11:04:13,050 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\404.wav
+2025-06-04 11:04:13,051 - INFO - 处理 ID 405 (长度: 15 字符)
+2025-06-04 11:04:16,461 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\405.wav
+2025-06-04 11:04:16,462 - INFO - 处理 ID 406 (长度: 14 字符)
+2025-06-04 11:04:20,580 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\406.wav
+2025-06-04 11:04:20,582 - INFO - 处理 ID 407 (长度: 18 字符)
+2025-06-04 11:04:23,707 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\407.wav
+2025-06-04 11:04:23,707 - INFO - 处理 ID 408 (长度: 17 字符)
+2025-06-04 11:04:33,114 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\408.wav
+2025-06-04 11:04:33,114 - INFO - 处理 ID 409 (长度: 16 字符)
+2025-06-04 11:04:36,037 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\409.wav
+2025-06-04 11:04:36,037 - INFO - 处理 ID 410 (长度: 13 字符)
+2025-06-04 11:04:43,091 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\410.wav
+2025-06-04 11:04:43,091 - INFO - 处理 ID 411 (长度: 15 字符)
+2025-06-04 11:04:46,372 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\411.wav
+2025-06-04 11:04:46,372 - INFO - 处理 ID 412 (长度: 15 字符)
+2025-06-04 11:04:50,720 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\412.wav
+2025-06-04 11:04:50,720 - INFO - 处理 ID 413 (长度: 15 字符)
+2025-06-04 11:04:53,428 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\413.wav
+2025-06-04 11:04:53,428 - INFO - 处理 ID 414 (长度: 15 字符)
+2025-06-04 11:04:58,476 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\414.wav
+2025-06-04 11:04:58,476 - INFO - 处理 ID 415 (长度: 16 字符)
+2025-06-04 11:05:01,525 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\415.wav
+2025-06-04 11:05:01,526 - INFO - 处理 ID 416 (长度: 16 字符)
+2025-06-04 11:05:04,749 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\416.wav
+2025-06-04 11:05:04,749 - INFO - 处理 ID 417 (长度: 19 字符)
+2025-06-04 11:05:07,712 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\417.wav
+2025-06-04 11:05:07,712 - INFO - 处理 ID 418 (长度: 14 字符)
+2025-06-04 11:05:10,439 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\418.wav
+2025-06-04 11:05:10,439 - INFO - 处理 ID 419 (长度: 15 字符)
+2025-06-04 11:05:13,033 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\419.wav
+2025-06-04 11:05:13,033 - INFO - 处理 ID 420 (长度: 12 字符)
+2025-06-04 11:05:15,378 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\420.wav
+2025-06-04 11:05:15,378 - INFO - 处理 ID 421 (长度: 16 字符)
+2025-06-04 11:05:37,898 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\421.wav
+2025-06-04 11:05:37,898 - INFO - 处理 ID 422 (长度: 16 字符)
+2025-06-04 11:05:41,058 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\422.wav
+2025-06-04 11:05:41,059 - INFO - 处理 ID 423 (长度: 15 字符)
+2025-06-04 11:05:44,512 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\423.wav
+2025-06-04 11:05:44,512 - INFO - 处理 ID 424 (长度: 16 字符)
+2025-06-04 11:05:47,172 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\424.wav
+2025-06-04 11:05:47,172 - INFO - 处理 ID 425 (长度: 16 字符)
+2025-06-04 11:05:51,091 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\425.wav
+2025-06-04 11:05:51,091 - INFO - 处理 ID 426 (长度: 15 字符)
+2025-06-04 11:05:54,209 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\426.wav
+2025-06-04 11:05:54,209 - INFO - 处理 ID 427 (长度: 15 字符)
+2025-06-04 11:05:57,249 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\427.wav
+2025-06-04 11:05:57,250 - INFO - 处理 ID 428 (长度: 17 字符)
+2025-06-04 11:06:00,431 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\428.wav
+2025-06-04 11:06:00,431 - INFO - 处理 ID 429 (长度: 16 字符)
+2025-06-04 11:06:03,570 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\429.wav
+2025-06-04 11:06:03,571 - INFO - 处理 ID 430 (长度: 13 字符)
+2025-06-04 11:06:07,458 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\430.wav
+2025-06-04 11:06:07,458 - INFO - 处理 ID 431 (长度: 16 字符)
+2025-06-04 11:06:13,509 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\431.wav
+2025-06-04 11:06:13,509 - INFO - 处理 ID 432 (长度: 15 字符)
+2025-06-04 11:06:16,084 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\432.wav
+2025-06-04 11:06:16,084 - INFO - 处理 ID 433 (长度: 15 字符)
+2025-06-04 11:06:20,415 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\433.wav
+2025-06-04 11:06:20,415 - INFO - 处理 ID 434 (长度: 16 字符)
+2025-06-04 11:06:22,739 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\434.wav
+2025-06-04 11:06:22,739 - INFO - 处理 ID 435 (长度: 15 字符)
+2025-06-04 11:06:24,913 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\435.wav
+2025-06-04 11:06:24,913 - INFO - 处理 ID 436 (长度: 14 字符)
+2025-06-04 11:06:27,562 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\436.wav
+2025-06-04 11:06:27,562 - INFO - 处理 ID 437 (长度: 16 字符)
+2025-06-04 11:06:30,026 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\437.wav
+2025-06-04 11:06:30,026 - INFO - 处理 ID 438 (长度: 19 字符)
+2025-06-04 11:06:37,301 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\438.wav
+2025-06-04 11:06:37,301 - INFO - 处理 ID 439 (长度: 15 字符)
+2025-06-04 11:06:40,863 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\439.wav
+2025-06-04 11:06:40,864 - INFO - 处理 ID 440 (长度: 15 字符)
+2025-06-04 11:06:43,783 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\440.wav
+2025-06-04 11:06:43,784 - INFO - 处理 ID 441 (长度: 12 字符)
+2025-06-04 11:06:48,623 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\441.wav
+2025-06-04 11:06:48,623 - INFO - 处理 ID 442 (长度: 13 字符)
+2025-06-04 11:06:51,201 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\442.wav
+2025-06-04 11:06:51,201 - INFO - 处理 ID 443 (长度: 10 字符)
+2025-06-04 11:06:53,833 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\443.wav
+2025-06-04 11:06:53,833 - INFO - 处理 ID 444 (长度: 13 字符)
+2025-06-04 11:06:57,551 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\444.wav
+2025-06-04 11:06:57,552 - INFO - 处理 ID 445 (长度: 13 字符)
+2025-06-04 11:07:00,304 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\445.wav
+2025-06-04 11:07:00,304 - INFO - 处理 ID 446 (长度: 15 字符)
+2025-06-04 11:07:12,684 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\446.wav
+2025-06-04 11:07:12,685 - INFO - 处理 ID 447 (长度: 17 字符)
+2025-06-04 11:07:15,567 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\447.wav
+2025-06-04 11:07:15,568 - INFO - 处理 ID 448 (长度: 17 字符)
+2025-06-04 11:07:19,175 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\448.wav
+2025-06-04 11:07:19,175 - INFO - 处理 ID 449 (长度: 17 字符)
+2025-06-04 11:07:28,725 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\449.wav
+2025-06-04 11:07:28,725 - INFO - 处理 ID 450 (长度: 16 字符)
+2025-06-04 11:07:31,131 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\450.wav
+2025-06-04 11:07:31,131 - INFO - 处理 ID 451 (长度: 16 字符)
+2025-06-04 11:07:34,999 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\451.wav
+2025-06-04 11:07:35,000 - INFO - 处理 ID 452 (长度: 11 字符)
+2025-06-04 11:07:37,397 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\452.wav
+2025-06-04 11:07:37,398 - INFO - 处理 ID 453 (长度: 19 字符)
+2025-06-04 11:07:40,092 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\453.wav
+2025-06-04 11:07:40,092 - INFO - 处理 ID 454 (长度: 16 字符)
+2025-06-04 11:07:43,626 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\454.wav
+2025-06-04 11:07:43,626 - INFO - 处理 ID 455 (长度: 15 字符)
+2025-06-04 11:07:46,294 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\455.wav
+2025-06-04 11:07:46,294 - INFO - 处理 ID 456 (长度: 16 字符)
+2025-06-04 11:07:48,980 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\456.wav
+2025-06-04 11:07:48,980 - INFO - 处理 ID 457 (长度: 11 字符)
+2025-06-04 11:07:51,139 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\457.wav
+2025-06-04 11:07:51,139 - INFO - 处理 ID 458 (长度: 19 字符)
+2025-06-04 11:07:53,980 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\458.wav
+2025-06-04 11:07:53,980 - INFO - 处理 ID 459 (长度: 13 字符)
+2025-06-04 11:07:56,737 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\459.wav
+2025-06-04 11:07:56,737 - INFO - 处理 ID 460 (长度: 11 字符)
+2025-06-04 11:07:59,146 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\460.wav
+2025-06-04 11:07:59,146 - INFO - 处理 ID 461 (长度: 14 字符)
+2025-06-04 11:08:04,516 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\461.wav
+2025-06-04 11:08:04,517 - INFO - 处理 ID 462 (长度: 16 字符)
+2025-06-04 11:08:07,005 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\462.wav
+2025-06-04 11:08:07,005 - INFO - 处理 ID 463 (长度: 14 字符)
+2025-06-04 11:08:11,194 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\463.wav
+2025-06-04 11:08:11,194 - INFO - 处理 ID 464 (长度: 17 字符)
+2025-06-04 11:08:14,355 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\464.wav
+2025-06-04 11:08:14,355 - INFO - 处理 ID 465 (长度: 13 字符)
+2025-06-04 11:08:16,697 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\465.wav
+2025-06-04 11:08:16,697 - INFO - 处理 ID 466 (长度: 12 字符)
+2025-06-04 11:08:20,923 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\466.wav
+2025-06-04 11:08:20,923 - INFO - 处理 ID 467 (长度: 11 字符)
+2025-06-04 11:08:22,964 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\467.wav
+2025-06-04 11:08:22,965 - INFO - 处理 ID 468 (长度: 14 字符)
+2025-06-04 11:08:27,667 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\468.wav
+2025-06-04 11:08:27,667 - INFO - 处理 ID 469 (长度: 15 字符)
+2025-06-04 11:08:31,114 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\469.wav
+2025-06-04 11:08:31,114 - INFO - 处理 ID 470 (长度: 13 字符)
+2025-06-04 11:08:34,287 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\470.wav
+2025-06-04 11:08:34,287 - INFO - 处理 ID 471 (长度: 15 字符)
+2025-06-04 11:08:38,296 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\471.wav
+2025-06-04 11:08:38,297 - INFO - 处理 ID 472 (长度: 12 字符)
+2025-06-04 11:08:40,759 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\472.wav
+2025-06-04 11:08:40,760 - INFO - 处理 ID 473 (长度: 14 字符)
+2025-06-04 11:08:43,553 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\473.wav
+2025-06-04 11:08:43,553 - INFO - 处理 ID 474 (长度: 15 字符)
+2025-06-04 11:08:46,661 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\474.wav
+2025-06-04 11:08:46,661 - INFO - 处理 ID 475 (长度: 15 字符)
+2025-06-04 11:08:49,333 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\475.wav
+2025-06-04 11:08:49,333 - INFO - 处理 ID 476 (长度: 12 字符)
+2025-06-04 11:08:51,796 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\476.wav
+2025-06-04 11:08:51,796 - INFO - 处理 ID 477 (长度: 16 字符)
+2025-06-04 11:08:56,904 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\477.wav
+2025-06-04 11:08:56,904 - INFO - 处理 ID 478 (长度: 29 字符)
+2025-06-04 11:09:01,617 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\478.wav
+2025-06-04 11:09:01,617 - INFO - 处理 ID 479 (长度: 25 字符)
+2025-06-04 11:09:10,099 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\479.wav
+2025-06-04 11:09:10,100 - INFO - 处理 ID 480 (长度: 26 字符)
+2025-06-04 11:09:14,734 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\480.wav
+2025-06-04 11:09:14,735 - INFO - 处理 ID 481 (长度: 24 字符)
+2025-06-04 11:09:21,215 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\481.wav
+2025-06-04 11:09:21,215 - INFO - 处理 ID 482 (长度: 26 字符)
+2025-06-04 11:09:25,564 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\482.wav
+2025-06-04 11:09:25,564 - INFO - 处理 ID 483 (长度: 27 字符)
+2025-06-04 11:09:29,288 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\483.wav
+2025-06-04 11:09:29,289 - INFO - 处理 ID 484 (长度: 22 字符)
+2025-06-04 11:09:36,350 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\484.wav
+2025-06-04 11:09:36,350 - INFO - 处理 ID 485 (长度: 18 字符)
+2025-06-04 11:09:40,027 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\485.wav
+2025-06-04 11:09:40,028 - INFO - 处理 ID 486 (长度: 22 字符)
+2025-06-04 11:09:43,903 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\486.wav
+2025-06-04 11:09:43,903 - INFO - 处理 ID 487 (长度: 19 字符)
+2025-06-04 11:09:47,789 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\487.wav
+2025-06-04 11:09:47,790 - INFO - 处理 ID 488 (长度: 26 字符)
+2025-06-04 11:09:51,364 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\488.wav
+2025-06-04 11:09:51,364 - INFO - 处理 ID 489 (长度: 25 字符)
+2025-06-04 11:09:58,524 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\489.wav
+2025-06-04 11:09:58,524 - INFO - 处理 ID 490 (长度: 27 字符)
+2025-06-04 11:10:04,361 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\490.wav
+2025-06-04 11:10:04,361 - INFO - 处理 ID 491 (长度: 23 字符)
+2025-06-04 11:10:08,072 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\491.wav
+2025-06-04 11:10:08,073 - INFO - 处理 ID 492 (长度: 24 字符)
+2025-06-04 11:10:15,430 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\492.wav
+2025-06-04 11:10:15,431 - INFO - 处理 ID 493 (长度: 25 字符)
+2025-06-04 11:10:19,941 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\493.wav
+2025-06-04 11:10:19,943 - INFO - 处理 ID 494 (长度: 24 字符)
+2025-06-04 11:10:29,937 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\494.wav
+2025-06-04 11:10:29,937 - INFO - 处理 ID 495 (长度: 23 字符)
+2025-06-04 11:10:37,216 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\495.wav
+2025-06-04 11:10:37,216 - INFO - 处理 ID 496 (长度: 19 字符)
+2025-06-04 11:10:41,213 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\496.wav
+2025-06-04 11:10:41,214 - INFO - 处理 ID 497 (长度: 21 字符)
+2025-06-04 11:10:44,617 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\497.wav
+2025-06-04 11:10:44,617 - INFO - 处理 ID 498 (长度: 23 字符)
+2025-06-04 11:10:56,421 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\498.wav
+2025-06-04 11:10:56,421 - INFO - 处理 ID 499 (长度: 23 字符)
+2025-06-04 11:11:00,022 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\499.wav
+2025-06-04 11:11:00,022 - INFO - 处理 ID 500 (长度: 15 字符)
+2025-06-04 11:11:03,385 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\500.wav
+2025-06-04 11:11:03,386 - INFO - 处理 ID 501 (长度: 20 字符)
+2025-06-04 11:11:07,810 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\501.wav
+2025-06-04 11:11:07,811 - INFO - 处理 ID 502 (长度: 20 字符)
+2025-06-04 11:11:11,845 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\502.wav
+2025-06-04 11:11:11,845 - INFO - 处理 ID 503 (长度: 20 字符)
+2025-06-04 11:11:15,311 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\503.wav
+2025-06-04 11:11:15,311 - INFO - 处理 ID 504 (长度: 17 字符)
+2025-06-04 11:11:22,600 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\504.wav
+2025-06-04 11:11:22,601 - INFO - 处理 ID 505 (长度: 15 字符)
+2025-06-04 11:11:25,176 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\505.wav
+2025-06-04 11:11:25,176 - INFO - 处理 ID 506 (长度: 13 字符)
+2025-06-04 11:11:27,632 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\506.wav
+2025-06-04 11:11:27,632 - INFO - 处理 ID 507 (长度: 20 字符)
+2025-06-04 11:11:30,658 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\507.wav
+2025-06-04 11:11:30,658 - INFO - 处理 ID 508 (长度: 19 字符)
+2025-06-04 11:11:33,995 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\508.wav
+2025-06-04 11:11:33,995 - INFO - 处理 ID 509 (长度: 16 字符)
+2025-06-04 11:11:37,688 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\509.wav
+2025-06-04 11:11:37,688 - INFO - 处理 ID 510 (长度: 18 字符)
+2025-06-04 11:11:41,079 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\510.wav
+2025-06-04 11:11:41,079 - INFO - 处理 ID 511 (长度: 18 字符)
+2025-06-04 11:11:45,108 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\511.wav
+2025-06-04 11:11:45,109 - INFO - 处理 ID 512 (长度: 22 字符)
+2025-06-04 11:11:48,998 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\512.wav
+2025-06-04 11:11:48,998 - INFO - 处理 ID 513 (长度: 21 字符)
+2025-06-04 11:11:52,559 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\513.wav
+2025-06-04 11:11:52,559 - INFO - 处理 ID 514 (长度: 15 字符)
+2025-06-04 11:11:55,557 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\514.wav
+2025-06-04 11:11:55,558 - INFO - 处理 ID 515 (长度: 16 字符)
+2025-06-04 11:11:58,726 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\515.wav
+2025-06-04 11:11:58,727 - INFO - 处理 ID 516 (长度: 16 字符)
+2025-06-04 11:12:01,559 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\516.wav
+2025-06-04 11:12:01,559 - INFO - 处理 ID 517 (长度: 22 字符)
+2025-06-04 11:12:10,782 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\517.wav
+2025-06-04 11:12:10,782 - INFO - 处理 ID 518 (长度: 15 字符)
+2025-06-04 11:12:16,403 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\518.wav
+2025-06-04 11:12:16,403 - INFO - 处理 ID 519 (长度: 23 字符)
+2025-06-04 11:12:20,455 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\519.wav
+2025-06-04 11:12:20,455 - INFO - 处理 ID 520 (长度: 16 字符)
+2025-06-04 11:12:27,265 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\520.wav
+2025-06-04 11:12:27,266 - INFO - 处理 ID 521 (长度: 13 字符)
+2025-06-04 11:12:29,786 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\521.wav
+2025-06-04 11:12:29,787 - INFO - 处理 ID 522 (长度: 17 字符)
+2025-06-04 11:12:32,679 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\522.wav
+2025-06-04 11:12:32,679 - INFO - 处理 ID 523 (长度: 19 字符)
+2025-06-04 11:12:36,900 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\523.wav
+2025-06-04 11:12:36,900 - INFO - 处理 ID 524 (长度: 12 字符)
+2025-06-04 11:12:40,423 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\524.wav
+2025-06-04 11:12:40,423 - INFO - 处理 ID 525 (长度: 16 字符)
+2025-06-04 11:12:44,106 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\525.wav
+2025-06-04 11:12:44,106 - INFO - 处理 ID 526 (长度: 10 字符)
+2025-06-04 11:12:48,107 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\526.wav
+2025-06-04 11:12:48,107 - INFO - 处理 ID 527 (长度: 17 字符)
+2025-06-04 11:12:51,662 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\527.wav
+2025-06-04 11:12:51,663 - INFO - 处理 ID 528 (长度: 25 字符)
+2025-06-04 11:13:00,910 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\528.wav
+2025-06-04 11:13:00,911 - INFO - 处理 ID 529 (长度: 16 字符)
+2025-06-04 11:13:05,363 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\529.wav
+2025-06-04 11:13:05,363 - INFO - 处理 ID 530 (长度: 15 字符)
+2025-06-04 11:13:11,374 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\530.wav
+2025-06-04 11:13:11,375 - INFO - 处理 ID 531 (长度: 19 字符)
+2025-06-04 11:13:14,954 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\531.wav
+2025-06-04 11:13:14,954 - INFO - 处理 ID 532 (长度: 14 字符)
+2025-06-04 11:13:22,275 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\532.wav
+2025-06-04 11:13:22,275 - INFO - 处理 ID 533 (长度: 14 字符)
+2025-06-04 11:13:24,946 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\533.wav
+2025-06-04 11:13:24,946 - INFO - 处理 ID 534 (长度: 15 字符)
+2025-06-04 11:13:28,149 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\534.wav
+2025-06-04 11:13:28,149 - INFO - 处理 ID 535 (长度: 20 字符)
+2025-06-04 11:13:39,078 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\535.wav
+2025-06-04 11:13:39,078 - INFO - 处理 ID 536 (长度: 19 字符)
+2025-06-04 11:13:44,714 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\536.wav
+2025-06-04 11:13:44,714 - INFO - 处理 ID 537 (长度: 19 字符)
+2025-06-04 11:13:49,679 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\537.wav
+2025-06-04 11:13:49,679 - INFO - 处理 ID 538 (长度: 17 字符)
+2025-06-04 11:13:52,695 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\538.wav
+2025-06-04 11:13:52,696 - INFO - 处理 ID 539 (长度: 15 字符)
+2025-06-04 11:13:55,344 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\539.wav
+2025-06-04 11:13:55,344 - INFO - 处理 ID 540 (长度: 15 字符)
+2025-06-04 11:14:01,745 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\540.wav
+2025-06-04 11:14:01,745 - INFO - 处理 ID 541 (长度: 16 字符)
+2025-06-04 11:14:05,498 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\541.wav
+2025-06-04 11:14:05,498 - INFO - 处理 ID 542 (长度: 14 字符)
+2025-06-04 11:14:09,473 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\542.wav
+2025-06-04 11:14:09,473 - INFO - 处理 ID 543 (长度: 15 字符)
+2025-06-04 11:14:13,213 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\543.wav
+2025-06-04 11:14:13,214 - INFO - 处理 ID 544 (长度: 18 字符)
+2025-06-04 11:14:19,764 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\544.wav
+2025-06-04 11:14:19,764 - INFO - 处理 ID 545 (长度: 13 字符)
+2025-06-04 11:14:23,862 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\545.wav
+2025-06-04 11:14:23,862 - INFO - 处理 ID 546 (长度: 16 字符)
+2025-06-04 11:14:26,445 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\546.wav
+2025-06-04 11:14:26,445 - INFO - 处理 ID 547 (长度: 18 字符)
+2025-06-04 11:14:29,763 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\547.wav
+2025-06-04 11:14:29,764 - INFO - 处理 ID 548 (长度: 15 字符)
+2025-06-04 11:14:33,014 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\548.wav
+2025-06-04 11:14:33,014 - INFO - 处理 ID 549 (长度: 20 字符)
+2025-06-04 11:14:36,142 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\549.wav
+2025-06-04 11:14:36,142 - INFO - 处理 ID 550 (长度: 18 字符)
+2025-06-04 11:14:38,894 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\550.wav
+2025-06-04 11:14:38,894 - INFO - 处理 ID 551 (长度: 13 字符)
+2025-06-04 11:14:41,474 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\551.wav
+2025-06-04 11:14:41,474 - INFO - 处理 ID 552 (长度: 18 字符)
+2025-06-04 11:14:44,568 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\552.wav
+2025-06-04 11:14:44,568 - INFO - 处理 ID 553 (长度: 15 字符)
+2025-06-04 11:14:47,326 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\553.wav
+2025-06-04 11:14:47,326 - INFO - 处理 ID 554 (长度: 17 字符)
+2025-06-04 11:14:49,862 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\554.wav
+2025-06-04 11:14:49,862 - INFO - 处理 ID 555 (长度: 18 字符)
+2025-06-04 11:14:52,804 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\555.wav
+2025-06-04 11:14:52,805 - INFO - 处理 ID 556 (长度: 15 字符)
+2025-06-04 11:14:55,293 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\556.wav
+2025-06-04 11:14:55,293 - INFO - 处理 ID 557 (长度: 15 字符)
+2025-06-04 11:14:58,109 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\557.wav
+2025-06-04 11:14:58,109 - INFO - 处理 ID 558 (长度: 14 字符)
+2025-06-04 11:15:00,683 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\558.wav
+2025-06-04 11:15:00,683 - INFO - 处理 ID 559 (长度: 15 字符)
+2025-06-04 11:15:04,532 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\559.wav
+2025-06-04 11:15:04,532 - INFO - 处理 ID 560 (长度: 15 字符)
+2025-06-04 11:15:07,614 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\560.wav
+2025-06-04 11:15:07,615 - INFO - 处理 ID 561 (长度: 17 字符)
+2025-06-04 11:15:11,234 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\561.wav
+2025-06-04 11:15:11,234 - INFO - 处理 ID 562 (长度: 14 字符)
+2025-06-04 11:15:14,082 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\562.wav
+2025-06-04 11:15:14,082 - INFO - 处理 ID 563 (长度: 21 字符)
+2025-06-04 11:15:28,463 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\563.wav
+2025-06-04 11:15:28,463 - INFO - 处理 ID 564 (长度: 19 字符)
+2025-06-04 11:15:31,589 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\564.wav
+2025-06-04 11:15:31,589 - INFO - 处理 ID 565 (长度: 20 字符)
+2025-06-04 11:15:35,168 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\565.wav
+2025-06-04 11:15:35,168 - INFO - 处理 ID 566 (长度: 18 字符)
+2025-06-04 11:15:38,664 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\566.wav
+2025-06-04 11:15:38,664 - INFO - 处理 ID 567 (长度: 19 字符)
+2025-06-04 11:15:41,873 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\567.wav
+2025-06-04 11:15:41,874 - INFO - 处理 ID 568 (长度: 16 字符)
+2025-06-04 11:15:44,791 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\568.wav
+2025-06-04 11:15:44,791 - INFO - 处理 ID 569 (长度: 19 字符)
+2025-06-04 11:15:53,214 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\569.wav
+2025-06-04 11:15:53,214 - INFO - 处理 ID 570 (长度: 16 字符)
+2025-06-04 11:15:55,867 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\570.wav
+2025-06-04 11:15:55,867 - INFO - 处理 ID 571 (长度: 16 字符)
+2025-06-04 11:15:59,182 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\571.wav
+2025-06-04 11:15:59,182 - INFO - 处理 ID 572 (长度: 19 字符)
+2025-06-04 11:16:02,452 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\572.wav
+2025-06-04 11:16:02,453 - INFO - 处理 ID 573 (长度: 15 字符)
+2025-06-04 11:16:05,533 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\573.wav
+2025-06-04 11:16:05,533 - INFO - 处理 ID 574 (长度: 19 字符)
+2025-06-04 11:16:08,281 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\574.wav
+2025-06-04 11:16:08,283 - INFO - 处理 ID 575 (长度: 17 字符)
+2025-06-04 11:16:12,423 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\575.wav
+2025-06-04 11:16:12,424 - INFO - 处理 ID 576 (长度: 18 字符)
+2025-06-04 11:16:15,585 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\576.wav
+2025-06-04 11:16:15,585 - INFO - 处理 ID 577 (长度: 18 字符)
+2025-06-04 11:16:18,758 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\577.wav
+2025-06-04 11:16:18,759 - INFO - 处理 ID 578 (长度: 134 字符)
+2025-06-04 11:16:57,871 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\578.wav
+2025-06-04 11:16:57,872 - INFO - 处理 ID 579 (长度: 125 字符)
+2025-06-04 11:17:31,229 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\579.wav
+2025-06-04 11:17:31,230 - INFO - 处理 ID 580 (长度: 126 字符)
+2025-06-04 11:18:02,624 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\580.wav
+2025-06-04 11:18:02,624 - INFO - 处理 ID 581 (长度: 128 字符)
+2025-06-04 11:18:43,374 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\581.wav
+2025-06-04 11:18:43,374 - INFO - 处理 ID 582 (长度: 122 字符)
+2025-06-04 11:18:59,115 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\582.wav
+2025-06-04 11:18:59,116 - INFO - 处理 ID 583 (长度: 123 字符)
+2025-06-04 11:19:30,051 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\583.wav
+2025-06-04 11:19:30,051 - INFO - 处理 ID 584 (长度: 122 字符)
+2025-06-04 11:20:13,142 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\584.wav
+2025-06-04 11:20:13,142 - INFO - 处理 ID 585 (长度: 127 字符)
+2025-06-04 11:20:34,039 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\585.wav
+2025-06-04 11:20:34,039 - INFO - 处理 ID 586 (长度: 118 字符)
+2025-06-04 11:20:57,101 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\586.wav
+2025-06-04 11:20:57,101 - INFO - 处理 ID 587 (长度: 124 字符)
+2025-06-04 11:21:36,550 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\587.wav
+2025-06-04 11:21:36,550 - INFO - 处理 ID 588 (长度: 109 字符)
+2025-06-04 11:21:54,231 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\588.wav
+2025-06-04 11:21:54,231 - INFO - 处理 ID 589 (长度: 120 字符)
+2025-06-04 11:22:15,865 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\589.wav
+2025-06-04 11:22:15,865 - INFO - 处理 ID 590 (长度: 118 字符)
+2025-06-04 11:22:36,798 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\590.wav
+2025-06-04 11:22:36,798 - INFO - 处理 ID 591 (长度: 102 字符)
+2025-06-04 11:23:06,913 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\591.wav
+2025-06-04 11:23:06,913 - INFO - 处理 ID 592 (长度: 120 字符)
+2025-06-04 11:23:37,595 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\592.wav
+2025-06-04 11:23:37,595 - INFO - 处理 ID 593 (长度: 113 字符)
+2025-06-04 11:24:04,547 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\593.wav
+2025-06-04 11:24:04,548 - INFO - 处理 ID 594 (长度: 121 字符)
+2025-06-04 11:24:33,159 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\594.wav
+2025-06-04 11:24:33,159 - INFO - 处理 ID 595 (长度: 111 字符)
+2025-06-04 11:24:58,288 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\595.wav
+2025-06-04 11:24:58,288 - INFO - 处理 ID 596 (长度: 106 字符)
+2025-06-04 11:25:28,769 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\596.wav
+2025-06-04 11:25:28,769 - INFO - 处理 ID 597 (长度: 111 字符)
+2025-06-04 11:25:48,905 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\597.wav
+2025-06-04 11:25:48,905 - INFO - 处理 ID 598 (长度: 102 字符)
+2025-06-04 11:26:07,887 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\598.wav
+2025-06-04 11:26:07,887 - INFO - 处理 ID 599 (长度: 118 字符)
+2025-06-04 11:27:01,002 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\599.wav
+2025-06-04 11:27:01,002 - INFO - 处理 ID 600 (长度: 108 字符)
+2025-06-04 11:27:29,718 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\600.wav
+2025-06-04 11:27:29,718 - INFO - 处理 ID 601 (长度: 115 字符)
+2025-06-04 11:28:24,376 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\601.wav
+2025-06-04 11:28:24,376 - INFO - 处理 ID 602 (长度: 111 字符)
+2025-06-04 11:28:52,707 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\602.wav
+2025-06-04 11:28:52,707 - INFO - 处理 ID 603 (长度: 102 字符)
+2025-06-04 11:29:10,986 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\603.wav
+2025-06-04 11:29:10,986 - INFO - 处理 ID 604 (长度: 111 字符)
+2025-06-04 11:29:40,529 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\604.wav
+2025-06-04 11:29:40,529 - INFO - 处理 ID 605 (长度: 105 字符)
+2025-06-04 11:30:04,482 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\605.wav
+2025-06-04 11:30:04,482 - INFO - 处理 ID 606 (长度: 123 字符)
+2025-06-04 11:30:25,987 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\606.wav
+2025-06-04 11:30:25,987 - INFO - 处理 ID 607 (长度: 113 字符)
+2025-06-04 11:30:56,615 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\607.wav
+2025-06-04 11:30:56,615 - INFO - 处理 ID 608 (长度: 111 字符)
+2025-06-04 11:31:24,528 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\608.wav
+2025-06-04 11:31:24,528 - INFO - 处理 ID 609 (长度: 105 字符)
+2025-06-04 11:31:50,239 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\609.wav
+2025-06-04 11:31:50,240 - INFO - 处理 ID 610 (长度: 110 字符)
+2025-06-04 11:32:17,760 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\610.wav
+2025-06-04 11:32:17,761 - INFO - 处理 ID 611 (长度: 101 字符)
+2025-06-04 11:32:41,883 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\611.wav
+2025-06-04 11:32:41,883 - INFO - 处理 ID 612 (长度: 119 字符)
+2025-06-04 11:33:14,662 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\612.wav
+2025-06-04 11:33:14,662 - INFO - 处理 ID 613 (长度: 107 字符)
+2025-06-04 11:33:42,195 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\613.wav
+2025-06-04 11:33:42,196 - INFO - 处理 ID 614 (长度: 103 字符)
+2025-06-04 11:34:00,435 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\614.wav
+2025-06-04 11:34:00,435 - INFO - 处理 ID 615 (长度: 105 字符)
+2025-06-04 11:34:28,416 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\615.wav
+2025-06-04 11:34:28,416 - INFO - 处理 ID 616 (长度: 111 字符)
+2025-06-04 11:34:48,496 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\616.wav
+2025-06-04 11:34:48,496 - INFO - 处理 ID 617 (长度: 96 字符)
+2025-06-04 11:35:10,978 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\617.wav
+2025-06-04 11:35:10,978 - INFO - 处理 ID 618 (长度: 119 字符)
+2025-06-04 11:35:28,217 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\618.wav
+2025-06-04 11:35:28,217 - INFO - 处理 ID 619 (长度: 98 字符)
+2025-06-04 11:35:50,612 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\619.wav
+2025-06-04 11:35:50,612 - INFO - 处理 ID 620 (长度: 104 字符)
+2025-06-04 11:36:19,629 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\620.wav
+2025-06-04 11:36:19,629 - INFO - 处理 ID 621 (长度: 111 字符)
+2025-06-04 11:36:46,674 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\621.wav
+2025-06-04 11:36:46,674 - INFO - 处理 ID 622 (长度: 115 字符)
+2025-06-04 11:37:17,168 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\622.wav
+2025-06-04 11:37:17,168 - INFO - 处理 ID 623 (长度: 99 字符)
+2025-06-04 11:37:42,534 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\623.wav
+2025-06-04 11:37:42,534 - INFO - 处理 ID 624 (长度: 98 字符)
+2025-06-04 11:38:08,323 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\624.wav
+2025-06-04 11:38:08,323 - INFO - 处理 ID 625 (长度: 112 字符)
+2025-06-04 11:38:39,420 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\625.wav
+2025-06-04 11:38:39,421 - INFO - 处理 ID 626 (长度: 111 字符)
+2025-06-04 11:39:10,459 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\626.wav
+2025-06-04 11:39:10,460 - INFO - 处理 ID 627 (长度: 115 字符)
+2025-06-04 11:39:31,578 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\627.wav
+2025-06-04 11:39:31,578 - INFO - 处理 ID 628 (长度: 108 字符)
+2025-06-04 11:39:52,753 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\628.wav
+2025-06-04 11:39:52,754 - INFO - 处理 ID 629 (长度: 114 字符)
+2025-06-04 11:40:15,283 - INFO - 保存音频到 C:\Users\wx\Desktop\All\demo\Audio_data\629.wav

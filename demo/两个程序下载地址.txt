@@ -1,0 +1,2 @@
+https://huggingface.co/lj1995/VoiceConversionWebUI/blob/main/ffmpeg.exe
+https://huggingface.co/lj1995/VoiceConversionWebUI/blob/main/ffprobe.exe
